@@ -1,0 +1,6068 @@
+id,trial,answer,pred,response
+KIIP_economy_1,0,C,B,B
+KIIP_economy_1,1,C,B,B
+KIIP_economy_1,2,C,B,B
+KIIP_economy_2,0,A,A,A: 79달러
+KIIP_economy_2,1,A,A,A: 79달러
+KIIP_economy_2,2,A,A,A
+KIIP_economy_3,0,C,C,C
+KIIP_economy_3,1,C,C,C
+KIIP_economy_3,2,C,C,C
+KIIP_economy_4,0,D,D,D
+KIIP_economy_4,1,D,D,D
+KIIP_economy_4,2,D,D,D
+KIIP_economy_5,0,C,C,C
+KIIP_economy_5,1,C,C,C
+KIIP_economy_5,2,C,C,C
+KIIP_economy_6,0,B,B,B
+KIIP_economy_6,1,B,B,B
+KIIP_economy_6,2,B,B,B
+KIIP_economy_7,0,B,B,B
+KIIP_economy_7,1,B,B,B
+KIIP_economy_7,2,B,B,B
+KIIP_economy_8,0,A,A,A
+KIIP_economy_8,1,A,A,A
+KIIP_economy_8,2,A,A,A
+KIIP_economy_9,0,C,C,C: 경공업
+KIIP_economy_9,1,C,C,C: 경공업
+KIIP_economy_9,2,C,C,C: 경공업
+KIIP_economy_10,0,C,C,C
+KIIP_economy_10,1,C,C,C
+KIIP_economy_10,2,C,C,C
+KIIP_economy_11,0,D,B,B: 6번째
+KIIP_economy_11,1,D,C,C: 7번째
+KIIP_economy_11,2,D,B,B: 6번째
+KIIP_economy_12,0,A,A,A
+KIIP_economy_12,1,A,A,A
+KIIP_economy_12,2,A,A,A
+KIIP_economy_13,0,C,B,B: 기술의 발달
+KIIP_economy_13,1,C,B,B: 기술의 발달
+KIIP_economy_13,2,C,B,B: 기술의 발달
+KIIP_economy_14,0,C,C,"C: 5,000억 달러"
+KIIP_economy_14,1,C,C,"C: 5,000억 달러"
+KIIP_economy_14,2,C,C,"C: 5,000억 달러"
+KIIP_economy_15,0,D,D,D
+KIIP_economy_15,1,D,D,D
+KIIP_economy_15,2,D,D,D
+KIIP_economy_16,0,A,A,A
+KIIP_economy_16,1,A,A,A
+KIIP_economy_16,2,A,A,A
+KIIP_economy_17,0,A,A,A: 반도체
+KIIP_economy_17,1,A,A,A: 반도체
+KIIP_economy_17,2,A,A,A: 반도체
+KIIP_economy_18,0,C,C,C
+KIIP_economy_18,1,C,C,C
+KIIP_economy_18,2,C,C,C
+KIIP_economy_19,0,A,C,"C: 미국, EU, 일본"
+KIIP_economy_19,1,A,C,"C: 미국, EU, 일본"
+KIIP_economy_19,2,A,C,"C: 미국, EU, 일본"
+KIIP_economy_20,0,B,B,B
+KIIP_economy_20,1,B,B,B
+KIIP_economy_20,2,B,B,B
+KIIP_economy_21,0,B,B,B
+KIIP_economy_21,1,B,B,B
+KIIP_economy_21,2,B,B,B
+KIIP_economy_22,0,C,C,C
+KIIP_economy_22,1,C,C,C
+KIIP_economy_22,2,C,C,C
+KIIP_economy_23,0,C,D,D
+KIIP_economy_23,1,C,C,C: 2009년
+KIIP_economy_23,2,C,C,C: 2009년
+KIIP_economy_24,0,B,B,B: 10개국
+KIIP_economy_24,1,B,B,B: 10개국
+KIIP_economy_24,2,B,B,B: 10개국
+KIIP_economy_25,0,A,A,A
+KIIP_economy_25,1,A,A,A
+KIIP_economy_25,2,A,A,A
+KIIP_economy_26,0,C,D,D: 2010년
+KIIP_economy_26,1,C,D,D
+KIIP_economy_26,2,C,D,D: 2010년
+KIIP_economy_27,0,A,A,A
+KIIP_economy_27,1,A,A,A
+KIIP_economy_27,2,A,A,A
+KIIP_economy_28,0,D,D,D: 상호저축은행
+KIIP_economy_28,1,D,D,D: 상호저축은행
+KIIP_economy_28,2,D,D,D
+KIIP_economy_29,0,A,A,A
+KIIP_economy_29,1,A,A,A
+KIIP_economy_29,2,A,A,A
+KIIP_economy_30,0,A,A,A: 금융 실명제
+KIIP_economy_30,1,A,A,A: 금융 실명제
+KIIP_economy_30,2,A,A,A: 금융 실명제
+KIIP_economy_31,0,A,A,A
+KIIP_economy_31,1,A,A,A
+KIIP_economy_31,2,A,A,A
+KIIP_economy_32,0,A,A,A
+KIIP_economy_32,1,A,A,A
+KIIP_economy_32,2,A,A,A
+KIIP_economy_33,0,A,A,A
+KIIP_economy_33,1,A,A,A
+KIIP_economy_33,2,A,A,A
+KIIP_economy_34,0,A,A,A
+KIIP_economy_34,1,A,A,A
+KIIP_economy_34,2,A,A,A
+KIIP_economy_35,0,A,A,A
+KIIP_economy_35,1,A,A,A
+KIIP_economy_35,2,A,A,A
+KIIP_economy_36,0,C,C,C
+KIIP_economy_36,1,C,C,C
+KIIP_economy_36,2,C,C,C
+KIIP_economy_37,0,B,B,B
+KIIP_economy_37,1,B,B,B
+KIIP_economy_37,2,B,B,B
+KIIP_economy_38,0,A,A,A
+KIIP_economy_38,1,A,A,A
+KIIP_economy_38,2,A,A,A
+KIIP_economy_39,0,A,A,A
+KIIP_economy_39,1,A,A,A
+KIIP_economy_39,2,A,A,A
+KIIP_economy_40,0,C,C,C
+KIIP_economy_40,1,C,C,C
+KIIP_economy_40,2,C,C,C
+KIIP_economy_41,0,C,C,C
+KIIP_economy_41,1,C,C,C
+KIIP_economy_41,2,C,C,C
+KIIP_economy_42,0,A,B,B: 5일장
+KIIP_economy_42,1,A,B,B: 5일장
+KIIP_economy_42,2,A,B,B: 5일장
+KIIP_economy_43,0,B,B,B
+KIIP_economy_43,1,B,B,B
+KIIP_economy_43,2,B,B,B
+KIIP_economy_44,0,A,A,A
+KIIP_economy_44,1,A,A,A
+KIIP_economy_44,2,A,A,A
+KIIP_economy_45,0,A,A,A
+KIIP_economy_45,1,A,A,A
+KIIP_economy_45,2,A,A,A: 소비자의 권리
+KIIP_economy_46,0,B,B,B: 한국소비자원
+KIIP_economy_46,1,B,B,B: 한국소비자원
+KIIP_economy_46,2,B,B,B
+KIIP_economy_47,0,A,A,A
+KIIP_economy_47,1,A,A,A
+KIIP_economy_47,2,A,A,A
+KIIP_economy_48,0,A,A,A
+KIIP_economy_48,1,A,A,A
+KIIP_economy_48,2,A,A,A
+KIIP_economy_49,0,A,A,A
+KIIP_economy_49,1,A,A,A
+KIIP_economy_49,2,A,A,A
+KIIP_economy_50,0,A,A,A: 근로계약서 작성
+KIIP_economy_50,1,A,A,A
+KIIP_economy_50,2,A,A,A: 근로계약서 작성
+KIIP_economy_51,0,B,B,B
+KIIP_economy_51,1,B,B,B
+KIIP_economy_51,2,B,B,B
+KIIP_economy_52,0,D,D,D
+KIIP_economy_52,1,D,D,D
+KIIP_economy_52,2,D,D,D
+KIIP_economy_53,0,B,B,B
+KIIP_economy_53,1,B,B,B
+KIIP_economy_53,2,B,B,B
+KIIP_economy_54,0,B,B,B
+KIIP_economy_54,1,B,B,B
+KIIP_economy_54,2,B,B,B
+KIIP_economy_55,0,B,B,B
+KIIP_economy_55,1,B,B,B
+KIIP_economy_55,2,B,B,B
+KIIP_economy_56,0,A,A,A
+KIIP_economy_56,1,A,A,A
+KIIP_economy_56,2,A,A,A
+KIIP_economy_57,0,B,B,B
+KIIP_economy_57,1,B,B,B
+KIIP_economy_57,2,B,B,B
+Kedu_economy_1,0,C,C,C
+Kedu_economy_1,1,C,C,C
+Kedu_economy_1,2,C,C,C
+Kedu_economy_2,0,D,D,D
+Kedu_economy_2,1,D,D,D
+Kedu_economy_2,2,D,D,D
+CSAT_geography_06_2,0,E,E,E
+CSAT_geography_06_2,1,E,,정답 (Answer): E
+CSAT_geography_06_2,2,E,E,E
+CSAT_geography_07_2,0,B,D,D
+CSAT_geography_07_2,1,B,E,E
+CSAT_geography_07_2,2,B,D,D
+CSAT_geography_07_3,0,E,E,E
+CSAT_geography_07_3,1,E,E,E
+CSAT_geography_07_3,2,E,E,E
+CSAT_geography_07_4,0,B,E,E
+CSAT_geography_07_4,1,B,C,C
+CSAT_geography_07_4,2,B,E,E
+CSAT_geography_07_5,0,B,B,B
+CSAT_geography_07_5,1,B,C,C
+CSAT_geography_07_5,2,B,C,C
+CSAT_geography_07_6,0,E,C,C
+CSAT_geography_07_6,1,E,C,C
+CSAT_geography_07_6,2,E,C,C
+CSAT_geography_09_2,0,D,B,B
+CSAT_geography_09_2,1,D,B,B
+CSAT_geography_09_2,2,D,B,B
+CSAT_geography_09_3,0,B,B,B
+CSAT_geography_09_3,1,B,B,B
+CSAT_geography_09_3,2,B,B,B
+CSAT_geography_09_4,0,D,D,D
+CSAT_geography_09_4,1,D,D,D
+CSAT_geography_09_4,2,D,D,D
+CSAT_geography_09_5,0,D,B,B
+CSAT_geography_09_5,1,D,D,D
+CSAT_geography_09_5,2,D,B,B
+CSAT_geography_10_2,0,A,A,A
+CSAT_geography_10_2,1,A,A,A
+CSAT_geography_10_2,2,A,A,A
+CSAT_geography_10_3,0,B,E,E
+CSAT_geography_10_3,1,B,,정답 (Answer): D
+CSAT_geography_10_3,2,B,E,E
+CSAT_geography_10_4,0,D,D,D
+CSAT_geography_10_4,1,D,D,D
+CSAT_geography_10_4,2,D,D,D
+CSAT_geography_11_2,0,D,B,B
+CSAT_geography_11_2,1,D,B,B
+CSAT_geography_11_2,2,D,B,B
+CSAT_geography_11_3,0,A,E,E
+CSAT_geography_11_3,1,A,E,E
+CSAT_geography_11_3,2,A,E,E
+CSAT_geography_12_2,0,D,D,D
+CSAT_geography_12_2,1,D,D,D
+CSAT_geography_12_2,2,D,D,D
+CSAT_geography_13_2,0,A,C,C
+CSAT_geography_13_2,1,A,C,C
+CSAT_geography_13_2,2,A,C,C
+CSAT_geography_15_2,0,B,D,D
+CSAT_geography_15_2,1,B,D,D
+CSAT_geography_15_2,2,B,D,D
+CSAT_geography_16_2,0,A,A,A
+CSAT_geography_16_2,1,A,A,A
+CSAT_geography_16_2,2,A,A,A
+CSAT_geography_16_3,0,D,C,C
+CSAT_geography_16_3,1,D,C,C
+CSAT_geography_16_3,2,D,C,C
+CSAT_geography_17_2,0,A,B,B
+CSAT_geography_17_2,1,A,B,B
+CSAT_geography_17_2,2,A,B,B
+CSAT_geography_17_3,0,C,B,B
+CSAT_geography_17_3,1,C,D,D
+CSAT_geography_17_3,2,C,D,D
+CSAT_geography_18_2,0,C,E,E
+CSAT_geography_18_2,1,C,E,E
+CSAT_geography_18_2,2,C,E,E
+CSAT_geography_19_2,0,A,B,B
+CSAT_geography_19_2,1,A,B,B
+CSAT_geography_19_2,2,A,B,B
+CSAT_geography_19_3,0,C,C,C
+CSAT_geography_19_3,1,C,C,C
+CSAT_geography_19_3,2,C,C,C
+CSAT_geography_20_2,0,D,D,D
+CSAT_geography_20_2,1,D,D,D
+CSAT_geography_20_2,2,D,D,D
+CSAT_geography_21_2,0,B,B,B
+CSAT_geography_21_2,1,B,B,B
+CSAT_geography_21_2,2,B,B,B
+CSAT_geography_22_2,0,D,,정답은 B: 을 입니다.
+CSAT_geography_22_2,1,D,,"정답은 D: 정 입니다.
+
+설명:
+- (가)는 독도로, 동해에 위치한 섬이며 동도와 서도 및 89개의 부속 도서로 이루어져 있습니다.
+- (나)는 마라도로, 제주도 모술포항에서 남쪽으로 약 11Km 떨어진 섬이며 국토 최남단 표지석이 있습니다.
+- (다)는 이어도로, 최고 지점이 해수면 4.6m 아래에 잠긴 수중 암초이며 2003년에 우리나라의 종합 해양 과학기지가 설립되었습니다.
+- (라)는 울릉도로, 주요 관광지로 해안 경관이 뛰어난 두무진이 있습니다.
+
+갑의 주장은 (나) 마라도가 가장 저위도에 위치한다는 것은 사실이지만, 이는 자료의 내용과 직접적인 관련이 없습니다.
+을의 주장은 (다) 이어도가 천연 보호 구역으로 지정되었다는 것은 자료에 나와 있지 않습니다.
+병의 주장은 (라) 울릉도가 독도보다 우리나라 표준 경선과의 최단 거리가 가까운 것은 사실이 아닙니다.
+무의 주장은 (가) 독도와 (라) 울릉도 간의 직선 거리와 (나) 마라도와 (다) 이어도 간의 직선 거리에 대한 비교는 자료에 나와 있지 않습니다.
+
+정의 주장은 (가) 독도와 (나) 마라도가 영해 설정에 통상 기선을 적용한다는 것은 영해 설정에 관한 일반적인 규칙을 반영한 것으로, 올바른 해석입니다. 따라서 정이 옳은 학생입니다."
+CSAT_geography_22_2,2,D,,정답 (Answer): B
+CSAT_geography_22_3,0,C,C,C
+CSAT_geography_22_3,1,C,C,C
+CSAT_geography_22_3,2,C,C,C
+CSAT_geography_22_4,0,C,C,C
+CSAT_geography_22_4,1,C,C,C
+CSAT_geography_22_4,2,C,C,C
+KIIP_geography_1,0,C,C,C
+KIIP_geography_1,1,C,C,C
+KIIP_geography_1,2,C,C,C
+KIIP_geography_2,0,B,C,C
+KIIP_geography_2,1,B,C,C
+KIIP_geography_2,2,B,C,C
+KIIP_geography_3,0,B,B,B
+KIIP_geography_3,1,B,B,B
+KIIP_geography_3,2,B,B,B
+KIIP_geography_4,0,D,D,D
+KIIP_geography_4,1,D,D,D
+KIIP_geography_4,2,D,D,D
+KIIP_geography_5,0,C,C,C
+KIIP_geography_5,1,C,C,C
+KIIP_geography_5,2,C,C,C
+KIIP_geography_6,0,D,D,D
+KIIP_geography_6,1,D,D,D
+KIIP_geography_6,2,D,D,D: 낙엽
+KIIP_geography_7,0,C,C,C
+KIIP_geography_7,1,C,C,C
+KIIP_geography_7,2,C,C,C
+KIIP_geography_8,0,B,B,B
+KIIP_geography_8,1,B,B,B
+KIIP_geography_8,2,B,B,B
+KIIP_geography_9,0,C,C,C
+KIIP_geography_9,1,C,C,C
+KIIP_geography_9,2,C,C,C
+KIIP_geography_10,0,A,A,A
+KIIP_geography_10,1,A,A,A
+KIIP_geography_10,2,A,A,A
+KIIP_geography_11,0,B,B,B
+KIIP_geography_11,1,B,B,B
+KIIP_geography_11,2,B,B,B
+KIIP_geography_12,0,B,B,B
+KIIP_geography_12,1,B,B,B
+KIIP_geography_12,2,B,B,B
+KIIP_geography_13,0,A,A,A
+KIIP_geography_13,1,A,A,A
+KIIP_geography_13,2,A,A,A
+KIIP_geography_14,0,A,A,A
+KIIP_geography_14,1,A,A,A
+KIIP_geography_14,2,A,A,A
+KIIP_geography_15,0,B,B,B
+KIIP_geography_15,1,B,B,B
+KIIP_geography_15,2,B,B,B
+KIIP_geography_16,0,B,B,B
+KIIP_geography_16,1,B,B,B
+KIIP_geography_16,2,B,B,B
+KIIP_geography_17,0,A,A,A
+KIIP_geography_17,1,A,A,A
+KIIP_geography_17,2,A,A,A
+KIIP_geography_18,0,A,A,A
+KIIP_geography_18,1,A,A,A
+KIIP_geography_18,2,A,A,A
+KIIP_geography_19,0,D,D,D
+KIIP_geography_19,1,D,D,D
+KIIP_geography_19,2,D,D,D
+KIIP_geography_20,0,A,A,A
+KIIP_geography_20,1,A,A,A
+KIIP_geography_20,2,A,A,A
+KIIP_geography_21,0,A,A,A
+KIIP_geography_21,1,A,A,A
+KIIP_geography_21,2,A,A,A
+KIIP_geography_22,0,A,A,A
+KIIP_geography_22,1,A,A,A
+KIIP_geography_22,2,A,A,A
+KIIP_geography_23,0,A,A,A
+KIIP_geography_23,1,A,A,A
+KIIP_geography_23,2,A,A,A
+KIIP_geography_24,0,B,B,B
+KIIP_geography_24,1,B,B,B
+KIIP_geography_24,2,B,B,B
+KIIP_geography_25,0,C,C,C
+KIIP_geography_25,1,C,C,C
+KIIP_geography_25,2,C,C,C
+KIIP_geography_26,0,D,D,D
+KIIP_geography_26,1,D,D,D: 1014만 명
+KIIP_geography_26,2,D,D,D: 1014만 명
+KIIP_geography_27,0,A,B,"B: 동대문 시장, 가락시장"
+KIIP_geography_27,1,A,B,"B: 동대문 시장, 가락시장"
+KIIP_geography_27,2,A,B,B
+KIIP_geography_28,0,D,D,D
+KIIP_geography_28,1,D,D,D
+KIIP_geography_28,2,D,D,D
+KIIP_geography_29,0,A,A,A
+KIIP_geography_29,1,A,A,A
+KIIP_geography_29,2,A,A,A
+KIIP_geography_30,0,D,D,D
+KIIP_geography_30,1,D,D,D
+KIIP_geography_30,2,D,D,D
+KIIP_geography_31,0,A,A,A
+KIIP_geography_31,1,A,A,A
+KIIP_geography_31,2,A,A,A
+KIIP_geography_32,0,A,A,A
+KIIP_geography_32,1,A,A,A
+KIIP_geography_32,2,A,A,A
+KIIP_geography_33,0,A,A,A
+KIIP_geography_33,1,A,A,A
+KIIP_geography_33,2,A,A,A
+KIIP_geography_34,0,A,C,C
+KIIP_geography_34,1,A,A,A
+KIIP_geography_34,2,A,C,C
+KIIP_geography_35,0,C,C,C
+KIIP_geography_35,1,C,C,C
+KIIP_geography_35,2,C,C,C
+KIIP_geography_36,0,C,C,C
+KIIP_geography_36,1,C,C,C
+KIIP_geography_36,2,C,C,C
+KIIP_geography_37,0,D,D,D
+KIIP_geography_37,1,D,D,D
+KIIP_geography_37,2,D,D,D
+KIIP_geography_38,0,B,B,B
+KIIP_geography_38,1,B,B,B
+KIIP_geography_38,2,B,B,B
+KIIP_geography_39,0,B,B,B
+KIIP_geography_39,1,B,B,B
+KIIP_geography_39,2,B,B,B
+KIIP_geography_40,0,B,B,B
+KIIP_geography_40,1,B,B,B
+KIIP_geography_40,2,B,B,B
+KIIP_geography_41,0,B,B,B
+KIIP_geography_41,1,B,B,B
+KIIP_geography_41,2,B,B,B
+KIIP_geography_42,0,B,B,B
+KIIP_geography_42,1,B,B,B
+KIIP_geography_42,2,B,B,B
+KIIP_geography_43,0,A,A,A
+KIIP_geography_43,1,A,A,A
+KIIP_geography_43,2,A,A,A
+KIIP_geography_44,0,A,A,A
+KIIP_geography_44,1,A,A,A
+KIIP_geography_44,2,A,A,A
+KIIP_geography_45,0,A,A,A
+KIIP_geography_45,1,A,A,A
+KIIP_geography_45,2,A,A,A
+KIIP_geography_46,0,A,A,A: 세계과학엑스포
+KIIP_geography_46,1,A,A,A
+KIIP_geography_46,2,A,A,A
+KIIP_geography_47,0,C,C,C
+KIIP_geography_47,1,C,C,C
+KIIP_geography_47,2,C,C,C
+KIIP_geography_48,0,C,C,C
+KIIP_geography_48,1,C,C,C
+KIIP_geography_48,2,C,C,C
+KIIP_geography_49,0,C,C,C
+KIIP_geography_49,1,C,C,C
+KIIP_geography_49,2,C,C,C
+KIIP_geography_50,0,A,A,A: 전라남도
+KIIP_geography_50,1,A,A,A: 전라남도
+KIIP_geography_50,2,A,A,A: 전라남도
+KIIP_geography_51,0,B,B,B
+KIIP_geography_51,1,B,B,B
+KIIP_geography_51,2,B,B,B
+KIIP_geography_52,0,A,A,"A: 배, 포도, 사과"
+KIIP_geography_52,1,A,A,"A: 배, 포도, 사과"
+KIIP_geography_52,2,A,A,"A: 배, 포도, 사과"
+KIIP_geography_53,0,C,C,C
+KIIP_geography_53,1,C,C,C
+KIIP_geography_53,2,C,C,C
+KIIP_geography_54,0,B,B,B
+KIIP_geography_54,1,B,B,B: 과학 산업단지
+KIIP_geography_54,2,B,B,B
+KIIP_geography_55,0,D,D,D
+KIIP_geography_55,1,D,D,D
+KIIP_geography_55,2,D,D,D
+KIIP_geography_56,0,B,B,B
+KIIP_geography_56,1,B,B,B
+KIIP_geography_56,2,B,B,B
+KIIP_geography_57,0,B,B,B
+KIIP_geography_57,1,B,B,B
+KIIP_geography_57,2,B,B,B
+KIIP_geography_58,0,D,C,C
+KIIP_geography_58,1,D,C,C
+KIIP_geography_58,2,D,C,C
+KIIP_geography_59,0,A,A,A
+KIIP_geography_59,1,A,A,A
+KIIP_geography_59,2,A,A,A
+KIIP_geography_60,0,A,A,A
+KIIP_geography_60,1,A,A,A
+KIIP_geography_60,2,A,A,A
+KIIP_geography_61,0,A,A,A
+KIIP_geography_61,1,A,A,A
+KIIP_geography_61,2,A,A,A
+KIIP_geography_62,0,C,C,C
+KIIP_geography_62,1,C,C,C
+KIIP_geography_62,2,C,C,C
+KIIP_geography_63,0,D,D,D
+KIIP_geography_63,1,D,D,D
+KIIP_geography_63,2,D,D,D
+KIIP_geography_64,0,A,C,C
+KIIP_geography_64,1,A,C,C
+KIIP_geography_64,2,A,C,C
+KIIP_geography_65,0,B,B,B
+KIIP_geography_65,1,B,B,B: 세계육상선수권대회
+KIIP_geography_65,2,B,B,B
+KIIP_geography_66,0,B,B,B
+KIIP_geography_66,1,B,B,B
+KIIP_geography_66,2,B,B,B
+KIIP_geography_67,0,D,D,D
+KIIP_geography_67,1,D,D,D
+KIIP_geography_67,2,D,D,D
+KIIP_geography_68,0,C,C,C
+KIIP_geography_68,1,C,C,C
+KIIP_geography_68,2,C,C,C
+KIIP_geography_69,0,A,A,A
+KIIP_geography_69,1,A,A,A
+KIIP_geography_69,2,A,A,A
+KIIP_geography_70,0,D,D,D: 남산
+KIIP_geography_70,1,D,D,D: 남산
+KIIP_geography_70,2,D,D,D: 남산
+KIIP_geography_71,0,C,C,C
+KIIP_geography_71,1,C,C,C
+KIIP_geography_71,2,C,C,C
+KIIP_geography_72,0,A,A,A
+KIIP_geography_72,1,A,A,A
+KIIP_geography_72,2,A,A,A
+KIIP_geography_73,0,A,A,A: 자동차와 제철
+KIIP_geography_73,1,A,A,A
+KIIP_geography_73,2,A,A,A
+KIIP_geography_74,0,D,B,B
+KIIP_geography_74,1,D,B,B
+KIIP_geography_74,2,D,B,B
+KIIP_geography_75,0,C,C,C
+KIIP_geography_75,1,C,C,C
+KIIP_geography_75,2,C,C,C
+KIIP_geography_76,0,D,D,D
+KIIP_geography_76,1,D,D,D
+KIIP_geography_76,2,D,D,D
+KIIP_geography_77,0,A,A,A
+KIIP_geography_77,1,A,A,A
+KIIP_geography_77,2,A,A,A
+KIIP_geography_78,0,A,D,D
+KIIP_geography_78,1,A,D,D
+KIIP_geography_78,2,A,D,D
+KIIP_geography_79,0,C,C,C
+KIIP_geography_79,1,C,C,C
+KIIP_geography_79,2,C,C,C
+KIIP_geography_80,0,A,A,A
+KIIP_geography_80,1,A,A,A
+KIIP_geography_80,2,A,A,A
+KIIP_geography_81,0,C,C,C
+KIIP_geography_81,1,C,C,C
+KIIP_geography_81,2,C,C,C
+KIIP_geography_82,0,C,C,C
+KIIP_geography_82,1,C,C,C
+KIIP_geography_82,2,C,C,C
+KIIP_geography_83,0,C,C,C
+KIIP_geography_83,1,C,C,C
+KIIP_geography_83,2,C,C,C
+KIIP_geography_84,0,D,D,D
+KIIP_geography_84,1,D,D,D
+KIIP_geography_84,2,D,D,D
+KIIP_geography_85,0,A,A,A
+KIIP_geography_85,1,A,A,A
+KIIP_geography_85,2,A,A,A
+KIIP_geography_86,0,B,B,B
+KIIP_geography_86,1,B,B,B
+KIIP_geography_86,2,B,B,B
+KIIP_geography_87,0,A,A,A
+KIIP_geography_87,1,A,A,A
+KIIP_geography_87,2,A,A,A
+KIIP_geography_88,0,A,A,A
+KIIP_geography_88,1,A,A,A
+KIIP_geography_88,2,A,A,A
+KIIP_geography_89,0,A,A,A
+KIIP_geography_89,1,A,A,A
+KIIP_geography_89,2,A,A,A
+KIIP_geography_90,0,A,A,A: 오징어 축제
+KIIP_geography_90,1,A,A,A: 오징어 축제
+KIIP_geography_90,2,A,A,A: 오징어 축제
+KIIP_geography_91,0,A,A,A
+KIIP_geography_91,1,A,A,A
+KIIP_geography_91,2,A,A,A
+KIIP_geography_92,0,C,C,C
+KIIP_geography_92,1,C,C,C
+KIIP_geography_92,2,C,C,C
+Kedu_geography_1,0,B,B,B
+Kedu_geography_1,1,B,B,B
+Kedu_geography_1,2,B,B,B
+Kedu_geography_2,0,C,C,C
+Kedu_geography_2,1,C,C,C
+Kedu_geography_2,2,C,C,C
+Kedu_geography_3,0,C,C,C
+Kedu_geography_3,1,C,C,C
+Kedu_geography_3,2,C,C,C: 전주 - 별신굿 탈놀이
+Kedu_geography_4,0,C,C,C
+Kedu_geography_4,1,C,C,C
+Kedu_geography_4,2,C,C,C
+Kedu_geography_5,0,C,D,D
+Kedu_geography_5,1,C,D,D
+Kedu_geography_5,2,C,D,D
+Kedu_geography_6,0,D,C,C
+Kedu_geography_6,1,D,C,C
+Kedu_geography_6,2,D,C,C
+Kedu_geography_7,0,A,A,A
+Kedu_geography_7,1,A,A,A
+Kedu_geography_7,2,A,A,A
+Kedu_geography_8,0,C,C,C
+Kedu_geography_8,1,C,C,C
+Kedu_geography_8,2,C,C,C
+Kedu_geography_9,0,B,B,B
+Kedu_geography_9,1,B,B,B
+Kedu_geography_9,2,B,B,B
+KHB_66_1,0,D,D,D: 지배층의 무덤으로 고인돌을 만들었다.
+KHB_66_1,1,D,D,D
+KHB_66_1,2,D,D,D
+KHB_66_2,0,A,B,B: 부여
+KHB_66_2,1,A,B,B: 부여
+KHB_66_2,2,A,B,B
+KHB_66_3,0,C,B,B: 22담로를 설치하다
+KHB_66_3,1,C,,정답 (Answer): A: 사비로 천도하다
+KHB_66_3,2,C,B,B: 22담로를 설치하다
+KHB_66_4,0,B,B,B
+KHB_66_4,1,B,B,B
+KHB_66_4,2,B,B,B
+KHB_66_5,0,A,A,A
+KHB_66_5,1,A,A,A
+KHB_66_5,2,A,A,A
+KHB_66_6,0,A,A,A: 분황사 모전 석탑
+KHB_66_6,1,A,A,A: 분황사 모전 석탑
+KHB_66_6,2,A,A,A: 분황사 모전 석탑
+KHB_66_7,0,D,D,D
+KHB_66_7,1,D,D,D
+KHB_66_7,2,D,D,D
+KHB_66_8,0,D,D,D
+KHB_66_8,1,D,D,D
+KHB_66_8,2,D,D,D
+KHB_66_9,0,A,,정답 (Answer): B: 금관총 금관
+KHB_66_9,1,A,C,C: 금동 대향로
+KHB_66_9,2,A,,정답 (Answer): B: 금관총 금관
+KHB_66_10,0,D,,정답: C
+KHB_66_10,1,D,,정답: B
+KHB_66_10,2,D,,정답: B
+KHB_66_11,0,B,B,B: 윤관이 별무반 설치를 건의하였다.
+KHB_66_11,1,B,B,B: 윤관이 별무반 설치를 건의하였다.
+KHB_66_11,2,B,B,B: 윤관이 별무반 설치를 건의하였다.
+KHB_66_12,0,D,D,D: 해동통보
+KHB_66_12,1,D,D,D: 해동통보
+KHB_66_12,2,D,D,D: 해동통보
+KHB_66_13,0,C,B,B
+KHB_66_13,1,C,B,B
+KHB_66_13,2,C,B,B: 팔만대장경판
+KHB_66_14,0,A,C,C
+KHB_66_14,1,A,C,C
+KHB_66_14,2,A,C,C
+KHB_66_15,0,C,B,B
+KHB_66_15,1,C,B,B
+KHB_66_15,2,C,B,B
+KHB_66_16,0,C,,정답 (Answer): B
+KHB_66_16,1,C,,정답 (Answer): B
+KHB_66_16,2,C,B,B
+KHB_66_17,0,B,D,D
+KHB_66_17,1,B,D,D
+KHB_66_17,2,B,D,D
+KHB_66_18,0,A,A,A: 태종
+KHB_66_18,1,A,A,A: 태종
+KHB_66_18,2,A,A,A: 태종
+KHB_66_19,0,B,B,B: 대동법
+KHB_66_19,1,B,B,B: 대동법
+KHB_66_19,2,B,B,B: 대동법
+KHB_66_20,0,B,D,D
+KHB_66_20,1,B,D,D
+KHB_66_20,2,B,D,D
+KHB_66_21,0,D,,정답 (Answer): B
+KHB_66_21,1,D,,정답 (Answer): B
+KHB_66_21,2,D,,정답 (Answer): B
+KHB_66_22,0,B,C,C: 병인박해
+KHB_66_22,1,B,C,C
+KHB_66_22,2,B,C,C
+KHB_66_23,0,D,C,C: 인왕제색도
+KHB_66_23,1,D,C,C: 인왕제색도
+KHB_66_23,2,D,C,C: 인왕제색도
+KHB_66_24,0,C,C,C
+KHB_66_24,1,C,C,C
+KHB_66_24,2,C,C,C
+KHB_66_25,0,C,D,D: 훈민정음을 창제하였다.
+KHB_66_25,1,C,D,D
+KHB_66_25,2,C,D,D
+KHB_66_26,0,A,C,C
+KHB_66_26,1,A,C,C
+KHB_66_26,2,A,C,C
+KHB_66_27,0,C,A,A: 운요호 사건
+KHB_66_27,1,C,A,A: 운요호 사건
+KHB_66_27,2,C,A,A: 운요호 사건
+KHB_66_28,0,C,C,C: 임오군란
+KHB_66_28,1,C,C,C: 임오군란
+KHB_66_28,2,C,C,C: 임오군란
+KHB_66_29,0,B,B,B
+KHB_66_29,1,B,B,B
+KHB_66_29,2,B,B,B
+KHB_66_30,0,B,C,C
+KHB_66_30,1,B,C,C
+KHB_66_30,2,B,C,C: 산미 증식 계획을 실시하였다.
+KHB_66_31,0,D,,정답 (Answer): C: 신익희
+KHB_66_31,1,D,D,D: 양기탁
+KHB_66_31,2,D,,정답 (Answer): C: 신익희
+KHB_66_32,0,C,C,C: 경부선 철도 개통식에 참석하는 관리
+KHB_66_32,1,C,C,C: 경부선 철도 개통식에 참석하는 관리
+KHB_66_32,2,C,C,C: 경부선 철도 개통식에 참석하는 관리
+KHB_66_33,0,B,B,B: 청산리 전투
+KHB_66_33,1,B,B,B: 청산리 전투
+KHB_66_33,2,B,B,B: 청산리 전투
+KHB_66_34,0,D,A,A
+KHB_66_34,1,D,B,B
+KHB_66_34,2,D,B,B
+KHB_66_35,0,A,A,A
+KHB_66_35,1,A,A,A
+KHB_66_35,2,A,A,A
+KHB_66_36,0,A,D,D
+KHB_66_36,1,A,D,D
+KHB_66_36,2,A,D,D: 군국기무처가 설치되었다.
+KHB_66_37,0,D,D,D
+KHB_66_37,1,D,D,D
+KHB_66_37,2,D,D,D
+KHB_66_38,0,A,A,A: 근우회
+KHB_66_38,1,A,A,A: 근우회
+KHB_66_38,2,A,A,A: 근우회
+KHB_66_39,0,C,C,C
+KHB_66_39,1,C,C,C
+KHB_66_39,2,C,C,C
+KHB_66_40,0,C,,정답 (Answer): C
+KHB_66_40,1,C,,정답 (Answer): C
+KHB_66_40,2,C,,정답 (Answer): C
+KHB_66_41,0,D,B,B: 발췌 개헌안 통과
+KHB_66_41,1,D,B,B: 발췌 개헌안 통과
+KHB_66_41,2,D,B,B: 발췌 개헌안 통과
+KHB_66_42,0,B,B,B
+KHB_66_42,1,B,B,B
+KHB_66_42,2,B,B,B
+KHB_66_43,0,C,C,C: 6• 15 남북 공동 선언을 발표하였다.
+KHB_66_43,1,C,C,C: 6• 15 남북 공동 선언을 발표하였다.
+KHB_66_43,2,C,C,C: 6• 15 남북 공동 선언을 발표하였다.
+KHB_66_44,0,D,D,D
+KHB_66_44,1,D,D,D
+KHB_66_44,2,D,D,D
+KHB_66_45,0,A,A,A
+KHB_66_45,1,A,A,A
+KHB_66_45,2,A,A,A
+KHB_66_47,0,A,C,C
+KHB_66_47,1,A,A,A: (원효) - 십문화쟁론을 저술함.
+KHB_66_47,2,A,C,C
+KHB_66_48,0,D,D,D: (다) - (나) - (가)
+KHB_66_48,1,D,D,D: (다) - (나) - (가)
+KHB_66_48,2,D,D,D: (다) - (나) - (가)
+Kedu_history_1,0,D,A,A
+Kedu_history_1,1,D,A,A
+Kedu_history_1,2,D,A,A
+Kedu_history_2,0,C,D,D
+Kedu_history_2,1,C,D,D
+Kedu_history_2,2,C,D,D
+Kedu_history_3,0,D,,정답 (Answer): D
+Kedu_history_3,1,D,D,D
+Kedu_history_3,2,D,D,D
+Kedu_history_4,0,B,C,C: 한식(寒食)
+Kedu_history_4,1,B,C,C
+Kedu_history_4,2,B,C,C: 한식(寒食)
+Kedu_history_5,0,B,B,B
+Kedu_history_5,1,B,B,B
+Kedu_history_5,2,B,B,B
+Kedu_history_6,0,D,C,C: 황성신문
+Kedu_history_6,1,D,D,D: 대한매일신보
+Kedu_history_6,2,D,C,C: 황성신문
+Kedu_history_7,0,A,B,B: 육영공원
+Kedu_history_7,1,A,B,B: 육영공원
+Kedu_history_7,2,A,B,B: 육영공원
+Kedu_history_8,0,C,C,C: 구지가(龜旨歌)
+Kedu_history_8,1,C,C,C: 구지가(龜旨歌)
+Kedu_history_8,2,C,C,C
+Kedu_history_9,0,B,C,C
+Kedu_history_9,1,B,C,C
+Kedu_history_9,2,B,A,A
+Kedu_history_10,0,B,C,C
+Kedu_history_10,1,B,C,C
+Kedu_history_10,2,B,C,C
+Kedu_history_11,0,A,C,C
+Kedu_history_11,1,A,C,C
+Kedu_history_11,2,A,C,C
+Kedu_history_12,0,A,A,A
+Kedu_history_12,1,A,A,A
+Kedu_history_12,2,A,A,A
+Kedu_history_13,0,D,C,C
+Kedu_history_13,1,D,C,C: 수운잡방
+Kedu_history_13,2,D,C,C: 수운잡방
+Kedu_history_14,0,B,B,B
+Kedu_history_14,1,B,B,B
+Kedu_history_14,2,B,B,B
+Kedu_history_15,0,A,B,B
+Kedu_history_15,1,A,B,B
+Kedu_history_15,2,A,B,B
+Kedu_history_16,0,B,B,B: 기미독립선언문
+Kedu_history_16,1,B,B,B: 기미독립선언문
+Kedu_history_16,2,B,B,B: 기미독립선언문
+Kedu_history_17,0,D,D,D
+Kedu_history_17,1,D,D,D
+Kedu_history_17,2,D,D,D
+Kedu_history_18,0,A,A,A
+Kedu_history_18,1,A,A,A
+Kedu_history_18,2,A,A,A
+Kedu_history_19,0,A,,정답 (Answer): B
+Kedu_history_19,1,A,B,B
+Kedu_history_19,2,A,,정답 (Answer): B
+Kedu_history_20,0,B,A,A: 무정
+Kedu_history_20,1,B,A,A: 무정
+Kedu_history_20,2,B,A,A: 무정
+Kedu_history_21,0,B,B,B
+Kedu_history_21,1,B,B,B
+Kedu_history_21,2,B,B,B
+Kedu_history_22,0,D,D,D
+Kedu_history_22,1,D,D,D: 규방(閨房)
+Kedu_history_22,2,D,D,D
+Kedu_history_23,0,B,A,A: 직지심체요절
+Kedu_history_23,1,B,A,A: 직지심체요절
+Kedu_history_23,2,B,A,A
+Kedu_history_24,0,B,D,D
+Kedu_history_24,1,B,D,D
+Kedu_history_24,2,B,D,D
+Kedu_history_25,0,C,B,B
+Kedu_history_25,1,C,B,B
+Kedu_history_25,2,C,B,B
+Kedu_history_26,0,C,C,C
+Kedu_history_26,1,C,C,C
+Kedu_history_26,2,C,C,C
+Kedu_history_27,0,D,D,D
+Kedu_history_27,1,D,D,D
+Kedu_history_27,2,D,D,D
+Kedu_history_28,0,B,C,C
+Kedu_history_28,1,B,C,C
+Kedu_history_28,2,B,C,C
+Kedu_history_29,0,C,C,C: 조선상고사
+Kedu_history_29,1,C,C,C: 조선상고사
+Kedu_history_29,2,C,C,C: 조선상고사
+Kedu_history_30,0,B,B,B: 청산별곡
+Kedu_history_30,1,B,B,B: 청산별곡
+Kedu_history_30,2,B,B,B: 청산별곡
+Kedu_history_31,0,B,D,D
+Kedu_history_31,1,B,D,D
+Kedu_history_31,2,B,D,D
+Kedu_history_32,0,C,C,C: 후추
+Kedu_history_32,1,C,C,C: 후추
+Kedu_history_32,2,C,C,C: 후추
+Kedu_history_33,0,D,D,D
+Kedu_history_33,1,D,D,D
+Kedu_history_33,2,D,D,D
+Kedu_history_34,0,C,A,A
+Kedu_history_34,1,C,A,A
+Kedu_history_34,2,C,A,A
+Kedu_history_35,0,A,A,A
+Kedu_history_35,1,A,A,A
+Kedu_history_35,2,A,A,A
+Kedu_history_36,0,C,C,C
+Kedu_history_36,1,C,C,C
+Kedu_history_36,2,C,C,C
+Kedu_history_37,0,B,C,C
+Kedu_history_37,1,B,C,C
+Kedu_history_37,2,B,C,C
+Kedu_history_38,0,C,C,C: ≪흠흠신서≫
+Kedu_history_38,1,C,C,C: ≪흠흠신서≫
+Kedu_history_38,2,C,C,C: ≪흠흠신서≫
+Kedu_history_39,0,C,C,C
+Kedu_history_39,1,C,C,C
+Kedu_history_39,2,C,C,C
+Kedu_history_40,0,A,C,C
+Kedu_history_40,1,A,C,C
+Kedu_history_40,2,A,C,C
+Kedu_history_41,0,C,C,C
+Kedu_history_41,1,C,C,C
+Kedu_history_41,2,C,C,C
+Kedu_history_42,0,A,A,A: 김정희
+Kedu_history_42,1,A,A,A: 김정희
+Kedu_history_42,2,A,A,A: 김정희
+Kedu_history_43,0,B,B,B
+Kedu_history_43,1,B,B,B
+Kedu_history_43,2,B,B,B
+Kedu_history_44,0,B,B,B: 가례도감의궤(嘉禮都監儀軌)
+Kedu_history_44,1,B,B,B: 가례도감의궤(嘉禮都監儀軌)
+Kedu_history_44,2,B,B,B: 가례도감의궤(嘉禮都監儀軌)
+PSE_history_13_1,0,B,D,D
+PSE_history_13_1,1,B,D,D
+PSE_history_13_1,2,B,D,D
+PSE_history_13_2,0,D,C,C
+PSE_history_13_2,1,D,C,C
+PSE_history_13_2,2,D,C,C
+PSE_history_13_3,0,B,C,C: 부민단
+PSE_history_13_3,1,B,C,C: 부민단
+PSE_history_13_3,2,B,C,C: 부민단
+PSE_history_13_4,0,A,C,C: 독립군이 봉오동.청산리 전투에서 일본군을 크게 무찔렀다.
+PSE_history_13_4,1,A,C,C: 독립군이 봉오동.청산리 전투에서 일본군을 크게 무찔렀다.
+PSE_history_13_4,2,A,C,C: 독립군이 봉오동.청산리 전투에서 일본군을 크게 무찔렀다.
+PSE_history_13_5,0,A,C,C
+PSE_history_13_5,1,A,A,A
+PSE_history_13_5,2,A,A,A
+PSE_history_13_6,0,B,C,C
+PSE_history_13_6,1,B,C,C: ㄹ→ㄱ→ㄴ→ㄷ
+PSE_history_13_6,2,B,C,C
+PSE_history_13_7,0,D,D,D
+PSE_history_13_7,1,D,D,D
+PSE_history_13_7,2,D,D,D
+PSE_history_13_8,0,D,D,D
+PSE_history_13_8,1,D,D,D
+PSE_history_13_8,2,D,D,D
+PSE_history_13_9,0,C,C,C: 의정부 서사제의 시행
+PSE_history_13_9,1,C,C,C
+PSE_history_13_9,2,C,C,C: 의정부 서사제의 시행
+PSE_history_13_10,0,A,,정답 (Answer): B
+PSE_history_13_10,1,A,B,B
+PSE_history_13_10,2,A,,정답 (Answer): B
+PSE_history_13_11,0,B,B,B
+PSE_history_13_11,1,B,B,B
+PSE_history_13_11,2,B,B,B
+PSE_history_13_12,0,D,D,D
+PSE_history_13_12,1,D,B,B
+PSE_history_13_12,2,D,B,B
+PSE_history_13_13,0,C,C,C
+PSE_history_13_13,1,C,C,C
+PSE_history_13_13,2,C,C,C
+PSE_history_13_14,0,C,C,C
+PSE_history_13_14,1,C,C,C
+PSE_history_13_14,2,C,C,C
+PSE_history_13_15,0,A,C,C
+PSE_history_13_15,1,A,C,C
+PSE_history_13_15,2,A,C,C
+PSE_history_13_16,0,D,C,C
+PSE_history_13_16,1,D,C,C
+PSE_history_13_16,2,D,C,C
+PSE_history_13_17,0,C,B,B: 전통적 미풍양속을 계승하면서 삼강오륜을 중심으로 한 유교
+PSE_history_13_17,1,C,B,B: 전통적 미풍양속을 계승하면서 삼강오륜을 중심으로 한 유교
+PSE_history_13_17,2,C,B,B: 전통적 미풍양속을 계승하면서 삼강오륜을 중심으로 한 유교
+PSE_history_13_18,0,B,,정답 (Answer): B
+PSE_history_13_18,1,B,,정답 (Answer): B
+PSE_history_13_18,2,B,,정답 (Answer): B
+PSE_history_13_19,0,C,C,C
+PSE_history_13_19,1,C,C,C
+PSE_history_13_19,2,C,C,C
+PSE_history_14_1,0,C,A,A: 광개토왕비
+PSE_history_14_1,1,C,A,A: 광개토왕비
+PSE_history_14_1,2,C,A,A: 광개토왕비
+PSE_history_14_2,0,B,B,B
+PSE_history_14_2,1,B,B,B
+PSE_history_14_2,2,B,B,B
+PSE_history_14_3,0,B,C,C
+PSE_history_14_3,1,B,C,C
+PSE_history_14_3,2,B,C,C
+PSE_history_14_4,0,D,D,D
+PSE_history_14_4,1,D,C,C
+PSE_history_14_4,2,D,C,C
+PSE_history_14_5,0,D,D,D
+PSE_history_14_5,1,D,B,B
+PSE_history_14_5,2,D,A,A
+PSE_history_14_6,0,B,D,D
+PSE_history_14_6,1,B,D,D
+PSE_history_14_6,2,B,D,D
+PSE_history_14_7,0,B,A,A
+PSE_history_14_7,1,B,A,A
+PSE_history_14_7,2,B,A,A
+PSE_history_14_8,0,D,C,C
+PSE_history_14_8,1,D,D,D
+PSE_history_14_8,2,D,D,D
+PSE_history_14_9,0,A,A,A
+PSE_history_14_9,1,A,A,A
+PSE_history_14_9,2,A,A,A
+PSE_history_14_10,0,D,A,A
+PSE_history_14_10,1,D,A,A
+PSE_history_14_10,2,D,A,A
+PSE_history_14_11,0,C,D,D
+PSE_history_14_11,1,C,D,D
+PSE_history_14_11,2,C,D,D
+PSE_history_14_12,0,B,,정답 (Answer): B
+PSE_history_14_12,1,B,,정답 (Answer): B
+PSE_history_14_12,2,B,,정답 (Answer): B
+PSE_history_14_13,0,A,D,D
+PSE_history_14_13,1,A,D,D
+PSE_history_14_13,2,A,D,D
+PSE_history_14_14,0,A,D,D
+PSE_history_14_14,1,A,D,D
+PSE_history_14_14,2,A,D,D
+PSE_history_14_15,0,B,C,C: 미국 상선 제너럴 셔먼 호가 격침되었다.
+PSE_history_14_15,1,B,B,B: 공노비 6만 6천여 명을 양인으로 해방시켰다.
+PSE_history_14_15,2,B,B,B
+PSE_history_14_16,0,A,D,D
+PSE_history_14_16,1,A,C,C
+PSE_history_14_16,2,A,D,D
+PSE_history_14_17,0,C,A,A
+PSE_history_14_17,1,C,A,A
+PSE_history_14_17,2,C,A,A
+PSE_history_14_18,0,D,D,D
+PSE_history_14_18,1,D,A,A
+PSE_history_14_18,2,D,D,D
+PSE_history_14_19,0,D,D,D
+PSE_history_14_19,1,D,D,D
+PSE_history_14_19,2,D,D,D
+PSE_history_15_1,0,D,A,A
+PSE_history_15_1,1,D,A,A
+PSE_history_15_1,2,D,D,D
+PSE_history_15_2,0,D,D,D
+PSE_history_15_2,1,D,D,D
+PSE_history_15_2,2,D,D,D
+PSE_history_15_3,0,B,B,B
+PSE_history_15_3,1,B,B,B
+PSE_history_15_3,2,B,B,B
+PSE_history_15_4,0,B,B,B
+PSE_history_15_4,1,B,B,B
+PSE_history_15_4,2,B,B,B
+PSE_history_15_5,0,C,B,B
+PSE_history_15_5,1,C,B,B
+PSE_history_15_5,2,C,B,B
+PSE_history_15_6,0,C,D,D
+PSE_history_15_6,1,C,D,D
+PSE_history_15_6,2,C,D,D
+PSE_history_15_7,0,C,B,B: 5도 양계의 지방 제도를 확립하였다.
+PSE_history_15_7,1,C,B,B: 5도 양계의 지방 제도를 확립하였다.
+PSE_history_15_7,2,C,B,B
+PSE_history_15_8,0,A,D,D
+PSE_history_15_8,1,A,D,D
+PSE_history_15_8,2,A,D,D
+PSE_history_15_9,0,C,D,D
+PSE_history_15_9,1,C,D,D
+PSE_history_15_9,2,C,D,D
+PSE_history_15_10,0,C,D,D
+PSE_history_15_10,1,C,D,D
+PSE_history_15_10,2,C,D,D
+PSE_history_15_11,0,A,A,A
+PSE_history_15_11,1,A,A,A
+PSE_history_15_11,2,A,A,A
+PSE_history_15_12,0,D,D,D
+PSE_history_15_12,1,D,D,D
+PSE_history_15_12,2,D,D,D
+PSE_history_15_13,0,D,B,B
+PSE_history_15_13,1,D,C,C
+PSE_history_15_13,2,D,B,B
+PSE_history_15_14,0,B,A,A
+PSE_history_15_14,1,B,A,A
+PSE_history_15_14,2,B,A,A
+PSE_history_15_15,0,B,B,B
+PSE_history_15_15,1,B,B,B
+PSE_history_15_15,2,B,B,B
+PSE_history_15_16,0,D,D,D
+PSE_history_15_16,1,D,D,D
+PSE_history_15_16,2,D,D,D
+PSE_history_15_17,0,A,B,B
+PSE_history_15_17,1,A,B,B
+PSE_history_15_17,2,A,B,B
+PSE_history_15_18,0,C,D,D
+PSE_history_15_18,1,C,D,D
+PSE_history_15_18,2,C,D,D
+PSE_history_16_1,0,C,C,C
+PSE_history_16_1,1,C,C,C
+PSE_history_16_1,2,C,C,C
+PSE_history_16_2,0,D,D,D
+PSE_history_16_2,1,D,D,D
+PSE_history_16_2,2,D,D,D
+PSE_history_16_3,0,C,A,A
+PSE_history_16_3,1,C,A,A
+PSE_history_16_3,2,C,A,A
+PSE_history_16_4,0,C,B,B
+PSE_history_16_4,1,C,B,B: 서울에서 건국준비위원회가 조직되었다.
+PSE_history_16_4,2,C,D,D
+PSE_history_16_5,0,B,D,D
+PSE_history_16_5,1,B,D,D
+PSE_history_16_5,2,B,D,D
+PSE_history_16_6,0,C,A,A
+PSE_history_16_6,1,C,A,A
+PSE_history_16_6,2,C,A,A
+PSE_history_16_7,0,D,D,D
+PSE_history_16_7,1,D,D,D
+PSE_history_16_7,2,D,D,D
+PSE_history_16_8,0,A,D,D
+PSE_history_16_8,1,A,D,D
+PSE_history_16_8,2,A,D,D
+PSE_history_16_9,0,B,D,D
+PSE_history_16_9,1,B,D,D
+PSE_history_16_9,2,B,D,D
+PSE_history_16_10,0,C,C,C
+PSE_history_16_10,1,C,C,C
+PSE_history_16_10,2,C,C,C
+PSE_history_16_11,0,A,D,D
+PSE_history_16_11,1,A,D,D
+PSE_history_16_11,2,A,D,D
+PSE_history_16_12,0,A,D,D
+PSE_history_16_12,1,A,D,D
+PSE_history_16_12,2,A,D,D
+PSE_history_16_13,0,A,C,C
+PSE_history_16_13,1,A,C,C
+PSE_history_16_13,2,A,,정답 (Answer): C
+PSE_history_16_14,0,D,B,B
+PSE_history_16_14,1,D,B,B
+PSE_history_16_14,2,D,B,B: 경성 부민관에 폭탄을 투척하였다.
+PSE_history_16_15,0,A,D,D
+PSE_history_16_15,1,A,D,D
+PSE_history_16_15,2,A,D,D
+PSE_history_16_16,0,B,A,A
+PSE_history_16_16,1,B,A,A
+PSE_history_16_16,2,B,A,A
+PSE_history_16_17,0,B,D,D
+PSE_history_16_17,1,B,D,D
+PSE_history_16_17,2,B,D,D
+PSE_history_17_1,0,A,C,C
+PSE_history_17_1,1,A,C,C
+PSE_history_17_1,2,A,D,D
+PSE_history_17_2,0,B,D,D
+PSE_history_17_2,1,B,D,D
+PSE_history_17_2,2,B,D,D
+PSE_history_17_3,0,A,C,C
+PSE_history_17_3,1,A,C,C
+PSE_history_17_3,2,A,C,C
+PSE_history_17_4,0,D,D,D
+PSE_history_17_4,1,D,D,D
+PSE_history_17_4,2,D,D,D
+PSE_history_17_5,0,A,B,B
+PSE_history_17_5,1,A,B,B
+PSE_history_17_5,2,A,B,B
+PSE_history_17_6,0,C,C,C
+PSE_history_17_6,1,C,C,C
+PSE_history_17_6,2,C,C,C
+PSE_history_17_7,0,B,C,C
+PSE_history_17_7,1,B,C,C
+PSE_history_17_7,2,B,C,C
+PSE_history_17_8,0,C,B,B
+PSE_history_17_8,1,C,B,B
+PSE_history_17_8,2,C,B,B
+PSE_history_17_9,0,B,B,B: 대한제국 칙령 제41호 - 삼국접양지도
+PSE_history_17_9,1,B,B,B
+PSE_history_17_9,2,B,B,B: 대한제국 칙령 제41호 - 삼국접양지도
+PSE_history_17_10,0,C,B,B
+PSE_history_17_10,1,C,B,B
+PSE_history_17_10,2,C,B,B
+PSE_history_17_11,0,D,B,B
+PSE_history_17_11,1,D,,정답 (Answer): B
+PSE_history_17_11,2,D,B,B
+PSE_history_17_12,0,D,B,B
+PSE_history_17_12,1,D,B,B
+PSE_history_17_12,2,D,B,B
+PSE_history_17_13,0,C,,정답 (Answer): D
+PSE_history_17_13,1,C,,정답 (Answer): D
+PSE_history_17_13,2,C,,정답 (Answer): D
+PSE_history_17_14,0,D,C,C
+PSE_history_17_14,1,D,C,C
+PSE_history_17_14,2,D,C,C
+PSE_history_17_15,0,B,C,C
+PSE_history_17_15,1,B,C,C
+PSE_history_17_15,2,B,C,C
+PSE_history_17_16,0,A,A,A
+PSE_history_17_16,1,A,A,A
+PSE_history_17_16,2,A,A,A
+PSE_history_17_17,0,C,A,A
+PSE_history_17_17,1,C,B,B
+PSE_history_17_17,2,C,A,A
+PSE_history_17_18,0,C,D,D
+PSE_history_17_18,1,C,,정답 (Answer): C
+PSE_history_17_18,2,C,C,C
+PSE_history_17_19,0,A,B,B
+PSE_history_17_19,1,A,B,B
+PSE_history_17_19,2,A,B,B
+PSE_history_18_1,0,A,A,A
+PSE_history_18_1,1,A,C,C
+PSE_history_18_1,2,A,C,C
+PSE_history_18_2,0,B,B,B: 귀주 대첩
+PSE_history_18_2,1,B,C,C: 강동 6주 경략
+PSE_history_18_2,2,B,C,C: 강동 6주 경략
+PSE_history_18_3,0,A,A,A
+PSE_history_18_3,1,A,A,A
+PSE_history_18_3,2,A,A,A
+PSE_history_18_4,0,C,C,C
+PSE_history_18_4,1,C,C,C
+PSE_history_18_4,2,C,C,C
+PSE_history_18_5,0,C,B,B
+PSE_history_18_5,1,C,C,C
+PSE_history_18_5,2,C,C,C
+PSE_history_18_6,0,A,B,B
+PSE_history_18_6,1,A,B,B
+PSE_history_18_6,2,A,B,B
+PSE_history_18_7,0,A,C,C
+PSE_history_18_7,1,A,C,C
+PSE_history_18_7,2,A,C,C
+PSE_history_18_8,0,C,D,D
+PSE_history_18_8,1,C,D,D
+PSE_history_18_8,2,C,D,D
+PSE_history_18_9,0,B,C,C: 연초 전매 제도에 따라 조합에 수매되는 담배
+PSE_history_18_9,1,B,C,C: 연초 전매 제도에 따라 조합에 수매되는 담배
+PSE_history_18_9,2,B,C,C: 연초 전매 제도에 따라 조합에 수매되는 담배
+PSE_history_18_10,0,D,C,C
+PSE_history_18_10,1,D,C,C
+PSE_history_18_10,2,D,C,C
+PSE_history_18_11,0,B,,정답 (Answer): B
+PSE_history_18_11,1,B,,정답 (Answer): C
+PSE_history_18_11,2,B,C,C
+PSE_history_18_12,0,B,D,D
+PSE_history_18_12,1,B,D,D
+PSE_history_18_12,2,B,D,D
+PSE_history_18_13,0,D,D,D
+PSE_history_18_13,1,D,D,D
+PSE_history_18_13,2,D,D,D
+PSE_history_18_14,0,B,C,C
+PSE_history_18_14,1,B,C,C: 황무지 개간권 요구에 대응하여 설립된 특허 회사였다.
+PSE_history_18_14,2,B,C,C
+PSE_history_18_15,0,C,,정답 (Answer): B
+PSE_history_18_15,1,C,,정답 (Answer): B
+PSE_history_18_15,2,C,,정답 (Answer): B
+PSE_history_18_16,0,D,C,C
+PSE_history_18_16,1,D,C,C
+PSE_history_18_16,2,D,C,C
+PSE_history_18_17,0,B,C,C: 국가 기간 산업인 울산 정유 공장이 가동되었다.
+PSE_history_18_17,1,B,C,C
+PSE_history_18_17,2,B,C,C: 국가 기간 산업인 울산 정유 공장이 가동되었다.
+PSE_history_18_18,0,B,C,C: 제왕운기
+PSE_history_18_18,1,B,C,C: 제왕운기
+PSE_history_18_18,2,B,D,D: 삼국유사
+PSE_history_18_19,0,C,C,C
+PSE_history_18_19,1,C,C,C
+PSE_history_18_19,2,C,C,C: ㄹ→ㄱ→ㄴ→ㄷ
+PSE_history_19_1,0,C,C,C
+PSE_history_19_1,1,C,C,C
+PSE_history_19_1,2,C,C,C
+PSE_history_19_2,0,D,B,B
+PSE_history_19_2,1,D,B,B
+PSE_history_19_2,2,D,B,B
+PSE_history_19_3,0,C,C,C
+PSE_history_19_3,1,C,C,C
+PSE_history_19_3,2,C,C,C
+PSE_history_19_4,0,C,C,C
+PSE_history_19_4,1,C,C,C
+PSE_history_19_4,2,C,C,C
+PSE_history_19_5,0,D,D,D
+PSE_history_19_5,1,D,D,D
+PSE_history_19_5,2,D,D,D
+PSE_history_19_6,0,A,D,D
+PSE_history_19_6,1,A,D,D
+PSE_history_19_6,2,A,D,D
+PSE_history_19_7,0,A,D,D
+PSE_history_19_7,1,A,D,D
+PSE_history_19_7,2,A,D,D
+PSE_history_19_8,0,D,C,C
+PSE_history_19_8,1,D,C,C
+PSE_history_19_8,2,D,C,C
+PSE_history_19_9,0,C,D,D
+PSE_history_19_9,1,C,D,D
+PSE_history_19_9,2,C,,정답 (Answer): A
+PSE_history_19_10,0,A,C,C
+PSE_history_19_10,1,A,A,A
+PSE_history_19_10,2,A,A,A
+PSE_history_19_11,0,C,C,C
+PSE_history_19_11,1,C,C,C
+PSE_history_19_11,2,C,C,C
+PSE_history_19_12,0,B,D,D
+PSE_history_19_12,1,B,D,D
+PSE_history_19_12,2,B,D,D
+PSE_history_19_13,0,D,D,D
+PSE_history_19_13,1,D,D,D
+PSE_history_19_13,2,D,D,D
+PSE_history_19_14,0,A,B,B
+PSE_history_19_14,1,A,B,B
+PSE_history_19_14,2,A,C,C
+PSE_history_19_15,0,C,C,C
+PSE_history_19_15,1,C,C,C
+PSE_history_19_15,2,C,C,C
+PSE_history_19_16,0,D,D,D
+PSE_history_19_16,1,D,D,D
+PSE_history_19_16,2,D,D,D
+PSE_history_19_17,0,A,,정답 (Answer): D
+PSE_history_19_17,1,A,D,"D: (가)조.일수호조규부록, (나)조.러수호통상조약"
+PSE_history_19_17,2,A,D,"D: (가)조.일수호조규부록, (나)조.러수호통상조약"
+PSE_history_19_18,0,B,C,C
+PSE_history_19_18,1,B,C,C
+PSE_history_19_18,2,B,C,C
+PSE_history_19_19,0,B,D,D
+PSE_history_19_19,1,B,D,D
+PSE_history_19_19,2,B,D,D
+PSE_history_19_20,0,B,D,D
+PSE_history_19_20,1,B,D,D
+PSE_history_19_20,2,B,D,D
+PSE_history_20_1,0,C,C,C
+PSE_history_20_1,1,C,C,C
+PSE_history_20_1,2,C,C,C
+PSE_history_20_2,0,D,C,C: 이의방을 제거하고 권력을 장악하였다.
+PSE_history_20_2,1,D,B,B: 치안유지를 위해 야별초를 설립하였다.
+PSE_history_20_2,2,D,,정답 (Answer): B
+PSE_history_20_3,0,C,C,C
+PSE_history_20_3,1,C,C,C
+PSE_history_20_3,2,C,C,C
+PSE_history_20_4,0,B,B,B: 근대 문물 수용의 사상적 기반이 되었다.
+PSE_history_20_4,1,B,B,B: 근대 문물 수용의 사상적 기반이 되었다.
+PSE_history_20_4,2,B,B,B
+PSE_history_20_5,0,D,C,C: 혜민국
+PSE_history_20_5,1,D,C,C: 혜민국
+PSE_history_20_5,2,D,C,C: 혜민국
+PSE_history_20_6,0,B,B,B
+PSE_history_20_6,1,B,D,D
+PSE_history_20_6,2,B,D,D
+PSE_history_20_7,0,A,B,B
+PSE_history_20_7,1,A,B,B
+PSE_history_20_7,2,A,B,B
+PSE_history_20_8,0,D,C,C
+PSE_history_20_8,1,D,C,C
+PSE_history_20_8,2,D,C,C
+PSE_history_20_9,0,C,C,C
+PSE_history_20_9,1,C,C,C
+PSE_history_20_9,2,C,C,C
+PSE_history_20_10,0,C,C,C
+PSE_history_20_10,1,C,C,C
+PSE_history_20_10,2,C,C,C
+PSE_history_20_11,0,A,A,A
+PSE_history_20_11,1,A,A,A
+PSE_history_20_11,2,A,A,A
+PSE_history_20_12,0,B,C,C
+PSE_history_20_12,1,B,C,C
+PSE_history_20_12,2,B,C,C
+PSE_history_20_13,0,A,A,A
+PSE_history_20_13,1,A,A,A: 황산벌에서 백제군을 물리쳤다.
+PSE_history_20_13,2,A,A,A: 황산벌에서 백제군을 물리쳤다.
+PSE_history_20_14,0,C,B,B
+PSE_history_20_14,1,C,B,B
+PSE_history_20_14,2,C,B,B
+PSE_history_20_15,0,B,B,B
+PSE_history_20_15,1,B,A,A
+PSE_history_20_15,2,B,A,A
+PSE_history_20_16,0,B,B,B
+PSE_history_20_16,1,B,B,"B: 저금리, 저유가, 저달러의 3저 호황을 경험하다."
+PSE_history_20_16,2,B,B,B
+PSE_history_20_17,0,D,B,B: 경성 제국 대학이 설립되었다.
+PSE_history_20_17,1,D,B,B: 경성 제국 대학이 설립되었다.
+PSE_history_20_17,2,D,B,B: 경성 제국 대학이 설립되었다.
+PSE_history_20_18,0,C,C,C
+PSE_history_20_18,1,C,C,C
+PSE_history_20_18,2,C,C,C
+PSE_history_20_19,0,D,D,D
+PSE_history_20_19,1,D,D,D
+PSE_history_20_19,2,D,D,D
+PSE_history_21_1,0,C,C,C
+PSE_history_21_1,1,C,,정답 (Answer): C
+PSE_history_21_1,2,C,,정답 (Answer): C
+PSE_history_21_2,0,B,C,C
+PSE_history_21_2,1,B,B,B
+PSE_history_21_2,2,B,C,C
+PSE_history_21_3,0,C,D,D
+PSE_history_21_3,1,C,D,D
+PSE_history_21_3,2,C,D,D
+PSE_history_21_4,0,A,B,B: 조의제문을 사초에 실었다.
+PSE_history_21_4,1,A,B,B: 조의제문을 사초에 실었다.
+PSE_history_21_4,2,A,B,B: 조의제문을 사초에 실었다.
+PSE_history_21_5,0,A,A,A
+PSE_history_21_5,1,A,C,C
+PSE_history_21_5,2,A,C,C
+PSE_history_21_6,0,D,D,D
+PSE_history_21_6,1,D,D,D
+PSE_history_21_6,2,D,D,D: 이차돈의 순교를 계기로 불교가 공인되었다.
+PSE_history_21_7,0,D,D,D
+PSE_history_21_7,1,D,D,D
+PSE_history_21_7,2,D,D,D
+PSE_history_21_8,0,C,C,C
+PSE_history_21_8,1,C,C,C
+PSE_history_21_8,2,C,C,C
+PSE_history_21_9,0,A,B,B
+PSE_history_21_9,1,A,B,B
+PSE_history_21_9,2,A,B,B
+PSE_history_21_10,0,D,D,D
+PSE_history_21_10,1,D,D,D
+PSE_history_21_10,2,D,D,D
+PSE_history_21_11,0,C,C,C
+PSE_history_21_11,1,C,C,C
+PSE_history_21_11,2,C,C,C
+PSE_history_21_12,0,B,B,B
+PSE_history_21_12,1,B,B,B
+PSE_history_21_12,2,B,B,B
+PSE_history_21_13,0,D,C,C
+PSE_history_21_13,1,D,D,D
+PSE_history_21_13,2,D,D,D
+PSE_history_21_14,0,B,B,B
+PSE_history_21_14,1,B,B,B
+PSE_history_21_14,2,B,B,B
+PSE_history_21_15,0,A,A,A
+PSE_history_21_15,1,A,A,A
+PSE_history_21_15,2,A,A,A
+PSE_history_21_16,0,D,A,A: 대한민국 건국 강령이 상정되었다.
+PSE_history_21_16,1,D,C,C: 민족유일당운동 차원에서 조선혁명당이 참가하였다.
+PSE_history_21_16,2,D,C,C: 민족유일당운동 차원에서 조선혁명당이 참가하였다.
+PSE_history_21_17,0,B,B,B
+PSE_history_21_17,1,B,B,B
+PSE_history_21_17,2,B,B,B
+PSE_history_21_18,0,B,B,B
+PSE_history_21_18,1,B,B,B
+PSE_history_21_18,2,B,B,B
+PSE_history_21_19,0,C,,정답: A
+PSE_history_21_19,1,C,,정답: A
+PSE_history_21_19,2,C,,정답: A
+PSE_history_22_1,0,A,D,D
+PSE_history_22_1,1,A,C,C
+PSE_history_22_1,2,A,C,C
+PSE_history_22_2,0,C,A,A
+PSE_history_22_2,1,C,A,A
+PSE_history_22_2,2,C,A,A
+PSE_history_22_3,0,D,D,D
+PSE_history_22_3,1,D,D,D
+PSE_history_22_3,2,D,D,D
+PSE_history_22_4,0,A,A,A
+PSE_history_22_4,1,A,A,A
+PSE_history_22_4,2,A,A,A
+PSE_history_22_5,0,B,B,B
+PSE_history_22_5,1,B,B,B
+PSE_history_22_5,2,B,B,B
+PSE_history_22_6,0,C,B,B
+PSE_history_22_6,1,C,B,B
+PSE_history_22_6,2,C,B,B
+PSE_history_22_7,0,D,C,C
+PSE_history_22_7,1,D,,정답 (Answer): D
+PSE_history_22_7,2,D,,정답 (Answer): D
+PSE_history_22_8,0,B,B,B: 기묘사화
+PSE_history_22_8,1,B,B,B: 기묘사화
+PSE_history_22_8,2,B,B,B: 기묘사화
+PSE_history_22_9,0,C,D,D
+PSE_history_22_9,1,C,D,D
+PSE_history_22_9,2,C,D,D
+PSE_history_22_10,0,C,B,B: 성호사설
+PSE_history_22_10,1,C,,정답 (Answer): B: 성호사설
+PSE_history_22_10,2,C,,정답 (Answer): B: 성호사설
+PSE_history_22_11,0,A,A,A
+PSE_history_22_11,1,A,A,A
+PSE_history_22_11,2,A,A,A
+PSE_history_22_12,0,D,A,A
+PSE_history_22_12,1,D,A,A
+PSE_history_22_12,2,D,A,A
+PSE_history_22_13,0,A,A,A
+PSE_history_22_13,1,A,A,A
+PSE_history_22_13,2,A,A,A
+PSE_history_22_14,0,B,,정답 (Answer): B
+PSE_history_22_14,1,B,B,B
+PSE_history_22_14,2,B,B,B: 전국 여러 곳에 척화비를 세우도록 했다.
+PSE_history_22_15,0,A,C,C
+PSE_history_22_15,1,A,C,C
+PSE_history_22_15,2,A,C,C
+PSE_history_22_16,0,B,B,B: 안동 봉정사 극락전
+PSE_history_22_16,1,B,B,B: 안동 봉정사 극락전
+PSE_history_22_16,2,B,B,B: 안동 봉정사 극락전
+PSE_history_22_17,0,B,C,C
+PSE_history_22_17,1,B,C,C
+PSE_history_22_17,2,B,C,C
+PSE_history_22_18,0,C,C,C
+PSE_history_22_18,1,C,C,C
+PSE_history_22_18,2,C,C,C
+PSE_history_22_19,0,B,A,A
+PSE_history_22_19,1,B,A,A
+PSE_history_22_19,2,B,A,A
+PSE_history_22_20,0,D,C,C
+PSE_history_22_20,1,D,C,C
+PSE_history_22_20,2,D,C,C
+KIIP_law_1,0,A,C,C
+KIIP_law_1,1,A,A,A
+KIIP_law_1,2,A,C,C
+KIIP_law_2,0,B,B,B
+KIIP_law_2,1,B,B,B: 사증
+KIIP_law_2,2,B,B,B
+KIIP_law_3,0,A,A,A
+KIIP_law_3,1,A,A,A
+KIIP_law_3,2,A,A,A
+KIIP_law_4,0,B,B,B
+KIIP_law_4,1,B,B,B
+KIIP_law_4,2,B,B,B
+KIIP_law_5,0,A,B,B: 차이나 타운
+KIIP_law_5,1,A,B,B
+KIIP_law_5,2,A,B,B: 차이나 타운
+KIIP_law_6,0,C,B,B: 서울 종로구
+KIIP_law_6,1,C,B,B: 서울 종로구
+KIIP_law_6,2,C,B,B: 서울 종로구
+KIIP_law_7,0,A,A,A: 한민족학교
+KIIP_law_7,1,A,A,A: 한민족학교
+KIIP_law_7,2,A,A,A: 한민족학교
+KIIP_law_8,0,C,C,C
+KIIP_law_8,1,C,C,C
+KIIP_law_8,2,C,C,C
+KIIP_law_9,0,C,C,C
+KIIP_law_9,1,C,C,C
+KIIP_law_9,2,C,C,C
+KIIP_law_10,0,A,A,A
+KIIP_law_10,1,A,A,A
+KIIP_law_10,2,A,A,A
+KIIP_law_11,0,B,B,B
+KIIP_law_11,1,B,B,B
+KIIP_law_11,2,B,B,B
+KIIP_law_12,0,A,A,A
+KIIP_law_12,1,A,A,A
+KIIP_law_12,2,A,A,A
+KIIP_law_13,0,B,B,B
+KIIP_law_13,1,B,B,B
+KIIP_law_13,2,B,B,B
+KIIP_law_14,0,C,C,C
+KIIP_law_14,1,C,C,C
+KIIP_law_14,2,C,C,C
+KIIP_law_15,0,B,B,B
+KIIP_law_15,1,B,B,B
+KIIP_law_15,2,B,B,B
+KIIP_law_16,0,A,A,A
+KIIP_law_16,1,A,A,A
+KIIP_law_16,2,A,A,A
+KIIP_law_17,0,A,D,D
+KIIP_law_17,1,A,D,D
+KIIP_law_17,2,A,D,D
+KIIP_law_18,0,A,A,A
+KIIP_law_18,1,A,A,A
+KIIP_law_18,2,A,A,A
+KIIP_law_19,0,A,A,A
+KIIP_law_19,1,A,A,A
+KIIP_law_19,2,A,A,A
+KIIP_law_20,0,C,C,C
+KIIP_law_20,1,C,C,C: 18세
+KIIP_law_20,2,C,C,C: 18세
+KIIP_law_21,0,B,C,C
+KIIP_law_21,1,B,C,C
+KIIP_law_21,2,B,C,C
+KIIP_law_22,0,A,A,A
+KIIP_law_22,1,A,A,A
+KIIP_law_22,2,A,A,A
+KIIP_law_23,0,B,B,B
+KIIP_law_23,1,B,B,B
+KIIP_law_23,2,B,B,B
+KIIP_law_24,0,A,D,D
+KIIP_law_24,1,A,D,D
+KIIP_law_24,2,A,D,D
+KIIP_law_25,0,A,A,A
+KIIP_law_25,1,A,A,A
+KIIP_law_25,2,A,A,A
+KIIP_law_26,0,A,A,A
+KIIP_law_26,1,A,A,A
+KIIP_law_26,2,A,A,A
+KIIP_law_27,0,A,A,A
+KIIP_law_27,1,A,A,A
+KIIP_law_27,2,A,A,A
+KIIP_law_28,0,A,A,A
+KIIP_law_28,1,A,A,A
+KIIP_law_28,2,A,A,A
+KIIP_law_29,0,A,A,A
+KIIP_law_29,1,A,A,A
+KIIP_law_29,2,A,A,A
+KIIP_law_30,0,A,A,A
+KIIP_law_30,1,A,A,A
+KIIP_law_30,2,A,A,A
+KIIP_law_31,0,A,C,C
+KIIP_law_31,1,A,C,C
+KIIP_law_31,2,A,C,C
+KIIP_law_32,0,A,A,A
+KIIP_law_32,1,A,A,A
+KIIP_law_32,2,A,A,A
+KIIP_law_33,0,A,A,A
+KIIP_law_33,1,A,A,A
+KIIP_law_33,2,A,A,A
+KIIP_law_34,0,A,A,A
+KIIP_law_34,1,A,A,A
+KIIP_law_34,2,A,A,A
+KIIP_law_35,0,A,A,A
+KIIP_law_35,1,A,A,A
+KIIP_law_35,2,A,A,A
+KIIP_law_36,0,A,A,A
+KIIP_law_36,1,A,A,A
+KIIP_law_36,2,A,A,A
+KIIP_law_37,0,C,C,C
+KIIP_law_37,1,C,C,C
+KIIP_law_37,2,C,C,C
+KIIP_law_38,0,D,D,D
+KIIP_law_38,1,D,D,D
+KIIP_law_38,2,D,D,D
+KIIP_law_39,0,D,C,C: 한국어 교육
+KIIP_law_39,1,D,C,C
+KIIP_law_39,2,D,C,C: 한국어 교육
+KIIP_law_40,0,C,C,C
+KIIP_law_40,1,C,C,C
+KIIP_law_40,2,C,C,C
+KIIP_law_41,0,A,A,A
+KIIP_law_41,1,A,A,A
+KIIP_law_41,2,A,A,A
+KIIP_law_42,0,C,C,C
+KIIP_law_42,1,C,C,C
+KIIP_law_42,2,C,C,C
+KIIP_law_43,0,C,C,C
+KIIP_law_43,1,C,C,C
+KIIP_law_43,2,C,C,C
+KIIP_law_44,0,A,A,A
+KIIP_law_44,1,A,A,A
+KIIP_law_44,2,A,A,A
+KIIP_law_45,0,A,A,A
+KIIP_law_45,1,A,A,A
+KIIP_law_45,2,A,A,A
+KIIP_law_46,0,B,B,B: 법무부
+KIIP_law_46,1,B,B,B: 법무부
+KIIP_law_46,2,B,B,B: 법무부
+KIIP_law_47,0,A,A,A
+KIIP_law_47,1,A,A,A
+KIIP_law_47,2,A,A,A
+KIIP_law_48,0,A,A,A
+KIIP_law_48,1,A,A,A
+KIIP_law_48,2,A,A,A
+KIIP_law_49,0,A,A,A
+KIIP_law_49,1,A,A,A
+KIIP_law_49,2,A,A,A
+KIIP_law_50,0,A,A,A
+KIIP_law_50,1,A,A,A
+KIIP_law_50,2,A,A,A
+KIIP_law_51,0,A,B,B
+KIIP_law_51,1,A,B,B
+KIIP_law_51,2,A,B,B
+PSAT_17_1,0,A,D,D
+PSAT_17_1,1,A,D,D
+PSAT_17_1,2,A,D,D
+PSAT_17_2,0,C,C,C
+PSAT_17_2,1,C,C,C
+PSAT_17_2,2,C,C,C
+PSAT_17_3,0,A,A,A
+PSAT_17_3,1,A,A,A
+PSAT_17_3,2,A,A,A
+PSAT_17_4,0,A,A,A
+PSAT_17_4,1,A,A,A
+PSAT_17_4,2,A,A,A
+PSAT_17_5,0,B,B,B
+PSAT_17_5,1,B,B,B
+PSAT_17_5,2,B,B,B
+PSAT_17_6,0,D,B,B
+PSAT_17_6,1,D,B,B
+PSAT_17_6,2,D,B,B
+PSAT_17_7,0,B,C,C
+PSAT_17_7,1,B,C,C
+PSAT_17_7,2,B,C,C
+PSAT_17_8,0,D,D,D
+PSAT_17_8,1,D,D,D
+PSAT_17_8,2,D,D,D
+PSAT_17_9,0,A,C,C
+PSAT_17_9,1,A,C,C
+PSAT_17_9,2,A,C,C
+PSAT_17_10,0,C,C,C
+PSAT_17_10,1,C,C,C
+PSAT_17_10,2,C,C,C
+PSAT_17_11,0,D,A,A
+PSAT_17_11,1,D,A,A
+PSAT_17_11,2,D,A,A
+PSAT_17_12,0,C,C,C: 국가안전보장회의
+PSAT_17_12,1,C,C,C: 국가안전보장회의
+PSAT_17_12,2,C,C,C
+PSAT_17_13,0,D,C,C
+PSAT_17_13,1,D,C,C
+PSAT_17_13,2,D,C,C
+PSAT_17_14,0,B,B,B
+PSAT_17_14,1,B,B,B
+PSAT_17_14,2,B,B,B
+PSAT_17_15,0,D,D,D
+PSAT_17_15,1,D,D,D
+PSAT_17_15,2,D,D,D
+PSAT_17_16,0,B,A,A
+PSAT_17_16,1,B,A,A
+PSAT_17_16,2,B,A,A
+PSAT_17_17,0,D,D,D
+PSAT_17_17,1,D,D,D
+PSAT_17_17,2,D,D,D
+PSAT_17_18,0,B,B,B
+PSAT_17_18,1,B,B,B
+PSAT_17_18,2,B,B,B
+PSAT_17_19,0,A,D,D
+PSAT_17_19,1,A,D,D
+PSAT_17_19,2,A,D,D
+PSAT_17_20,0,A,B,B
+PSAT_17_20,1,A,B,B
+PSAT_17_20,2,A,B,B
+PSAT_17_21,0,C,C,C
+PSAT_17_21,1,C,C,C
+PSAT_17_21,2,C,C,C
+PSAT_17_22,0,D,D,D
+PSAT_17_22,1,D,D,D
+PSAT_17_22,2,D,D,D
+PSAT_17_23,0,A,A,A
+PSAT_17_23,1,A,A,A
+PSAT_17_23,2,A,A,A
+PSAT_17_24,0,D,D,D
+PSAT_17_24,1,D,D,D
+PSAT_17_24,2,D,D,D
+PSAT_17_25,0,B,D,D
+PSAT_17_25,1,B,D,D
+PSAT_17_25,2,B,D,D
+PSAT_18_1,0,C,C,C
+PSAT_18_1,1,C,C,C
+PSAT_18_1,2,C,C,C
+PSAT_18_2,0,A,A,A
+PSAT_18_2,1,A,A,A
+PSAT_18_2,2,A,A,A
+PSAT_18_3,0,B,C,C
+PSAT_18_3,1,B,C,C
+PSAT_18_3,2,B,C,C
+PSAT_18_4,0,C,C,C
+PSAT_18_4,1,C,C,C
+PSAT_18_4,2,C,C,C
+PSAT_18_5,0,B,B,B
+PSAT_18_5,1,B,B,B
+PSAT_18_5,2,B,B,B
+PSAT_18_6,0,C,D,D
+PSAT_18_6,1,C,D,D
+PSAT_18_6,2,C,D,D
+PSAT_18_7,0,B,B,B
+PSAT_18_7,1,B,B,B
+PSAT_18_7,2,B,B,B
+PSAT_18_8,0,A,A,A
+PSAT_18_8,1,A,A,A
+PSAT_18_8,2,A,A,A
+PSAT_18_10,0,D,D,D
+PSAT_18_10,1,D,D,D
+PSAT_18_10,2,D,D,D
+PSAT_18_11,0,C,A,A
+PSAT_18_11,1,C,A,A
+PSAT_18_11,2,C,A,A
+PSAT_18_12,0,B,B,B
+PSAT_18_12,1,B,B,B
+PSAT_18_12,2,B,B,B
+PSAT_18_13,0,C,C,C
+PSAT_18_13,1,C,C,C
+PSAT_18_13,2,C,C,C
+PSAT_18_14,0,A,C,C
+PSAT_18_14,1,A,C,C
+PSAT_18_14,2,A,C,C
+PSAT_18_15,0,D,D,D
+PSAT_18_15,1,D,D,D
+PSAT_18_15,2,D,D,D
+PSAT_18_16,0,A,A,A
+PSAT_18_16,1,A,A,A
+PSAT_18_16,2,A,A,A
+PSAT_18_17,0,D,A,A
+PSAT_18_17,1,D,A,A
+PSAT_18_17,2,D,A,A
+PSAT_18_18,0,C,A,A
+PSAT_18_18,1,C,A,A
+PSAT_18_18,2,C,A,A
+PSAT_18_19,0,B,A,A
+PSAT_18_19,1,B,A,A
+PSAT_18_19,2,B,A,A
+PSAT_18_20,0,C,C,C
+PSAT_18_20,1,C,C,C
+PSAT_18_20,2,C,C,C
+PSAT_18_21,0,D,B,B
+PSAT_18_21,1,D,B,B
+PSAT_18_21,2,D,B,B
+PSAT_18_22,0,C,B,B
+PSAT_18_22,1,C,B,B
+PSAT_18_22,2,C,B,B
+PSAT_18_23,0,B,A,A
+PSAT_18_23,1,B,A,A
+PSAT_18_23,2,B,A,A
+PSAT_18_24,0,A,A,A
+PSAT_18_24,1,A,A,A
+PSAT_18_24,2,A,A,A
+PSAT_18_25,0,B,D,D
+PSAT_18_25,1,B,D,D
+PSAT_18_25,2,B,D,D
+PSAT_19_1,0,D,A,A
+PSAT_19_1,1,D,D,D
+PSAT_19_1,2,D,A,A
+PSAT_19_2,0,C,D,D
+PSAT_19_2,1,C,D,D
+PSAT_19_2,2,C,D,D
+PSAT_19_3,0,B,B,B
+PSAT_19_3,1,B,B,B
+PSAT_19_3,2,B,B,B
+PSAT_19_4,0,B,B,B
+PSAT_19_4,1,B,B,B
+PSAT_19_4,2,B,B,B
+PSAT_19_5,0,C,A,A
+PSAT_19_5,1,C,A,A
+PSAT_19_5,2,C,A,A
+PSAT_19_6,0,D,B,B
+PSAT_19_6,1,D,B,B
+PSAT_19_6,2,D,B,B
+PSAT_19_7,0,A,D,D
+PSAT_19_7,1,A,D,D
+PSAT_19_7,2,A,D,D
+PSAT_19_8,0,B,C,C
+PSAT_19_8,1,B,D,D
+PSAT_19_8,2,B,C,C
+PSAT_19_9,0,A,D,D
+PSAT_19_9,1,A,D,D
+PSAT_19_9,2,A,D,D
+PSAT_19_10,0,D,C,C
+PSAT_19_10,1,D,C,C
+PSAT_19_10,2,D,C,C
+PSAT_19_11,0,C,B,B
+PSAT_19_11,1,C,B,B
+PSAT_19_11,2,C,B,B
+PSAT_19_12,0,C,C,C
+PSAT_19_12,1,C,C,C
+PSAT_19_12,2,C,C,C
+PSAT_19_14,0,D,D,D
+PSAT_19_14,1,D,D,D
+PSAT_19_14,2,D,D,D
+PSAT_19_15,0,D,D,D
+PSAT_19_15,1,D,D,D
+PSAT_19_15,2,D,D,D
+PSAT_19_16,0,B,B,B
+PSAT_19_16,1,B,B,B
+PSAT_19_16,2,B,B,B
+PSAT_19_17,0,B,B,B
+PSAT_19_17,1,B,B,B
+PSAT_19_17,2,B,B,B
+PSAT_19_18,0,C,A,A
+PSAT_19_18,1,C,A,A
+PSAT_19_18,2,C,A,A
+PSAT_19_19,0,C,D,D
+PSAT_19_19,1,C,D,D
+PSAT_19_19,2,C,D,D
+PSAT_19_20,0,A,A,A
+PSAT_19_20,1,A,D,D
+PSAT_19_20,2,A,A,A
+PSAT_19_21,0,B,C,C
+PSAT_19_21,1,B,C,C
+PSAT_19_21,2,B,C,C
+PSAT_19_22,0,B,D,D
+PSAT_19_22,1,B,C,C
+PSAT_19_22,2,B,C,C
+PSAT_19_23,0,D,C,C
+PSAT_19_23,1,D,C,C
+PSAT_19_23,2,D,C,C
+PSAT_19_25,0,D,A,A
+PSAT_19_25,1,D,A,A
+PSAT_19_25,2,D,D,D
+PSAT_20_1,0,D,D,D
+PSAT_20_1,1,D,D,D
+PSAT_20_1,2,D,D,D
+PSAT_20_2,0,B,D,D
+PSAT_20_2,1,B,D,D
+PSAT_20_2,2,B,A,A
+PSAT_20_3,0,D,C,C
+PSAT_20_3,1,D,C,C
+PSAT_20_3,2,D,C,C
+PSAT_20_4,0,C,D,D
+PSAT_20_4,1,C,D,D
+PSAT_20_4,2,C,D,D
+PSAT_20_5,0,B,A,A
+PSAT_20_5,1,B,C,C
+PSAT_20_5,2,B,A,A
+PSAT_20_6,0,A,A,A
+PSAT_20_6,1,A,A,A
+PSAT_20_6,2,A,A,A
+PSAT_20_7,0,A,B,B
+PSAT_20_7,1,A,B,B
+PSAT_20_7,2,A,B,B
+PSAT_20_8,0,D,B,B
+PSAT_20_8,1,D,B,B
+PSAT_20_8,2,D,B,B
+PSAT_20_9,0,B,B,B
+PSAT_20_9,1,B,B,B
+PSAT_20_9,2,B,B,B
+PSAT_20_10,0,C,C,C
+PSAT_20_10,1,C,C,C
+PSAT_20_10,2,C,C,C
+PSAT_20_11,0,C,C,C
+PSAT_20_11,1,C,C,C
+PSAT_20_11,2,C,C,C
+PSAT_20_12,0,B,C,C
+PSAT_20_12,1,B,C,C
+PSAT_20_12,2,B,C,C
+PSAT_20_13,0,C,C,C
+PSAT_20_13,1,C,C,C
+PSAT_20_13,2,C,C,C
+PSAT_20_14,0,D,D,D
+PSAT_20_14,1,D,D,D
+PSAT_20_14,2,D,D,D
+PSAT_20_15,0,B,B,B
+PSAT_20_15,1,B,B,B
+PSAT_20_15,2,B,B,B
+PSAT_20_16,0,D,D,D
+PSAT_20_16,1,D,D,D
+PSAT_20_16,2,D,D,D
+PSAT_20_17,0,D,D,D
+PSAT_20_17,1,D,D,D
+PSAT_20_17,2,D,D,D
+PSAT_20_18,0,B,C,C
+PSAT_20_18,1,B,C,C
+PSAT_20_18,2,B,D,D
+PSAT_20_19,0,D,A,A
+PSAT_20_19,1,D,A,A
+PSAT_20_19,2,D,A,A
+PSAT_20_20,0,A,A,A
+PSAT_20_20,1,A,A,A
+PSAT_20_20,2,A,A,A
+PSAT_20_21,0,A,C,C
+PSAT_20_21,1,A,C,C
+PSAT_20_21,2,A,C,C
+PSAT_20_22,0,C,C,C
+PSAT_20_22,1,C,C,C
+PSAT_20_22,2,C,C,C
+PSAT_20_23,0,B,B,B
+PSAT_20_23,1,B,B,B
+PSAT_20_23,2,B,B,B
+PSAT_20_24,0,A,A,A
+PSAT_20_24,1,A,C,C
+PSAT_20_24,2,A,C,C
+PSAT_20_25,0,C,C,C
+PSAT_20_25,1,C,C,C
+PSAT_20_25,2,C,C,C
+PSAT_21_1,0,C,A,A
+PSAT_21_1,1,C,A,A
+PSAT_21_1,2,C,A,A
+PSAT_21_2,0,C,C,C
+PSAT_21_2,1,C,C,C
+PSAT_21_2,2,C,C,C
+PSAT_21_3,0,C,C,C
+PSAT_21_3,1,C,C,C
+PSAT_21_3,2,C,C,C
+PSAT_21_5,0,B,B,B
+PSAT_21_5,1,B,B,B
+PSAT_21_5,2,B,B,B
+PSAT_21_6,0,C,A,A
+PSAT_21_6,1,C,A,A
+PSAT_21_6,2,C,A,A
+PSAT_21_7,0,D,D,D
+PSAT_21_7,1,D,D,D
+PSAT_21_7,2,D,D,D
+PSAT_21_8,0,D,A,A
+PSAT_21_8,1,D,A,A
+PSAT_21_8,2,D,A,A
+PSAT_21_9,0,A,B,B
+PSAT_21_9,1,A,B,B
+PSAT_21_9,2,A,B,B
+PSAT_21_10,0,B,A,A
+PSAT_21_10,1,B,A,A
+PSAT_21_10,2,B,A,A
+PSAT_21_11,0,C,C,C
+PSAT_21_11,1,C,C,C
+PSAT_21_11,2,C,C,C
+PSAT_21_12,0,B,B,B
+PSAT_21_12,1,B,C,C
+PSAT_21_12,2,B,C,C
+PSAT_21_13,0,D,D,D
+PSAT_21_13,1,D,D,D
+PSAT_21_13,2,D,D,D
+PSAT_21_14,0,A,C,C
+PSAT_21_14,1,A,C,C
+PSAT_21_14,2,A,D,D
+PSAT_21_15,0,A,A,A
+PSAT_21_15,1,A,A,A
+PSAT_21_15,2,A,A,A
+PSAT_21_16,0,D,B,B
+PSAT_21_16,1,D,B,B
+PSAT_21_16,2,D,B,B
+PSAT_21_17,0,B,B,B
+PSAT_21_17,1,B,B,B
+PSAT_21_17,2,B,B,B
+PSAT_21_18,0,A,B,B
+PSAT_21_18,1,A,B,B
+PSAT_21_18,2,A,B,B
+PSAT_21_19,0,B,A,A
+PSAT_21_19,1,B,A,A
+PSAT_21_19,2,B,A,A
+PSAT_21_20,0,A,A,A
+PSAT_21_20,1,A,A,A
+PSAT_21_20,2,A,A,A
+PSAT_21_21,0,C,C,C
+PSAT_21_21,1,C,C,C
+PSAT_21_21,2,C,C,C
+PSAT_21_22,0,D,D,D
+PSAT_21_22,1,D,D,D
+PSAT_21_22,2,D,D,D
+PSAT_21_23,0,B,C,C
+PSAT_21_23,1,B,C,C
+PSAT_21_23,2,B,C,C
+PSAT_21_24,0,C,C,C
+PSAT_21_24,1,C,C,C
+PSAT_21_24,2,C,C,C
+PSAT_22_1,0,B,B,B
+PSAT_22_1,1,B,B,B
+PSAT_22_1,2,B,B,B
+PSAT_22_2,0,A,B,B
+PSAT_22_2,1,A,B,B
+PSAT_22_2,2,A,B,B
+PSAT_22_3,0,C,C,C
+PSAT_22_3,1,C,C,C
+PSAT_22_3,2,C,C,C
+PSAT_22_4,0,D,B,B
+PSAT_22_4,1,D,B,B
+PSAT_22_4,2,D,B,B
+PSAT_22_5,0,D,D,D
+PSAT_22_5,1,D,B,B
+PSAT_22_5,2,D,B,B
+PSAT_22_6,0,A,A,A
+PSAT_22_6,1,A,A,A
+PSAT_22_6,2,A,A,A
+PSAT_22_7,0,B,B,B
+PSAT_22_7,1,B,B,B
+PSAT_22_7,2,B,B,B
+PSAT_22_8,0,B,B,B
+PSAT_22_8,1,B,B,B
+PSAT_22_8,2,B,B,B
+PSAT_22_9,0,C,C,C
+PSAT_22_9,1,C,C,C
+PSAT_22_9,2,C,C,C
+PSAT_22_10,0,C,C,C
+PSAT_22_10,1,C,C,C
+PSAT_22_10,2,C,C,C
+PSAT_22_11,0,B,C,C
+PSAT_22_11,1,B,C,C
+PSAT_22_11,2,B,C,C
+PSAT_22_12,0,D,D,D
+PSAT_22_12,1,D,D,D
+PSAT_22_12,2,D,D,D
+PSAT_22_13,0,A,A,A
+PSAT_22_13,1,A,A,A
+PSAT_22_13,2,A,A,A
+PSAT_22_14,0,A,C,C
+PSAT_22_14,1,A,C,C
+PSAT_22_14,2,A,A,A
+PSAT_22_15,0,C,B,B
+PSAT_22_15,1,C,B,B
+PSAT_22_15,2,C,B,B
+PSAT_22_16,0,D,D,D
+PSAT_22_16,1,D,D,D
+PSAT_22_16,2,D,D,D
+PSAT_22_18,0,C,A,A
+PSAT_22_18,1,C,A,A
+PSAT_22_18,2,C,A,A
+PSAT_22_20,0,D,C,C
+PSAT_22_20,1,D,B,B
+PSAT_22_20,2,D,C,C
+PSAT_22_21,0,C,C,C
+PSAT_22_21,1,C,C,C
+PSAT_22_21,2,C,C,C
+PSAT_22_22,0,D,A,A
+PSAT_22_22,1,D,A,A
+PSAT_22_22,2,D,A,A
+PSAT_22_23,0,B,C,C
+PSAT_22_23,1,B,C,C
+PSAT_22_23,2,B,C,C
+PSAT_22_24,0,A,B,B
+PSAT_22_24,1,A,B,B
+PSAT_22_24,2,A,B,B
+PSAT_22_25,0,C,C,C
+PSAT_22_25,1,C,B,B
+PSAT_22_25,2,C,C,C
+PSAT_23_1,0,A,A,A
+PSAT_23_1,1,A,A,A
+PSAT_23_1,2,A,A,A
+PSAT_23_2,0,B,D,D
+PSAT_23_2,1,B,C,C
+PSAT_23_2,2,B,C,C
+PSAT_23_3,0,C,B,B
+PSAT_23_3,1,C,B,B
+PSAT_23_3,2,C,B,B
+PSAT_23_4,0,B,B,B
+PSAT_23_4,1,B,B,B
+PSAT_23_4,2,B,B,B
+PSAT_23_5,0,D,D,D
+PSAT_23_5,1,D,D,D
+PSAT_23_5,2,D,D,D
+PSAT_23_6,0,A,C,C
+PSAT_23_6,1,A,C,C
+PSAT_23_6,2,A,C,C
+PSAT_23_7,0,A,A,A
+PSAT_23_7,1,A,A,A
+PSAT_23_7,2,A,D,D
+PSAT_23_8,0,D,B,B
+PSAT_23_8,1,D,B,B
+PSAT_23_8,2,D,B,B
+PSAT_23_9,0,B,B,B
+PSAT_23_9,1,B,B,B
+PSAT_23_9,2,B,B,B
+PSAT_23_10,0,A,C,C
+PSAT_23_10,1,A,C,C
+PSAT_23_10,2,A,C,C
+PSAT_23_11,0,B,C,C
+PSAT_23_11,1,B,C,C
+PSAT_23_11,2,B,C,C
+PSAT_23_12,0,C,C,C
+PSAT_23_12,1,C,C,C
+PSAT_23_12,2,C,C,C
+PSAT_23_13,0,B,B,B
+PSAT_23_13,1,B,B,B
+PSAT_23_13,2,B,B,B
+PSAT_23_14,0,B,C,C
+PSAT_23_14,1,B,C,C
+PSAT_23_14,2,B,C,C
+PSAT_23_15,0,A,C,C
+PSAT_23_15,1,A,C,C
+PSAT_23_15,2,A,C,C
+PSAT_23_16,0,D,D,D
+PSAT_23_16,1,D,C,C
+PSAT_23_16,2,D,D,D
+PSAT_23_17,0,A,C,C
+PSAT_23_17,1,A,C,C
+PSAT_23_17,2,A,C,C
+PSAT_23_18,0,D,D,D
+PSAT_23_18,1,D,D,D
+PSAT_23_18,2,D,D,D
+PSAT_23_19,0,C,C,C
+PSAT_23_19,1,C,C,C
+PSAT_23_19,2,C,C,C
+PSAT_23_20,0,B,B,B
+PSAT_23_20,1,B,B,B
+PSAT_23_20,2,B,B,B
+PSAT_23_21,0,A,A,A
+PSAT_23_21,1,A,D,D
+PSAT_23_21,2,A,D,D
+PSAT_23_22,0,C,C,C
+PSAT_23_22,1,C,C,C
+PSAT_23_22,2,C,C,C
+PSAT_23_23,0,C,C,C
+PSAT_23_23,1,C,C,C
+PSAT_23_23,2,C,C,C
+PSAT_23_24,0,D,D,D
+PSAT_23_24,1,D,D,D
+PSAT_23_24,2,D,D,D
+PSAT_23_25,0,C,D,D
+PSAT_23_25,1,C,A,A
+PSAT_23_25,2,C,A,A
+KIIP_politics_1,0,A,A,A: 대한민국 헌법의 제정
+KIIP_politics_1,1,A,A,A
+KIIP_politics_1,2,A,A,A
+KIIP_politics_2,0,A,A,A
+KIIP_politics_2,1,A,A,A
+KIIP_politics_2,2,A,A,A
+KIIP_politics_3,0,B,B,B
+KIIP_politics_3,1,B,B,B
+KIIP_politics_3,2,B,B,B
+KIIP_politics_4,0,B,B,B
+KIIP_politics_4,1,B,B,B
+KIIP_politics_4,2,B,B,B
+KIIP_politics_5,0,B,B,B
+KIIP_politics_5,1,B,B,B
+KIIP_politics_5,2,B,B,B
+KIIP_politics_6,0,B,B,B
+KIIP_politics_6,1,B,B,B
+KIIP_politics_6,2,B,B,B
+KIIP_politics_7,0,A,A,A
+KIIP_politics_7,1,A,A,A
+KIIP_politics_7,2,A,A,A
+KIIP_politics_8,0,C,C,C
+KIIP_politics_8,1,C,C,C
+KIIP_politics_8,2,C,C,C
+KIIP_politics_9,0,A,A,A
+KIIP_politics_9,1,A,A,A: 최규하
+KIIP_politics_9,2,A,A,A
+KIIP_politics_10,0,C,C,C
+KIIP_politics_10,1,C,C,C
+KIIP_politics_10,2,C,C,C
+KIIP_politics_11,0,C,C,C: 국민
+KIIP_politics_11,1,C,C,C: 국민
+KIIP_politics_11,2,C,C,C: 국민
+KIIP_politics_12,0,B,B,B
+KIIP_politics_12,1,B,B,B
+KIIP_politics_12,2,B,B,B
+KIIP_politics_13,0,B,B,B
+KIIP_politics_13,1,B,B,B
+KIIP_politics_13,2,B,B,B
+KIIP_politics_14,0,A,A,A
+KIIP_politics_14,1,A,A,A
+KIIP_politics_14,2,A,A,A
+KIIP_politics_15,0,A,A,A
+KIIP_politics_15,1,A,A,A
+KIIP_politics_15,2,A,A,A
+KIIP_politics_16,0,C,C,C
+KIIP_politics_16,1,C,C,C
+KIIP_politics_16,2,C,C,C
+KIIP_politics_17,0,C,C,C
+KIIP_politics_17,1,C,C,C
+KIIP_politics_17,2,C,C,C
+KIIP_politics_18,0,A,A,A
+KIIP_politics_18,1,A,A,A
+KIIP_politics_18,2,A,A,A
+KIIP_politics_19,0,A,A,A
+KIIP_politics_19,1,A,A,A
+KIIP_politics_19,2,A,A,A
+KIIP_politics_20,0,A,A,A
+KIIP_politics_20,1,A,A,A
+KIIP_politics_20,2,A,A,A
+KIIP_politics_21,0,C,C,C
+KIIP_politics_21,1,C,C,C
+KIIP_politics_21,2,C,C,C
+KIIP_politics_22,0,B,B,B
+KIIP_politics_22,1,B,B,B
+KIIP_politics_22,2,B,B,B
+KIIP_politics_23,0,A,A,A: 대통령 직선제
+KIIP_politics_23,1,A,A,A: 대통령 직선제
+KIIP_politics_23,2,A,A,A
+KIIP_politics_24,0,A,A,A: 대통령 직선제
+KIIP_politics_24,1,A,A,A
+KIIP_politics_24,2,A,A,A: 대통령 직선제
+KIIP_politics_25,0,A,A,A
+KIIP_politics_25,1,A,A,A
+KIIP_politics_25,2,A,A,A
+KIIP_politics_26,0,B,B,B
+KIIP_politics_26,1,B,B,B
+KIIP_politics_26,2,B,B,B
+KIIP_politics_27,0,A,A,A
+KIIP_politics_27,1,A,A,A
+KIIP_politics_27,2,A,A,A
+KIIP_politics_28,0,B,A,A
+KIIP_politics_28,1,B,A,A
+KIIP_politics_28,2,B,A,A
+KIIP_politics_29,0,A,A,A
+KIIP_politics_29,1,A,A,A
+KIIP_politics_29,2,A,A,A
+KIIP_politics_30,0,A,A,A
+KIIP_politics_30,1,A,A,A
+KIIP_politics_30,2,A,A,A
+KIIP_politics_31,0,A,B,B
+KIIP_politics_31,1,A,B,B
+KIIP_politics_31,2,A,B,B
+KIIP_politics_32,0,A,A,A
+KIIP_politics_32,1,A,A,A
+KIIP_politics_32,2,A,A,A
+KIIP_politics_33,0,A,A,A
+KIIP_politics_33,1,A,A,A
+KIIP_politics_33,2,A,A,A
+KIIP_politics_34,0,A,C,C
+KIIP_politics_34,1,A,C,C: 3개
+KIIP_politics_34,2,A,C,C: 3개
+KIIP_politics_35,0,D,B,B
+KIIP_politics_35,1,D,B,B
+KIIP_politics_35,2,D,B,B
+KIIP_politics_36,0,B,B,B
+KIIP_politics_36,1,B,B,B
+KIIP_politics_36,2,B,B,B
+KIIP_politics_37,0,A,D,D
+KIIP_politics_37,1,A,D,D: 주민등록증
+KIIP_politics_37,2,A,D,D: 주민등록증
+KIIP_politics_38,0,A,A,A
+KIIP_politics_38,1,A,A,A
+KIIP_politics_38,2,A,A,"A: 행정부, 입법부, 사법부"
+KIIP_politics_39,0,C,C,C
+KIIP_politics_39,1,C,C,C
+KIIP_politics_39,2,C,C,C
+KIIP_politics_40,0,B,B,B
+KIIP_politics_40,1,B,B,B
+KIIP_politics_40,2,B,B,B
+KIIP_politics_41,0,B,B,B
+KIIP_politics_41,1,B,B,B
+KIIP_politics_41,2,B,B,B
+KIIP_politics_42,0,B,B,B
+KIIP_politics_42,1,B,B,B
+KIIP_politics_42,2,B,B,B
+KIIP_politics_43,0,D,A,A
+KIIP_politics_43,1,D,A,A
+KIIP_politics_43,2,D,A,A
+KIIP_politics_44,0,B,B,B
+KIIP_politics_44,1,B,B,B
+KIIP_politics_44,2,B,B,B
+KIIP_politics_45,0,C,C,C
+KIIP_politics_45,1,C,C,C
+KIIP_politics_45,2,C,C,C
+KIIP_politics_46,0,C,D,D
+KIIP_politics_46,1,C,C,C
+KIIP_politics_46,2,C,D,D
+KIIP_politics_47,0,A,D,D
+KIIP_politics_47,1,A,D,D
+KIIP_politics_47,2,A,D,D
+KIIP_politics_48,0,B,C,C: 헌법
+KIIP_politics_48,1,B,C,C: 헌법
+KIIP_politics_48,2,B,C,C: 헌법
+KIIP_politics_49,0,A,A,A
+KIIP_politics_49,1,A,A,A
+KIIP_politics_49,2,A,A,A
+KIIP_politics_50,0,C,C,C
+KIIP_politics_50,1,C,C,C
+KIIP_politics_50,2,C,C,C
+KIIP_politics_51,0,A,A,A
+KIIP_politics_51,1,A,A,A
+KIIP_politics_51,2,A,A,A
+KIIP_politics_52,0,C,C,C
+KIIP_politics_52,1,C,C,C
+KIIP_politics_52,2,C,C,C
+KIIP_politics_53,0,D,D,D
+KIIP_politics_53,1,D,D,D
+KIIP_politics_53,2,D,D,D
+KIIP_politics_54,0,C,C,C
+KIIP_politics_54,1,C,C,C
+KIIP_politics_54,2,C,C,C
+KIIP_politics_55,0,A,A,A
+KIIP_politics_55,1,A,A,A
+KIIP_politics_55,2,A,A,A
+KIIP_politics_56,0,A,A,A
+KIIP_politics_56,1,A,A,A
+KIIP_politics_56,2,A,A,A
+KIIP_politics_57,0,A,A,A: 층간소음 중재 서비스
+KIIP_politics_57,1,A,A,A: 층간소음 중재 서비스
+KIIP_politics_57,2,A,A,A: 층간소음 중재 서비스
+KIIP_politics_58,0,D,D,D
+KIIP_politics_58,1,D,D,D
+KIIP_politics_58,2,D,D,D
+KIIP_politics_59,0,A,A,A
+KIIP_politics_59,1,A,A,A
+KIIP_politics_59,2,A,A,A
+KIIP_politics_60,0,B,C,C
+KIIP_politics_60,1,B,B,B
+KIIP_politics_60,2,B,B,B: 2차 세계 대전
+KIIP_politics_61,0,A,A,A
+KIIP_politics_61,1,A,A,A
+KIIP_politics_61,2,A,A,A
+KIIP_politics_62,0,B,B,B
+KIIP_politics_62,1,B,B,B
+KIIP_politics_62,2,B,B,B
+KIIP_politics_63,0,D,D,D
+KIIP_politics_63,1,D,D,D
+KIIP_politics_63,2,D,D,D
+KIIP_politics_64,0,B,B,B
+KIIP_politics_64,1,B,B,B
+KIIP_politics_64,2,B,B,B
+KIIP_politics_65,0,C,C,C
+KIIP_politics_65,1,C,C,C
+KIIP_politics_65,2,C,C,C
+KIIP_politics_66,0,C,C,C
+KIIP_politics_66,1,C,C,C
+KIIP_politics_66,2,C,C,C
+KIIP_politics_67,0,A,A,A
+KIIP_politics_67,1,A,A,A
+KIIP_politics_67,2,A,A,A
+KIIP_politics_68,0,B,C,C
+KIIP_politics_68,1,B,C,C
+KIIP_politics_68,2,B,C,C
+KIIP_politics_69,0,B,B,B
+KIIP_politics_69,1,B,B,B
+KIIP_politics_69,2,B,B,B
+KIIP_politics_70,0,D,D,D
+KIIP_politics_70,1,D,D,D
+KIIP_politics_70,2,D,D,D
+KIIP_politics_71,0,A,A,A
+KIIP_politics_71,1,A,A,A: 한반도의 평화 통일
+KIIP_politics_71,2,A,A,A: 한반도의 평화 통일
+KIIP_politics_72,0,A,A,A
+KIIP_politics_72,1,A,A,A
+KIIP_politics_72,2,A,A,A
+KIIP_politics_73,0,D,D,D
+KIIP_politics_73,1,D,D,D
+KIIP_politics_73,2,D,D,D
+KIIP_politics_74,0,C,C,C
+KIIP_politics_74,1,C,C,C
+KIIP_politics_74,2,C,C,C
+KIIP_politics_75,0,C,C,C
+KIIP_politics_75,1,C,C,C
+KIIP_politics_75,2,C,C,C
+KIIP_politics_76,0,B,B,B
+KIIP_politics_76,1,B,B,B
+KIIP_politics_76,2,B,B,B
+KIIP_politics_77,0,C,D,D: 조선 시대
+KIIP_politics_77,1,C,D,D: 조선 시대
+KIIP_politics_77,2,C,D,D: 조선 시대
+KIIP_politics_78,0,B,B,B
+KIIP_politics_78,1,B,B,B: 2명
+KIIP_politics_78,2,B,B,B
+KIIP_politics_79,0,C,C,C
+KIIP_politics_79,1,C,C,C: 독도경비대
+KIIP_politics_79,2,C,C,C: 독도경비대
+Kedu_politics_1,0,B,D,D
+Kedu_politics_1,1,B,C,C
+Kedu_politics_1,2,B,B,B
+Kedu_politics_2,0,A,A,A
+Kedu_politics_2,1,A,A,A
+Kedu_politics_2,2,A,A,A
+Kedu_politics_3,0,C,C,C
+Kedu_politics_3,1,C,C,C
+Kedu_politics_3,2,C,C,C
+Kedu_politics_4,0,D,D,D: 이스라엘
+Kedu_politics_4,1,D,D,D: 이스라엘
+Kedu_politics_4,2,D,D,D: 이스라엘
+Kedu_politics_5,0,B,B,B
+Kedu_politics_5,1,B,B,B
+Kedu_politics_5,2,B,B,B
+KIIP_popular_1,0,A,A,A
+KIIP_popular_1,1,A,A,A
+KIIP_popular_1,2,A,A,A
+KIIP_popular_2,0,A,A,A
+KIIP_popular_2,1,A,A,A
+KIIP_popular_2,2,A,A,A
+KIIP_popular_3,0,A,A,A
+KIIP_popular_3,1,A,A,A
+KIIP_popular_3,2,A,A,A
+KIIP_popular_4,0,A,A,A
+KIIP_popular_4,1,A,A,A
+KIIP_popular_4,2,A,A,A
+KIIP_popular_5,0,C,C,C
+KIIP_popular_5,1,C,C,C
+KIIP_popular_5,2,C,C,C
+KIIP_popular_6,0,A,A,A
+KIIP_popular_6,1,A,A,A
+KIIP_popular_6,2,A,A,A
+KIIP_popular_7,0,A,A,A
+KIIP_popular_7,1,A,A,A
+KIIP_popular_7,2,A,A,A
+KIIP_popular_8,0,B,B,B
+KIIP_popular_8,1,B,B,B
+KIIP_popular_8,2,B,B,B
+KIIP_popular_9,0,A,A,A
+KIIP_popular_9,1,A,A,A
+KIIP_popular_9,2,A,A,A
+KIIP_popular_10,0,B,B,B
+KIIP_popular_10,1,B,B,B
+KIIP_popular_10,2,B,B,B
+KIIP_popular_11,0,D,D,D
+KIIP_popular_11,1,D,D,D
+KIIP_popular_11,2,D,D,D
+KIIP_popular_12,0,A,A,A
+KIIP_popular_12,1,A,A,A
+KIIP_popular_12,2,A,A,A
+KIIP_popular_13,0,B,B,B
+KIIP_popular_13,1,B,B,B
+KIIP_popular_13,2,B,B,B
+KIIP_popular_14,0,C,C,C
+KIIP_popular_14,1,C,C,C
+KIIP_popular_14,2,C,C,C
+KIIP_popular_15,0,A,A,A
+KIIP_popular_15,1,A,A,A
+KIIP_popular_15,2,A,A,A
+KIIP_popular_16,0,B,B,B
+KIIP_popular_16,1,B,B,B
+KIIP_popular_16,2,B,B,B
+KIIP_popular_17,0,A,A,A
+KIIP_popular_17,1,A,A,A
+KIIP_popular_17,2,A,A,A
+KIIP_popular_18,0,A,A,A
+KIIP_popular_18,1,A,A,A
+KIIP_popular_18,2,A,A,A
+KIIP_popular_19,0,A,A,A
+KIIP_popular_19,1,A,A,A
+KIIP_popular_19,2,A,A,A
+KIIP_popular_20,0,A,A,A
+KIIP_popular_20,1,A,A,A
+KIIP_popular_20,2,A,A,A
+KIIP_popular_21,0,B,B,B
+KIIP_popular_21,1,B,B,B
+KIIP_popular_21,2,B,B,B
+KIIP_popular_22,0,C,C,C
+KIIP_popular_22,1,C,C,C
+KIIP_popular_22,2,C,C,C
+KIIP_popular_23,0,B,B,B
+KIIP_popular_23,1,B,B,B
+KIIP_popular_23,2,B,B,B
+KIIP_popular_24,0,B,B,B
+KIIP_popular_24,1,B,B,B
+KIIP_popular_24,2,B,B,B
+KIIP_popular_25,0,B,B,B
+KIIP_popular_25,1,B,B,B
+KIIP_popular_25,2,B,B,B
+KIIP_popular_26,0,A,A,A: 겨울연가
+KIIP_popular_26,1,A,A,A: 겨울연가
+KIIP_popular_26,2,A,A,A: 겨울연가
+Kedu_popular_1,0,A,C,C
+Kedu_popular_1,1,A,C,C
+Kedu_popular_1,2,A,C,C
+Kedu_popular_2,0,C,C,C
+Kedu_popular_2,1,C,C,C
+Kedu_popular_2,2,C,C,C
+Kedu_popular_3,0,B,B,B
+Kedu_popular_3,1,B,B,B
+Kedu_popular_3,2,B,B,B
+Kedu_popular_4,0,B,B,B
+Kedu_popular_4,1,B,B,B
+Kedu_popular_4,2,B,B,B
+Kedu_popular_5,0,B,B,B
+Kedu_popular_5,1,B,B,B
+Kedu_popular_5,2,B,B,B
+Kedu_popular_6,0,B,B,B: 암살
+Kedu_popular_6,1,B,B,B: 암살
+Kedu_popular_6,2,B,B,B: 암살
+Kedu_popular_7,0,A,B,B
+Kedu_popular_7,1,A,A,A
+Kedu_popular_7,2,A,A,A
+Kedu_popular_8,0,D,A,A
+Kedu_popular_8,1,D,B,B
+Kedu_popular_8,2,D,A,A
+Kedu_popular_9,0,B,D,D: ㄹ - ㄱ - ㄷ - ㄴ
+Kedu_popular_9,1,B,D,D: ㄹ - ㄱ - ㄷ - ㄴ
+Kedu_popular_9,2,B,D,D: ㄹ - ㄱ - ㄷ - ㄴ
+Kedu_popular_10,0,D,D,D: <해를 품은 달>
+Kedu_popular_10,1,D,D,D: <해를 품은 달>
+Kedu_popular_10,2,D,D,D: <해를 품은 달>
+Kedu_popular_11,0,C,C,C
+Kedu_popular_11,1,C,C,C
+Kedu_popular_11,2,C,C,C
+Kedu_popular_12,0,C,C,C
+Kedu_popular_12,1,C,C,C
+Kedu_popular_12,2,C,C,C
+Kedu_popular_13,0,D,D,D
+Kedu_popular_13,1,D,D,D
+Kedu_popular_13,2,D,D,D
+Kedu_popular_14,0,D,D,D
+Kedu_popular_14,1,D,D,D
+Kedu_popular_14,2,D,D,D
+Kedu_popular_15,0,D,D,D
+Kedu_popular_15,1,D,D,D
+Kedu_popular_15,2,D,D,D
+KIIP_society_1,0,A,A,A
+KIIP_society_1,1,A,A,A
+KIIP_society_1,2,A,A,A
+KIIP_society_2,0,B,B,B
+KIIP_society_2,1,B,B,B
+KIIP_society_2,2,B,B,B
+KIIP_society_3,0,B,B,B
+KIIP_society_3,1,B,B,B
+KIIP_society_3,2,B,B,B
+KIIP_society_4,0,D,D,D
+KIIP_society_4,1,D,D,D
+KIIP_society_4,2,D,D,D
+KIIP_society_5,0,A,A,A
+KIIP_society_5,1,A,A,A
+KIIP_society_5,2,A,A,A
+KIIP_society_6,0,A,A,A
+KIIP_society_6,1,A,A,A
+KIIP_society_6,2,A,A,A
+KIIP_society_7,0,A,A,"A: 하늘, 땅, 물, 불"
+KIIP_society_7,1,A,A,A
+KIIP_society_7,2,A,A,A
+KIIP_society_8,0,A,A,A: 평화와 화합
+KIIP_society_8,1,A,A,A: 평화와 화합
+KIIP_society_8,2,A,A,A: 평화와 화합
+KIIP_society_9,0,A,A,A
+KIIP_society_9,1,A,A,A
+KIIP_society_9,2,A,A,A
+KIIP_society_10,0,B,B,B
+KIIP_society_10,1,B,B,B
+KIIP_society_10,2,B,B,B
+KIIP_society_11,0,C,D,D
+KIIP_society_11,1,C,D,D
+KIIP_society_11,2,C,D,D
+KIIP_society_12,0,C,C,C: 태극기
+KIIP_society_12,1,C,C,C: 태극기
+KIIP_society_12,2,C,C,C: 태극기
+KIIP_society_13,0,C,C,C: 태극기에 대한 맹세
+KIIP_society_13,1,C,C,C: 태극기에 대한 맹세
+KIIP_society_13,2,C,C,C
+KIIP_society_14,0,B,B,B
+KIIP_society_14,1,B,B,B
+KIIP_society_14,2,B,B,B
+KIIP_society_15,0,B,C,C
+KIIP_society_15,1,B,C,C
+KIIP_society_15,2,B,C,C
+KIIP_society_16,0,B,B,B
+KIIP_society_16,1,B,B,B
+KIIP_society_16,2,B,B,B
+KIIP_society_17,0,C,C,C
+KIIP_society_17,1,C,C,C
+KIIP_society_17,2,C,C,C
+KIIP_society_18,0,A,A,A
+KIIP_society_18,1,A,A,A
+KIIP_society_18,2,A,A,A
+KIIP_society_19,0,A,A,A
+KIIP_society_19,1,A,A,A
+KIIP_society_19,2,A,A,A
+KIIP_society_20,0,A,A,A
+KIIP_society_20,1,A,A,A
+KIIP_society_20,2,A,A,A
+KIIP_society_21,0,A,A,A
+KIIP_society_21,1,A,A,A
+KIIP_society_21,2,A,A,A
+KIIP_society_22,0,A,A,A
+KIIP_society_22,1,A,A,A
+KIIP_society_22,2,A,A,A
+KIIP_society_23,0,B,B,B
+KIIP_society_23,1,B,B,B
+KIIP_society_23,2,B,B,B
+KIIP_society_24,0,C,C,C
+KIIP_society_24,1,C,C,C
+KIIP_society_24,2,C,C,C
+KIIP_society_25,0,D,D,D
+KIIP_society_25,1,D,D,D
+KIIP_society_25,2,D,D,D
+KIIP_society_26,0,D,D,D
+KIIP_society_26,1,D,D,D
+KIIP_society_26,2,D,D,D
+KIIP_society_27,0,D,D,D
+KIIP_society_27,1,D,D,D
+KIIP_society_27,2,D,D,D
+KIIP_society_28,0,C,C,C
+KIIP_society_28,1,C,C,C
+KIIP_society_28,2,C,C,C
+KIIP_society_29,0,C,C,C
+KIIP_society_29,1,C,C,C
+KIIP_society_29,2,C,C,C
+KIIP_society_30,0,A,A,A
+KIIP_society_30,1,A,A,A
+KIIP_society_30,2,A,A,A
+KIIP_society_31,0,D,D,D
+KIIP_society_31,1,D,D,D
+KIIP_society_31,2,D,D,D
+KIIP_society_32,0,C,B,B
+KIIP_society_32,1,C,C,C
+KIIP_society_32,2,C,B,B
+KIIP_society_33,0,D,D,D
+KIIP_society_33,1,D,D,D
+KIIP_society_33,2,D,D,D
+KIIP_society_34,0,B,B,B
+KIIP_society_34,1,B,B,B
+KIIP_society_34,2,B,B,B
+KIIP_society_35,0,B,B,"B: 14개의 자음, 10개의 모음"
+KIIP_society_35,1,B,B,"B: 14개의 자음, 10개의 모음"
+KIIP_society_35,2,B,B,"B: 14개의 자음, 10개의 모음"
+KIIP_society_36,0,C,C,C
+KIIP_society_36,1,C,C,C
+KIIP_society_36,2,C,C,C
+KIIP_society_37,0,C,C,C: 24개
+KIIP_society_37,1,C,C,C: 24개
+KIIP_society_37,2,C,C,C
+KIIP_society_38,0,B,B,B
+KIIP_society_38,1,B,B,B
+KIIP_society_38,2,B,B,B
+KIIP_society_39,0,A,C,C: 세종상
+KIIP_society_39,1,A,C,C: 세종상
+KIIP_society_39,2,A,C,C: 세종상
+KIIP_society_40,0,A,A,A: 천지인
+KIIP_society_40,1,A,A,A
+KIIP_society_40,2,A,A,A
+KIIP_society_41,0,B,B,B
+KIIP_society_41,1,B,B,B
+KIIP_society_41,2,B,B,B
+KIIP_society_42,0,A,A,A
+KIIP_society_42,1,A,A,A
+KIIP_society_42,2,A,A,A
+KIIP_society_43,0,A,A,A
+KIIP_society_43,1,A,A,A
+KIIP_society_43,2,A,A,A
+KIIP_society_44,0,C,C,C
+KIIP_society_44,1,C,C,C
+KIIP_society_44,2,C,C,C
+KIIP_society_45,0,B,B,B: 3~5명
+KIIP_society_45,1,B,B,B: 3~5명
+KIIP_society_45,2,B,B,B: 3~5명
+KIIP_society_46,0,A,A,A: 첫째 아들
+KIIP_society_46,1,A,A,A
+KIIP_society_46,2,A,A,A
+KIIP_society_47,0,B,A,A
+KIIP_society_47,1,B,A,A
+KIIP_society_47,2,B,A,A
+KIIP_society_48,0,A,A,A
+KIIP_society_48,1,A,A,A
+KIIP_society_48,2,A,A,A
+KIIP_society_49,0,A,A,A
+KIIP_society_49,1,A,A,A
+KIIP_society_49,2,A,A,A
+KIIP_society_50,0,B,B,B
+KIIP_society_50,1,B,B,B
+KIIP_society_50,2,B,B,B
+KIIP_society_51,0,C,C,C
+KIIP_society_51,1,C,C,C
+KIIP_society_51,2,C,C,C
+KIIP_society_52,0,A,A,A
+KIIP_society_52,1,A,A,A
+KIIP_society_52,2,A,A,A
+KIIP_society_53,0,A,A,A
+KIIP_society_53,1,A,A,A
+KIIP_society_53,2,A,A,A
+KIIP_society_54,0,C,C,C
+KIIP_society_54,1,C,C,C
+KIIP_society_54,2,C,C,C
+KIIP_society_55,0,B,B,B
+KIIP_society_55,1,B,B,B
+KIIP_society_55,2,B,B,B
+KIIP_society_56,0,B,D,D
+KIIP_society_56,1,B,D,D
+KIIP_society_56,2,B,D,D: 삼촌
+KIIP_society_57,0,C,A,A
+KIIP_society_57,1,C,A,A
+KIIP_society_57,2,C,A,A: 이모
+KIIP_society_58,0,D,D,D
+KIIP_society_58,1,D,D,D: 삼촌
+KIIP_society_58,2,D,D,D
+KIIP_society_59,0,D,A,A
+KIIP_society_59,1,D,A,A
+KIIP_society_59,2,D,A,A
+KIIP_society_60,0,A,A,A
+KIIP_society_60,1,A,A,A
+KIIP_society_60,2,A,A,A
+KIIP_society_61,0,B,B,B
+KIIP_society_61,1,B,B,B
+KIIP_society_61,2,B,B,B
+KIIP_society_62,0,B,B,B: (새)아가
+KIIP_society_62,1,B,B,B: (새)아가
+KIIP_society_62,2,B,B,B: (새)아가
+KIIP_society_63,0,C,B,B: (새)아가
+KIIP_society_63,1,C,B,B: (새)아가
+KIIP_society_63,2,C,B,B: (새)아가
+KIIP_society_64,0,C,C,C: 김서방
+KIIP_society_64,1,C,C,C: 김서방
+KIIP_society_64,2,C,C,C: 김서방
+KIIP_society_65,0,D,D,D
+KIIP_society_65,1,D,D,D
+KIIP_society_65,2,D,D,D
+KIIP_society_66,0,A,B,B
+KIIP_society_66,1,A,B,B
+KIIP_society_66,2,A,B,B
+KIIP_society_67,0,B,B,B
+KIIP_society_67,1,B,B,B: 형님
+KIIP_society_67,2,B,B,B
+KIIP_society_68,0,C,A,A
+KIIP_society_68,1,C,A,A
+KIIP_society_68,2,C,A,A
+KIIP_society_69,0,C,C,C
+KIIP_society_69,1,C,C,C
+KIIP_society_69,2,C,D,D: 처남
+KIIP_society_70,0,A,A,A
+KIIP_society_70,1,A,A,A
+KIIP_society_70,2,A,A,A
+KIIP_society_71,0,A,B,B
+KIIP_society_71,1,A,B,B
+KIIP_society_71,2,A,B,B
+KIIP_society_72,0,C,C,C: 3촌
+KIIP_society_72,1,C,C,C
+KIIP_society_72,2,C,C,C: 3촌
+KIIP_society_73,0,D,C,C: 3촌
+KIIP_society_73,1,D,C,C: 3촌
+KIIP_society_73,2,D,C,C: 3촌
+KIIP_society_74,0,B,B,B
+KIIP_society_74,1,B,B,B
+KIIP_society_74,2,B,B,B
+KIIP_society_75,0,C,C,C: 외사촌
+KIIP_society_75,1,C,C,C: 외사촌
+KIIP_society_75,2,C,C,C: 외사촌
+KIIP_society_76,0,B,C,C: 외사촌
+KIIP_society_76,1,B,C,C: 외사촌
+KIIP_society_76,2,B,C,C: 외사촌
+KIIP_society_77,0,B,B,B
+KIIP_society_77,1,B,B,B
+KIIP_society_77,2,B,B,B
+KIIP_society_78,0,C,C,C: 15세
+KIIP_society_78,1,C,C,C: 15세
+KIIP_society_78,2,C,C,C: 15세
+KIIP_society_79,0,A,C,C: 공무원
+KIIP_society_79,1,A,C,C
+KIIP_society_79,2,A,C,C
+KIIP_society_80,0,A,A,A
+KIIP_society_80,1,A,A,A
+KIIP_society_80,2,A,A,A
+KIIP_society_81,0,C,C,C: 대기업
+KIIP_society_81,1,C,C,C: 대기업
+KIIP_society_81,2,C,C,C: 대기업
+KIIP_society_82,0,B,B,B
+KIIP_society_82,1,B,B,B
+KIIP_society_82,2,B,B,B
+KIIP_society_83,0,D,D,D
+KIIP_society_83,1,D,D,D
+KIIP_society_83,2,D,D,D
+KIIP_society_84,0,A,A,A
+KIIP_society_84,1,A,A,A
+KIIP_society_84,2,A,A,A
+KIIP_society_85,0,A,A,A
+KIIP_society_85,1,A,A,A
+KIIP_society_85,2,A,A,A
+KIIP_society_86,0,A,A,A
+KIIP_society_86,1,A,A,A
+KIIP_society_86,2,A,A,A
+KIIP_society_87,0,A,A,A
+KIIP_society_87,1,A,A,A
+KIIP_society_87,2,A,A,A
+KIIP_society_88,0,B,B,B
+KIIP_society_88,1,B,B,B: 동료와 상사 모두에게
+KIIP_society_88,2,B,B,B
+KIIP_society_89,0,A,A,A
+KIIP_society_89,1,A,A,A
+KIIP_society_89,2,A,A,A
+KIIP_society_90,0,B,B,B
+KIIP_society_90,1,B,B,B
+KIIP_society_90,2,B,B,B
+KIIP_society_91,0,C,C,C
+KIIP_society_91,1,C,C,C
+KIIP_society_91,2,C,C,C
+KIIP_society_92,0,A,A,A
+KIIP_society_92,1,A,A,A
+KIIP_society_92,2,A,A,A: 취미생활
+KIIP_society_93,0,C,C,C
+KIIP_society_93,1,C,C,C
+KIIP_society_93,2,C,C,C
+KIIP_society_94,0,B,B,B
+KIIP_society_94,1,B,B,B
+KIIP_society_94,2,B,B,B
+KIIP_society_95,0,B,B,B
+KIIP_society_95,1,B,B,B
+KIIP_society_95,2,B,B,B
+KIIP_society_96,0,B,B,B
+KIIP_society_96,1,B,B,B
+KIIP_society_96,2,B,B,B
+KIIP_society_97,0,C,D,D
+KIIP_society_97,1,C,D,D
+KIIP_society_97,2,C,D,D
+KIIP_society_98,0,C,C,C
+KIIP_society_98,1,C,C,C
+KIIP_society_98,2,C,C,C
+KIIP_society_99,0,B,B,B
+KIIP_society_99,1,B,B,B
+KIIP_society_99,2,B,B,B
+KIIP_society_100,0,A,A,A
+KIIP_society_100,1,A,A,A
+KIIP_society_100,2,A,A,A
+KIIP_society_101,0,C,C,C
+KIIP_society_101,1,C,C,C
+KIIP_society_101,2,C,C,C
+KIIP_society_102,0,A,A,A
+KIIP_society_102,1,A,A,A
+KIIP_society_102,2,A,A,A
+KIIP_society_103,0,A,A,A
+KIIP_society_103,1,A,A,A
+KIIP_society_103,2,A,A,A
+KIIP_society_104,0,A,A,A
+KIIP_society_104,1,A,A,A
+KIIP_society_104,2,A,A,A
+KIIP_society_105,0,A,A,A
+KIIP_society_105,1,A,A,A
+KIIP_society_105,2,A,A,A
+KIIP_society_106,0,C,C,C
+KIIP_society_106,1,C,C,C
+KIIP_society_106,2,C,C,C
+KIIP_society_107,0,A,A,A
+KIIP_society_107,1,A,A,A
+KIIP_society_107,2,A,A,A
+KIIP_society_108,0,A,A,A
+KIIP_society_108,1,A,A,A
+KIIP_society_108,2,A,A,A
+KIIP_society_109,0,D,C,C
+KIIP_society_109,1,D,C,C
+KIIP_society_109,2,D,C,C
+KIIP_society_110,0,A,A,A
+KIIP_society_110,1,A,A,A
+KIIP_society_110,2,A,A,A
+KIIP_society_111,0,D,D,D
+KIIP_society_111,1,D,D,D: 신분증
+KIIP_society_111,2,D,D,D
+KIIP_society_112,0,B,B,B
+KIIP_society_112,1,B,B,B
+KIIP_society_112,2,B,B,B
+KIIP_society_113,0,C,C,C
+KIIP_society_113,1,C,C,C
+KIIP_society_113,2,C,C,C
+KIIP_society_114,0,B,B,B
+KIIP_society_114,1,B,B,B
+KIIP_society_114,2,B,B,B
+KIIP_society_115,0,A,A,A
+KIIP_society_115,1,A,A,A
+KIIP_society_115,2,A,A,A
+KIIP_society_116,0,B,B,B
+KIIP_society_116,1,B,B,B
+KIIP_society_116,2,B,B,B
+KIIP_society_117,0,A,A,A
+KIIP_society_117,1,A,A,A
+KIIP_society_117,2,A,A,A
+KIIP_society_118,0,A,A,A
+KIIP_society_118,1,A,A,A
+KIIP_society_118,2,A,A,A
+KIIP_society_119,0,B,B,B
+KIIP_society_119,1,B,B,B
+KIIP_society_119,2,B,B,B
+KIIP_society_120,0,A,A,A
+KIIP_society_120,1,A,A,A
+KIIP_society_120,2,A,A,A: 요금 할인
+KIIP_society_121,0,D,D,D
+KIIP_society_121,1,D,D,D
+KIIP_society_121,2,D,D,D
+KIIP_society_122,0,B,B,B
+KIIP_society_122,1,B,B,B
+KIIP_society_122,2,B,B,B
+KIIP_society_123,0,A,A,A
+KIIP_society_123,1,A,A,A
+KIIP_society_123,2,A,A,A
+KIIP_society_124,0,A,A,A
+KIIP_society_124,1,A,A,A
+KIIP_society_124,2,A,A,A
+KIIP_society_125,0,B,B,B
+KIIP_society_125,1,B,B,B
+KIIP_society_125,2,B,B,B
+KIIP_society_126,0,D,B,B: 버스 정류장
+KIIP_society_126,1,D,B,B: 버스 정류장
+KIIP_society_126,2,D,B,B
+KIIP_society_127,0,C,C,C
+KIIP_society_127,1,C,C,C
+KIIP_society_127,2,C,C,C
+KIIP_society_128,0,A,A,A
+KIIP_society_128,1,A,A,A
+KIIP_society_128,2,A,A,A
+KIIP_society_129,0,A,A,A
+KIIP_society_129,1,A,A,A
+KIIP_society_129,2,A,A,A
+KIIP_society_130,0,C,C,C
+KIIP_society_130,1,C,C,C
+KIIP_society_130,2,C,C,C
+KIIP_society_131,0,A,A,A
+KIIP_society_131,1,A,A,A
+KIIP_society_131,2,A,A,A
+KIIP_society_132,0,C,C,C
+KIIP_society_132,1,C,C,C
+KIIP_society_132,2,C,C,C
+KIIP_society_133,0,A,A,A
+KIIP_society_133,1,A,A,A
+KIIP_society_133,2,A,A,A
+KIIP_society_134,0,D,D,D
+KIIP_society_134,1,D,D,D
+KIIP_society_134,2,D,D,D
+KIIP_society_135,0,B,B,B
+KIIP_society_135,1,B,B,B
+KIIP_society_135,2,B,B,B
+KIIP_society_136,0,A,A,A
+KIIP_society_136,1,A,A,A
+KIIP_society_136,2,A,A,A
+KIIP_society_137,0,D,D,D
+KIIP_society_137,1,D,D,D
+KIIP_society_137,2,D,D,D
+KIIP_society_138,0,A,A,A
+KIIP_society_138,1,A,A,A
+KIIP_society_138,2,A,A,A
+KIIP_society_139,0,D,D,D
+KIIP_society_139,1,D,D,D
+KIIP_society_139,2,D,D,D
+KIIP_society_140,0,A,A,A
+KIIP_society_140,1,A,A,A
+KIIP_society_140,2,A,A,A
+KIIP_society_141,0,A,A,A
+KIIP_society_141,1,A,A,A
+KIIP_society_141,2,A,A,A
+KIIP_society_142,0,A,A,A
+KIIP_society_142,1,A,A,A
+KIIP_society_142,2,A,A,A
+KIIP_society_143,0,C,C,C
+KIIP_society_143,1,C,C,C
+KIIP_society_143,2,C,C,C
+KIIP_society_144,0,A,A,A
+KIIP_society_144,1,A,A,A
+KIIP_society_144,2,A,A,A
+KIIP_society_145,0,A,A,A
+KIIP_society_145,1,A,A,A
+KIIP_society_145,2,A,A,A
+KIIP_society_146,0,A,A,A
+KIIP_society_146,1,A,A,A
+KIIP_society_146,2,A,A,A
+KIIP_society_147,0,A,A,A
+KIIP_society_147,1,A,A,A
+KIIP_society_147,2,A,A,A
+KIIP_society_148,0,A,A,A
+KIIP_society_148,1,A,A,A
+KIIP_society_148,2,A,A,A
+KIIP_society_149,0,A,A,A
+KIIP_society_149,1,A,A,A
+KIIP_society_149,2,A,A,A
+KIIP_society_150,0,A,A,A
+KIIP_society_150,1,A,A,A
+KIIP_society_150,2,A,A,A
+KIIP_society_151,0,A,A,A
+KIIP_society_151,1,A,A,A
+KIIP_society_151,2,A,A,A
+KIIP_society_152,0,A,A,A
+KIIP_society_152,1,A,A,A
+KIIP_society_152,2,A,A,A
+KIIP_society_153,0,D,D,D
+KIIP_society_153,1,D,D,D
+KIIP_society_153,2,D,D,D
+KIIP_society_154,0,A,A,A
+KIIP_society_154,1,A,A,A
+KIIP_society_154,2,A,A,A
+KIIP_society_155,0,A,A,A
+KIIP_society_155,1,A,A,A
+KIIP_society_155,2,A,A,A
+KIIP_society_156,0,B,B,B
+KIIP_society_156,1,B,B,B
+KIIP_society_156,2,B,B,B
+KIIP_society_157,0,A,A,A
+KIIP_society_157,1,A,A,A
+KIIP_society_157,2,A,A,A
+KIIP_society_158,0,D,D,D
+KIIP_society_158,1,D,D,D
+KIIP_society_158,2,D,D,D
+KIIP_society_159,0,B,B,B
+KIIP_society_159,1,B,B,B
+KIIP_society_159,2,B,B,B
+KIIP_society_160,0,A,A,A
+KIIP_society_160,1,A,A,A
+KIIP_society_160,2,A,A,A
+KIIP_society_161,0,C,C,C: 90%
+KIIP_society_161,1,C,C,C: 90%
+KIIP_society_161,2,C,C,C: 90%
+KIIP_society_162,0,A,A,A
+KIIP_society_162,1,A,A,A
+KIIP_society_162,2,A,A,A
+KIIP_society_163,0,A,A,A
+KIIP_society_163,1,A,A,A
+KIIP_society_163,2,A,A,A
+KIIP_society_164,0,B,B,B
+KIIP_society_164,1,B,B,B
+KIIP_society_164,2,B,B,B
+KIIP_society_165,0,A,A,A
+KIIP_society_165,1,A,A,A
+KIIP_society_165,2,A,A,A
+KIIP_society_166,0,B,B,B
+KIIP_society_166,1,B,B,B
+KIIP_society_166,2,B,B,B
+KIIP_society_167,0,A,A,A
+KIIP_society_167,1,A,A,A
+KIIP_society_167,2,A,A,A
+KIIP_society_168,0,A,A,A
+KIIP_society_168,1,A,A,A
+KIIP_society_168,2,A,A,A
+KIIP_society_169,0,B,B,B
+KIIP_society_169,1,B,B,B
+KIIP_society_169,2,B,B,B
+KIIP_society_170,0,A,A,A
+KIIP_society_170,1,A,A,A
+KIIP_society_170,2,A,A,A
+KIIP_society_171,0,D,D,D
+KIIP_society_171,1,D,D,D
+KIIP_society_171,2,D,D,D
+KIIP_society_172,0,B,C,C
+KIIP_society_172,1,B,C,C: 2006년
+KIIP_society_172,2,B,C,C: 2006년
+KIIP_society_173,0,D,C,C
+KIIP_society_173,1,D,C,C: 3일
+KIIP_society_173,2,D,C,C: 3일
+KIIP_society_174,0,A,A,A
+KIIP_society_174,1,A,A,A
+KIIP_society_174,2,A,A,A
+KIIP_society_175,0,A,D,D: 임신진단서
+KIIP_society_175,1,A,D,D: 임신진단서
+KIIP_society_175,2,A,D,D: 임신진단서
+KIIP_society_176,0,D,D,D
+KIIP_society_176,1,D,D,D
+KIIP_society_176,2,D,D,D
+KIIP_society_177,0,A,A,A
+KIIP_society_177,1,A,A,A
+KIIP_society_177,2,A,A,A
+KIIP_society_178,0,A,A,A
+KIIP_society_178,1,A,A,A
+KIIP_society_178,2,A,A,A
+KIIP_society_179,0,A,A,A
+KIIP_society_179,1,A,A,A
+KIIP_society_179,2,A,A,A
+KIIP_society_180,0,A,A,A
+KIIP_society_180,1,A,A,A
+KIIP_society_180,2,A,A,A
+KIIP_society_181,0,A,A,A
+KIIP_society_181,1,A,A,A
+KIIP_society_181,2,A,A,A
+KIIP_society_182,0,A,A,A
+KIIP_society_182,1,A,A,A
+KIIP_society_182,2,A,A,A
+KIIP_society_183,0,A,A,A
+KIIP_society_183,1,A,A,A
+KIIP_society_183,2,A,A,A
+KIIP_society_184,0,A,A,A
+KIIP_society_184,1,A,A,A
+KIIP_society_184,2,A,A,A
+KIIP_society_185,0,A,A,A
+KIIP_society_185,1,A,A,A
+KIIP_society_185,2,A,A,A
+KIIP_society_186,0,A,D,D
+KIIP_society_186,1,A,D,D
+KIIP_society_186,2,A,D,D
+KIIP_society_187,0,A,A,A
+KIIP_society_187,1,A,A,A
+KIIP_society_187,2,A,A,A
+KIIP_society_188,0,A,A,A
+KIIP_society_188,1,A,A,A
+KIIP_society_188,2,A,A,A
+KIIP_society_189,0,C,C,C
+KIIP_society_189,1,C,C,C
+KIIP_society_189,2,C,C,C
+KIIP_society_190,0,A,A,A
+KIIP_society_190,1,A,A,A
+KIIP_society_190,2,A,A,A
+KIIP_society_191,0,C,C,C
+KIIP_society_191,1,C,C,C
+KIIP_society_191,2,C,C,C
+KIIP_society_192,0,C,C,C
+KIIP_society_192,1,C,C,C
+KIIP_society_192,2,C,C,C
+KIIP_society_193,0,A,A,A
+KIIP_society_193,1,A,A,A
+KIIP_society_193,2,A,A,A
+KIIP_society_194,0,D,D,D
+KIIP_society_194,1,D,D,D
+KIIP_society_194,2,D,D,D
+KIIP_society_195,0,C,D,D
+KIIP_society_195,1,C,D,D
+KIIP_society_195,2,C,D,D
+KIIP_society_196,0,A,A,A
+KIIP_society_196,1,A,A,A
+KIIP_society_196,2,A,A,A
+KIIP_society_197,0,D,D,D
+KIIP_society_197,1,D,D,D
+KIIP_society_197,2,D,D,D
+KIIP_society_198,0,B,D,D
+KIIP_society_198,1,B,D,D
+KIIP_society_198,2,B,D,D
+KIIP_society_199,0,A,A,A
+KIIP_society_199,1,A,A,A
+KIIP_society_199,2,A,A,A
+KIIP_society_200,0,A,A,A
+KIIP_society_200,1,A,A,A
+KIIP_society_200,2,A,A,A
+KIIP_society_201,0,B,B,B
+KIIP_society_201,1,B,B,B
+KIIP_society_201,2,B,B,B
+KIIP_society_202,0,A,A,A: 알림장
+KIIP_society_202,1,A,A,A: 알림장
+KIIP_society_202,2,A,A,A: 알림장
+KIIP_society_203,0,A,A,A
+KIIP_society_203,1,A,A,A
+KIIP_society_203,2,A,A,A
+KIIP_society_204,0,C,C,C
+KIIP_society_204,1,C,C,C
+KIIP_society_204,2,C,C,C
+KIIP_society_205,0,A,A,A
+KIIP_society_205,1,A,A,A
+KIIP_society_205,2,A,A,A
+KIIP_society_206,0,A,A,A: 장학금 제도
+KIIP_society_206,1,A,A,A: 장학금 제도
+KIIP_society_206,2,A,A,A: 장학금 제도
+KIIP_society_207,0,C,C,C
+KIIP_society_207,1,C,C,C
+KIIP_society_207,2,C,C,C
+KIIP_society_208,0,B,B,B
+KIIP_society_208,1,B,B,B
+KIIP_society_208,2,B,B,B
+KIIP_society_209,0,B,B,B
+KIIP_society_209,1,B,B,B
+KIIP_society_209,2,B,B,B
+KIIP_society_210,0,B,B,B
+KIIP_society_210,1,B,B,B
+KIIP_society_210,2,B,B,B
+KIIP_society_211,0,A,A,A
+KIIP_society_211,1,A,A,A
+KIIP_society_211,2,A,A,A
+KIIP_society_212,0,C,C,C
+KIIP_society_212,1,C,C,C
+KIIP_society_212,2,C,C,C
+KIIP_society_213,0,C,C,C
+KIIP_society_213,1,C,C,C
+KIIP_society_213,2,C,C,C
+KIIP_society_214,0,A,A,A
+KIIP_society_214,1,A,A,A
+KIIP_society_214,2,A,A,A
+KIIP_society_215,0,B,B,B
+KIIP_society_215,1,B,B,B
+KIIP_society_215,2,B,B,B
+KIIP_society_216,0,A,A,A
+KIIP_society_216,1,A,A,A
+KIIP_society_216,2,A,A,A
+KIIP_society_217,0,A,A,A
+KIIP_society_217,1,A,A,A
+KIIP_society_217,2,A,A,A
+KIIP_society_218,0,C,C,C: 79%
+KIIP_society_218,1,C,C,C: 79%
+KIIP_society_218,2,C,C,C: 79%
+KIIP_society_219,0,B,B,B
+KIIP_society_219,1,B,B,B
+KIIP_society_219,2,B,B,B
+KIIP_society_220,0,A,A,A
+KIIP_society_220,1,A,A,A
+KIIP_society_220,2,A,A,A
+KIIP_society_221,0,A,A,A
+KIIP_society_221,1,A,A,A
+KIIP_society_221,2,A,A,A
+KIIP_society_222,0,A,A,A
+KIIP_society_222,1,A,A,A
+KIIP_society_222,2,A,A,A
+KIIP_society_223,0,D,D,D
+KIIP_society_223,1,D,D,D
+KIIP_society_223,2,D,D,D
+KIIP_society_224,0,B,B,B
+KIIP_society_224,1,B,B,B
+KIIP_society_224,2,B,B,B
+KIIP_society_225,0,C,C,C
+KIIP_society_225,1,C,C,C
+KIIP_society_225,2,C,C,C
+KIIP_society_226,0,B,B,B
+KIIP_society_226,1,B,B,B
+KIIP_society_226,2,B,B,B
+KIIP_society_227,0,A,A,A
+KIIP_society_227,1,A,A,A
+KIIP_society_227,2,A,A,A
+KIIP_society_228,0,B,C,C
+KIIP_society_228,1,B,C,C
+KIIP_society_228,2,B,C,C: 약 80%
+KIIP_society_229,0,B,D,D
+KIIP_society_229,1,B,D,D
+KIIP_society_229,2,B,D,D
+KIIP_society_230,0,B,B,B
+KIIP_society_230,1,B,B,B
+KIIP_society_230,2,B,B,B
+KIIP_society_231,0,A,A,A
+KIIP_society_231,1,A,A,A
+KIIP_society_231,2,A,A,A
+KIIP_society_232,0,C,C,C
+KIIP_society_232,1,C,C,C: 최고 수준
+KIIP_society_232,2,C,C,C: 최고 수준
+KIIP_society_233,0,B,B,B
+KIIP_society_233,1,B,B,B
+KIIP_society_233,2,B,B,B
+KIIP_society_234,0,D,D,D
+KIIP_society_234,1,D,D,D
+KIIP_society_234,2,D,D,D
+KIIP_society_235,0,C,C,C
+KIIP_society_235,1,C,C,C
+KIIP_society_235,2,C,C,C
+KIIP_society_236,0,B,B,B
+KIIP_society_236,1,B,B,B
+KIIP_society_236,2,B,B,B
+KIIP_society_237,0,A,A,A
+KIIP_society_237,1,A,A,A
+KIIP_society_237,2,A,A,A
+KIIP_society_238,0,D,D,D: 고소득층학생
+KIIP_society_238,1,D,D,D
+KIIP_society_238,2,D,D,D: 고소득층학생
+KIIP_society_239,0,A,A,A
+KIIP_society_239,1,A,A,A
+KIIP_society_239,2,A,A,A
+KIIP_society_240,0,A,A,A
+KIIP_society_240,1,A,A,A
+KIIP_society_240,2,A,A,A
+KIIP_society_241,0,A,A,A
+KIIP_society_241,1,A,A,A
+KIIP_society_241,2,A,A,A
+KIIP_society_242,0,B,B,B
+KIIP_society_242,1,B,B,B
+KIIP_society_242,2,B,B,B
+KIIP_society_243,0,A,A,A
+KIIP_society_243,1,A,A,A
+KIIP_society_243,2,A,A,A
+KIIP_society_244,0,A,A,A
+KIIP_society_244,1,A,A,A
+KIIP_society_244,2,A,A,A
+KIIP_society_245,0,B,B,B
+KIIP_society_245,1,B,B,B
+KIIP_society_245,2,B,B,B
+KIIP_society_246,0,A,A,A
+KIIP_society_246,1,A,A,A
+KIIP_society_246,2,A,A,A
+KIIP_society_247,0,A,D,D
+KIIP_society_247,1,A,D,D
+KIIP_society_247,2,A,D,D
+KIIP_society_248,0,A,A,A
+KIIP_society_248,1,A,A,A
+KIIP_society_248,2,A,A,A
+KIIP_society_249,0,A,A,A
+KIIP_society_249,1,A,A,A
+KIIP_society_249,2,A,A,A
+KIIP_society_250,0,C,C,C
+KIIP_society_250,1,C,C,C
+KIIP_society_250,2,C,C,C
+KIIP_society_251,0,C,D,D
+KIIP_society_251,1,C,D,D
+KIIP_society_251,2,C,D,D
+KIIP_society_252,0,B,B,B
+KIIP_society_252,1,B,B,B
+KIIP_society_252,2,B,B,B
+KIIP_society_253,0,D,D,D
+KIIP_society_253,1,D,D,D
+KIIP_society_253,2,D,D,D
+KIIP_society_254,0,A,A,A
+KIIP_society_254,1,A,A,A
+KIIP_society_254,2,A,A,A
+KIIP_society_255,0,B,B,B: 수백 가구에서 수천 가구
+KIIP_society_255,1,B,B,B: 수백 가구에서 수천 가구
+KIIP_society_255,2,B,B,B: 수백 가구에서 수천 가구
+KIIP_society_256,0,D,D,D
+KIIP_society_256,1,D,D,D
+KIIP_society_256,2,D,D,D
+KIIP_society_257,0,A,A,A
+KIIP_society_257,1,A,A,A
+KIIP_society_257,2,A,A,A
+KIIP_society_258,0,A,A,A
+KIIP_society_258,1,A,A,A
+KIIP_society_258,2,A,A,A
+KIIP_society_259,0,D,D,D: 전세금
+KIIP_society_259,1,D,D,D: 전세금
+KIIP_society_259,2,D,D,D: 전세금
+KIIP_society_260,0,A,A,A
+KIIP_society_260,1,A,A,A
+KIIP_society_260,2,A,A,A
+KIIP_society_261,0,A,A,A
+KIIP_society_261,1,A,A,A
+KIIP_society_261,2,A,A,A
+KIIP_society_262,0,A,B,B
+KIIP_society_262,1,A,B,B
+KIIP_society_262,2,A,B,B
+KIIP_society_263,0,B,B,B: 전세
+KIIP_society_263,1,B,B,B: 전세
+KIIP_society_263,2,B,B,B: 전세
+KIIP_society_264,0,B,B,B
+KIIP_society_264,1,B,B,B
+KIIP_society_264,2,B,B,B
+KIIP_society_265,0,A,A,A
+KIIP_society_265,1,A,A,A
+KIIP_society_265,2,A,A,A
+KIIP_society_266,0,D,D,D
+KIIP_society_266,1,D,D,D
+KIIP_society_266,2,D,D,D
+KIIP_society_267,0,D,D,D
+KIIP_society_267,1,D,D,D
+KIIP_society_267,2,D,D,D
+KIIP_society_268,0,D,D,D
+KIIP_society_268,1,D,D,D
+KIIP_society_268,2,D,D,D
+KIIP_society_269,0,B,B,B
+KIIP_society_269,1,B,B,B
+KIIP_society_269,2,B,B,B
+KIIP_society_270,0,B,B,B
+KIIP_society_270,1,B,B,B
+KIIP_society_270,2,B,B,B
+KIIP_society_271,0,A,A,A: 다양한 주택 정책 마련
+KIIP_society_271,1,A,A,A: 다양한 주택 정책 마련
+KIIP_society_271,2,A,A,A: 다양한 주택 정책 마련
+KIIP_society_272,0,A,A,A
+KIIP_society_272,1,A,A,A
+KIIP_society_272,2,A,A,A: 공동주택 건설
+KIIP_society_273,0,D,D,D
+KIIP_society_273,1,D,D,D
+KIIP_society_273,2,D,D,D
+KIIP_society_274,0,B,B,B
+KIIP_society_274,1,B,B,B: 저소득층이나 집이 없는 서민들
+KIIP_society_274,2,B,B,B
+KIIP_society_275,0,A,D,D
+KIIP_society_275,1,A,A,A
+KIIP_society_275,2,A,D,D
+KIIP_society_276,0,A,A,A
+KIIP_society_276,1,A,A,A
+KIIP_society_276,2,A,A,A
+KIIP_society_277,0,B,D,D
+KIIP_society_277,1,B,D,D
+KIIP_society_277,2,B,D,D
+KIIP_society_278,0,C,C,C
+KIIP_society_278,1,C,C,C
+KIIP_society_278,2,C,C,C
+KIIP_society_279,0,A,A,A
+KIIP_society_279,1,A,A,A
+KIIP_society_279,2,A,A,A
+KIIP_society_280,0,B,B,B
+KIIP_society_280,1,B,B,B
+KIIP_society_280,2,B,B,B
+KIIP_society_281,0,A,C,C
+KIIP_society_281,1,A,C,C
+KIIP_society_281,2,A,C,C
+KIIP_society_282,0,B,B,B
+KIIP_society_282,1,B,B,B
+KIIP_society_282,2,B,B,B
+KIIP_society_283,0,C,D,D
+KIIP_society_283,1,C,D,D
+KIIP_society_283,2,C,D,D
+KIIP_society_284,0,A,B,B
+KIIP_society_284,1,A,A,A
+KIIP_society_284,2,A,D,D
+Kedu_Society_1,0,B,B,B
+Kedu_Society_1,1,B,B,B
+Kedu_Society_1,2,B,B,B
+Kedu_Society_2,0,D,D,D
+Kedu_Society_2,1,D,D,D
+Kedu_Society_2,2,D,D,D
+Kedu_Society_3,0,A,,정답: C
+Kedu_Society_3,1,A,,정답: C
+Kedu_Society_3,2,A,,정답: C
+Kedu_Society_4,0,D,B,B
+Kedu_Society_4,1,D,B,B
+Kedu_Society_4,2,D,B,B
+Kedu_Society_5,0,B,B,B
+Kedu_Society_5,1,B,B,B
+Kedu_Society_5,2,B,B,B
+Kedu_Society_6,0,A,A,A
+Kedu_Society_6,1,A,A,A
+Kedu_Society_6,2,A,A,A
+Kedu_Society_7,0,B,B,B
+Kedu_Society_7,1,B,B,B
+Kedu_Society_7,2,B,B,B
+Kedu_Society_8,0,D,B,B
+Kedu_Society_8,1,D,B,B
+Kedu_Society_8,2,D,B,B
+Kedu_Society_9,0,A,A,A
+Kedu_Society_9,1,A,A,A
+Kedu_Society_9,2,A,A,A
+Kedu_Society_10,0,C,A,A
+Kedu_Society_10,1,C,A,A
+Kedu_Society_10,2,C,A,A
+Kedu_Society_11,0,D,D,D
+Kedu_Society_11,1,D,D,D
+Kedu_Society_11,2,D,D,D
+Kedu_Society_12,0,D,C,C
+Kedu_Society_12,1,D,C,C
+Kedu_Society_12,2,D,C,C
+Kedu_Society_13,0,A,B,B
+Kedu_Society_13,1,A,B,B
+Kedu_Society_13,2,A,B,B
+Kedu_Society_14,0,D,D,D
+Kedu_Society_14,1,D,D,D
+Kedu_Society_14,2,D,D,D
+Kedu_Society_15,0,B,B,B
+Kedu_Society_15,1,B,B,B
+Kedu_Society_15,2,B,B,B
+Kedu_Society_16,0,B,B,B
+Kedu_Society_16,1,B,B,B
+Kedu_Society_16,2,B,B,B
+Kedu_Society_17,0,A,A,A
+Kedu_Society_17,1,A,A,A: ㄱ - ㄴ - ㄷ - ㄹ
+Kedu_Society_17,2,A,A,A: ㄱ - ㄴ - ㄷ - ㄹ
+Kedu_Society_18,0,B,C,C: 제헌절
+Kedu_Society_18,1,B,C,C: 제헌절
+Kedu_Society_18,2,B,C,C: 제헌절
+Kedu_Society_19,0,C,C,C
+Kedu_Society_19,1,C,C,C
+Kedu_Society_19,2,C,C,C
+Kedu_Society_20,0,D,D,D
+Kedu_Society_20,1,D,D,D
+Kedu_Society_20,2,D,D,D
+Kedu_Society_21,0,C,C,C
+Kedu_Society_21,1,C,A,A
+Kedu_Society_21,2,C,A,A
+Kedu_Society_22,0,D,C,C
+Kedu_Society_22,1,D,C,C
+Kedu_Society_22,2,D,A,A
+Kedu_Society_23,0,B,A,A
+Kedu_Society_23,1,B,C,C
+Kedu_Society_23,2,B,A,A
+Kedu_Society_24,0,C,C,C
+Kedu_Society_24,1,C,C,C
+Kedu_Society_24,2,C,C,C
+Kedu_Society_25,0,C,C,C
+Kedu_Society_25,1,C,C,C
+Kedu_Society_25,2,C,C,C
+KIIP_tradition_1,0,C,C,C
+KIIP_tradition_1,1,C,C,C
+KIIP_tradition_1,2,C,C,C
+KIIP_tradition_2,0,C,C,C
+KIIP_tradition_2,1,C,C,C
+KIIP_tradition_2,2,C,C,C
+KIIP_tradition_3,0,D,D,D
+KIIP_tradition_3,1,D,D,D
+KIIP_tradition_3,2,D,D,D: 장옷
+KIIP_tradition_4,0,C,C,C
+KIIP_tradition_4,1,C,C,C
+KIIP_tradition_4,2,C,C,C
+KIIP_tradition_5,0,A,A,A
+KIIP_tradition_5,1,A,A,A
+KIIP_tradition_5,2,A,A,A
+KIIP_tradition_6,0,B,B,B
+KIIP_tradition_6,1,B,B,B
+KIIP_tradition_6,2,B,B,B
+KIIP_tradition_7,0,A,A,A
+KIIP_tradition_7,1,A,A,A
+KIIP_tradition_7,2,A,A,A
+KIIP_tradition_8,0,A,A,A
+KIIP_tradition_8,1,A,A,A
+KIIP_tradition_8,2,A,A,A
+KIIP_tradition_9,0,A,A,A
+KIIP_tradition_9,1,A,A,A
+KIIP_tradition_9,2,A,A,A
+KIIP_tradition_10,0,A,A,A
+KIIP_tradition_10,1,A,A,A
+KIIP_tradition_10,2,A,A,A
+KIIP_tradition_11,0,A,A,A
+KIIP_tradition_11,1,A,A,A
+KIIP_tradition_11,2,A,A,A
+KIIP_tradition_12,0,C,C,C
+KIIP_tradition_12,1,C,C,C
+KIIP_tradition_12,2,C,C,C
+KIIP_tradition_13,0,A,A,A
+KIIP_tradition_13,1,A,A,A
+KIIP_tradition_13,2,A,A,A
+KIIP_tradition_14,0,A,A,A
+KIIP_tradition_14,1,A,A,A
+KIIP_tradition_14,2,A,A,A
+KIIP_tradition_15,0,C,C,C
+KIIP_tradition_15,1,C,C,C
+KIIP_tradition_15,2,C,C,C
+KIIP_tradition_16,0,A,A,A
+KIIP_tradition_16,1,A,A,A
+KIIP_tradition_16,2,A,A,A
+KIIP_tradition_17,0,C,C,C
+KIIP_tradition_17,1,C,C,C
+KIIP_tradition_17,2,C,C,C
+KIIP_tradition_18,0,D,D,D
+KIIP_tradition_18,1,D,D,D
+KIIP_tradition_18,2,D,D,D
+KIIP_tradition_19,0,B,B,B
+KIIP_tradition_19,1,B,B,B
+KIIP_tradition_19,2,B,B,B
+KIIP_tradition_20,0,C,B,B
+KIIP_tradition_20,1,C,B,B
+KIIP_tradition_20,2,C,B,B
+KIIP_tradition_21,0,C,C,C
+KIIP_tradition_21,1,C,C,C
+KIIP_tradition_21,2,C,C,C
+KIIP_tradition_22,0,C,C,C
+KIIP_tradition_22,1,C,C,C
+KIIP_tradition_22,2,C,C,C
+KIIP_tradition_23,0,B,B,B
+KIIP_tradition_23,1,B,B,B
+KIIP_tradition_23,2,B,B,B
+KIIP_tradition_24,0,A,A,A
+KIIP_tradition_24,1,A,A,A
+KIIP_tradition_24,2,A,A,A
+KIIP_tradition_25,0,C,C,C
+KIIP_tradition_25,1,C,C,C
+KIIP_tradition_25,2,C,C,C
+KIIP_tradition_26,0,C,A,A
+KIIP_tradition_26,1,C,A,A
+KIIP_tradition_26,2,C,A,A
+KIIP_tradition_27,0,A,A,A
+KIIP_tradition_27,1,A,A,A
+KIIP_tradition_27,2,A,A,A
+KIIP_tradition_28,0,C,C,C
+KIIP_tradition_28,1,C,C,C
+KIIP_tradition_28,2,C,C,C
+KIIP_tradition_29,0,C,C,C
+KIIP_tradition_29,1,C,C,C
+KIIP_tradition_29,2,C,C,C
+KIIP_tradition_30,0,D,D,D
+KIIP_tradition_30,1,D,D,D
+KIIP_tradition_30,2,D,D,D
+KIIP_tradition_31,0,C,C,C: 비단
+KIIP_tradition_31,1,C,C,C: 비단
+KIIP_tradition_31,2,C,C,C
+KIIP_tradition_32,0,B,B,B
+KIIP_tradition_32,1,B,B,B
+KIIP_tradition_32,2,B,B,B
+KIIP_tradition_33,0,C,C,C: 생활한복
+KIIP_tradition_33,1,C,C,C
+KIIP_tradition_33,2,C,C,C
+KIIP_tradition_34,0,D,D,D
+KIIP_tradition_34,1,D,D,D
+KIIP_tradition_34,2,D,D,D
+KIIP_tradition_35,0,B,B,B
+KIIP_tradition_35,1,B,B,B
+KIIP_tradition_35,2,B,B,B
+KIIP_tradition_36,0,C,B,B
+KIIP_tradition_36,1,C,C,C
+KIIP_tradition_36,2,C,C,C
+KIIP_tradition_37,0,B,B,B
+KIIP_tradition_37,1,B,B,B
+KIIP_tradition_37,2,B,B,B
+KIIP_tradition_38,0,A,C,C
+KIIP_tradition_38,1,A,C,C
+KIIP_tradition_38,2,A,C,C
+KIIP_tradition_39,0,C,C,C
+KIIP_tradition_39,1,C,C,C
+KIIP_tradition_39,2,C,C,C
+KIIP_tradition_40,0,C,C,C
+KIIP_tradition_40,1,C,C,C
+KIIP_tradition_40,2,C,C,C
+KIIP_tradition_41,0,B,B,B
+KIIP_tradition_41,1,B,B,B
+KIIP_tradition_41,2,B,B,B
+KIIP_tradition_42,0,B,B,B
+KIIP_tradition_42,1,B,B,B
+KIIP_tradition_42,2,B,B,B
+KIIP_tradition_43,0,C,C,C
+KIIP_tradition_43,1,C,C,C
+KIIP_tradition_43,2,C,C,C
+KIIP_tradition_44,0,A,A,A
+KIIP_tradition_44,1,A,A,A
+KIIP_tradition_44,2,A,A,A
+KIIP_tradition_45,0,A,A,A
+KIIP_tradition_45,1,A,A,A
+KIIP_tradition_45,2,A,A,A
+KIIP_tradition_46,0,B,B,B
+KIIP_tradition_46,1,B,B,B
+KIIP_tradition_46,2,B,B,B
+KIIP_tradition_47,0,A,A,A
+KIIP_tradition_47,1,A,A,A
+KIIP_tradition_47,2,A,A,A
+KIIP_tradition_48,0,A,A,A
+KIIP_tradition_48,1,A,A,A
+KIIP_tradition_48,2,A,A,A
+KIIP_tradition_49,0,B,B,B
+KIIP_tradition_49,1,B,B,B
+KIIP_tradition_49,2,B,B,B
+KIIP_tradition_50,0,B,B,B
+KIIP_tradition_50,1,B,B,B
+KIIP_tradition_50,2,B,B,B
+KIIP_tradition_51,0,A,A,A
+KIIP_tradition_51,1,A,A,A
+KIIP_tradition_51,2,A,A,A
+KIIP_tradition_52,0,A,A,A
+KIIP_tradition_52,1,A,A,A
+KIIP_tradition_52,2,A,A,A
+KIIP_tradition_53,0,A,A,A
+KIIP_tradition_53,1,A,A,A
+KIIP_tradition_53,2,A,A,A
+KIIP_tradition_54,0,B,A,A
+KIIP_tradition_54,1,B,A,A
+KIIP_tradition_54,2,B,A,A
+KIIP_tradition_55,0,B,B,B
+KIIP_tradition_55,1,B,B,B
+KIIP_tradition_55,2,B,B,B
+KIIP_tradition_56,0,C,C,C
+KIIP_tradition_56,1,C,C,C
+KIIP_tradition_56,2,C,C,C
+KIIP_tradition_57,0,B,C,C
+KIIP_tradition_57,1,B,C,C
+KIIP_tradition_57,2,B,C,C
+KIIP_tradition_58,0,B,B,B
+KIIP_tradition_58,1,B,B,B
+KIIP_tradition_58,2,B,B,B
+KIIP_tradition_59,0,B,B,B
+KIIP_tradition_59,1,B,B,B
+KIIP_tradition_59,2,B,B,B
+KIIP_tradition_60,0,C,C,C
+KIIP_tradition_60,1,C,C,C
+KIIP_tradition_60,2,C,C,C
+KIIP_tradition_61,0,A,A,A
+KIIP_tradition_61,1,A,A,A
+KIIP_tradition_61,2,A,A,A
+KIIP_tradition_62,0,C,C,C
+KIIP_tradition_62,1,C,C,C
+KIIP_tradition_62,2,C,C,C
+KIIP_tradition_63,0,B,B,B
+KIIP_tradition_63,1,B,B,B
+KIIP_tradition_63,2,B,B,B
+KIIP_tradition_64,0,A,A,A
+KIIP_tradition_64,1,A,A,A
+KIIP_tradition_64,2,A,A,A
+KIIP_tradition_65,0,C,C,C
+KIIP_tradition_65,1,C,C,C
+KIIP_tradition_65,2,C,C,C
+KIIP_tradition_66,0,B,B,B
+KIIP_tradition_66,1,B,B,B
+KIIP_tradition_66,2,B,B,B
+KIIP_tradition_67,0,B,B,B
+KIIP_tradition_67,1,B,B,B
+KIIP_tradition_67,2,B,B,B
+KIIP_tradition_68,0,C,C,C
+KIIP_tradition_68,1,C,C,C
+KIIP_tradition_68,2,C,C,C
+KIIP_tradition_69,0,A,B,B
+KIIP_tradition_69,1,A,B,B: 개신교
+KIIP_tradition_69,2,A,B,B: 개신교
+KIIP_tradition_70,0,C,C,C
+KIIP_tradition_70,1,C,C,C
+KIIP_tradition_70,2,C,C,C
+KIIP_tradition_71,0,A,B,B
+KIIP_tradition_71,1,A,A,A
+KIIP_tradition_71,2,A,B,B
+KIIP_tradition_72,0,A,A,A
+KIIP_tradition_72,1,A,A,A
+KIIP_tradition_72,2,A,A,A
+KIIP_tradition_73,0,C,C,C
+KIIP_tradition_73,1,C,C,C
+KIIP_tradition_73,2,C,C,C
+KIIP_tradition_74,0,A,C,C
+KIIP_tradition_74,1,A,C,C
+KIIP_tradition_74,2,A,C,C
+KIIP_tradition_75,0,A,A,A
+KIIP_tradition_75,1,A,A,A
+KIIP_tradition_75,2,A,A,A
+KIIP_tradition_76,0,C,C,C
+KIIP_tradition_76,1,C,C,C
+KIIP_tradition_76,2,C,C,C
+KIIP_tradition_77,0,A,A,A
+KIIP_tradition_77,1,A,A,A
+KIIP_tradition_77,2,A,A,A
+KIIP_tradition_78,0,B,A,A
+KIIP_tradition_78,1,B,A,A
+KIIP_tradition_78,2,B,A,A
+KIIP_tradition_79,0,A,A,A
+KIIP_tradition_79,1,A,A,A
+KIIP_tradition_79,2,A,A,A
+KIIP_tradition_80,0,A,A,A
+KIIP_tradition_80,1,A,A,A
+KIIP_tradition_80,2,A,A,A
+KIIP_tradition_81,0,A,A,A
+KIIP_tradition_81,1,A,A,A
+KIIP_tradition_81,2,A,A,A
+KIIP_tradition_82,0,C,C,C
+KIIP_tradition_82,1,C,C,C
+KIIP_tradition_82,2,C,C,C
+KIIP_tradition_83,0,A,A,A
+KIIP_tradition_83,1,A,A,A
+KIIP_tradition_83,2,A,A,A
+KIIP_tradition_84,0,C,C,C
+KIIP_tradition_84,1,C,C,C
+KIIP_tradition_84,2,C,C,C
+KIIP_tradition_85,0,B,B,B
+KIIP_tradition_85,1,B,B,B
+KIIP_tradition_85,2,B,B,B
+KIIP_tradition_86,0,A,A,A
+KIIP_tradition_86,1,A,A,A
+KIIP_tradition_86,2,A,A,A
+KIIP_tradition_87,0,D,D,D
+KIIP_tradition_87,1,D,D,D
+KIIP_tradition_87,2,D,D,D
+KIIP_tradition_88,0,B,A,A
+KIIP_tradition_88,1,B,A,A
+KIIP_tradition_88,2,B,A,A
+KIIP_tradition_89,0,A,A,A
+KIIP_tradition_89,1,A,A,A
+KIIP_tradition_89,2,A,A,A
+KIIP_tradition_90,0,A,A,A
+KIIP_tradition_90,1,A,A,A
+KIIP_tradition_90,2,A,A,A
+KIIP_tradition_91,0,B,B,B
+KIIP_tradition_91,1,B,B,B
+KIIP_tradition_91,2,B,B,B
+KIIP_tradition_92,0,A,A,A
+KIIP_tradition_92,1,A,A,A
+KIIP_tradition_92,2,A,A,A
+KIIP_tradition_93,0,D,D,D
+KIIP_tradition_93,1,D,D,D
+KIIP_tradition_93,2,D,D,D
+KIIP_tradition_94,0,B,B,B
+KIIP_tradition_94,1,B,B,B
+KIIP_tradition_94,2,B,B,B
+KIIP_tradition_95,0,D,D,D
+KIIP_tradition_95,1,D,D,D
+KIIP_tradition_95,2,D,D,D
+KIIP_tradition_96,0,D,D,D
+KIIP_tradition_96,1,D,D,D
+KIIP_tradition_96,2,D,D,D
+KIIP_tradition_97,0,A,A,A
+KIIP_tradition_97,1,A,A,A
+KIIP_tradition_97,2,A,A,A
+KIIP_tradition_98,0,A,A,A
+KIIP_tradition_98,1,A,A,A
+KIIP_tradition_98,2,A,A,A
+KIIP_tradition_99,0,D,D,D
+KIIP_tradition_99,1,D,D,D
+KIIP_tradition_99,2,D,D,D
+KIIP_tradition_100,0,C,C,C
+KIIP_tradition_100,1,C,C,C
+KIIP_tradition_100,2,C,C,C
+KIIP_tradition_101,0,A,A,A
+KIIP_tradition_101,1,A,A,A
+KIIP_tradition_101,2,A,A,A
+KIIP_tradition_102,0,D,A,A: 삼국시대
+KIIP_tradition_102,1,D,A,A: 삼국시대
+KIIP_tradition_102,2,D,A,A
+KIIP_tradition_103,0,A,A,A
+KIIP_tradition_103,1,A,A,A
+KIIP_tradition_103,2,A,A,A
+KIIP_tradition_104,0,A,B,B
+KIIP_tradition_104,1,A,B,B
+KIIP_tradition_104,2,A,B,B
+KIIP_tradition_105,0,A,A,A
+KIIP_tradition_105,1,A,A,A
+KIIP_tradition_105,2,A,A,A
+KIIP_tradition_106,0,B,C,C: 18세기
+KIIP_tradition_106,1,B,C,C: 18세기
+KIIP_tradition_106,2,B,C,C: 18세기
+KIIP_tradition_107,0,D,D,D
+KIIP_tradition_107,1,D,D,D
+KIIP_tradition_107,2,D,D,D
+KIIP_tradition_108,0,C,C,C
+KIIP_tradition_108,1,C,C,C
+KIIP_tradition_108,2,C,C,C
+KIIP_tradition_109,0,A,A,A
+KIIP_tradition_109,1,A,A,A
+KIIP_tradition_109,2,A,A,A
+KIIP_tradition_110,0,A,A,A
+KIIP_tradition_110,1,A,A,A
+KIIP_tradition_110,2,A,A,A
+KIIP_tradition_111,0,A,A,A
+KIIP_tradition_111,1,A,A,A
+KIIP_tradition_111,2,A,A,A
+KIIP_tradition_112,0,A,A,A
+KIIP_tradition_112,1,A,A,A
+KIIP_tradition_112,2,A,A,A
+KIIP_tradition_113,0,B,B,B
+KIIP_tradition_113,1,B,B,B
+KIIP_tradition_113,2,B,B,B
+KIIP_tradition_114,0,D,D,D
+KIIP_tradition_114,1,D,D,D
+KIIP_tradition_114,2,D,D,D
+KIIP_tradition_115,0,A,B,B
+KIIP_tradition_115,1,A,B,B
+KIIP_tradition_115,2,A,B,B
+KIIP_tradition_116,0,A,A,A
+KIIP_tradition_116,1,A,A,A
+KIIP_tradition_116,2,A,A,A
+KIIP_tradition_117,0,A,B,B: 꽃 바구니
+KIIP_tradition_117,1,A,B,B: 꽃 바구니
+KIIP_tradition_117,2,A,B,B: 꽃 바구니
+KIIP_tradition_118,0,C,D,D
+KIIP_tradition_118,1,C,D,D
+KIIP_tradition_118,2,C,D,D
+KIIP_tradition_119,0,A,A,A: 폐백
+KIIP_tradition_119,1,A,A,A: 폐백
+KIIP_tradition_119,2,A,A,A: 폐백
+KIIP_tradition_120,0,B,C,C
+KIIP_tradition_120,1,B,C,C
+KIIP_tradition_120,2,B,C,C
+KIIP_tradition_121,0,B,B,B
+KIIP_tradition_121,1,B,B,B
+KIIP_tradition_121,2,B,B,B
+KIIP_tradition_122,0,A,A,A
+KIIP_tradition_122,1,A,A,A
+KIIP_tradition_122,2,A,A,A
+KIIP_tradition_123,0,B,B,B
+KIIP_tradition_123,1,B,B,B: 검정색
+KIIP_tradition_123,2,B,B,B: 검정색
+KIIP_tradition_124,0,B,B,B
+KIIP_tradition_124,1,B,B,B
+KIIP_tradition_124,2,B,B,B
+KIIP_tradition_125,0,C,C,C
+KIIP_tradition_125,1,C,C,C
+KIIP_tradition_125,2,C,C,C
+KIIP_tradition_126,0,C,C,C
+KIIP_tradition_126,1,C,C,C
+KIIP_tradition_126,2,C,C,C
+KIIP_tradition_127,0,C,C,C
+KIIP_tradition_127,1,C,B,B
+KIIP_tradition_127,2,C,C,C
+KIIP_tradition_128,0,B,B,B
+KIIP_tradition_128,1,B,B,B
+KIIP_tradition_128,2,B,B,B
+KIIP_tradition_129,0,D,D,D: 축의금
+KIIP_tradition_129,1,D,D,D: 축의금
+KIIP_tradition_129,2,D,D,D: 축의금
+KIIP_tradition_130,0,B,B,B
+KIIP_tradition_130,1,B,B,B
+KIIP_tradition_130,2,B,B,B
+KIIP_tradition_131,0,A,A,A
+KIIP_tradition_131,1,A,A,A
+KIIP_tradition_131,2,A,A,A
+KIIP_tradition_132,0,C,C,C
+KIIP_tradition_132,1,C,C,C
+KIIP_tradition_132,2,C,C,C
+KIIP_tradition_133,0,A,A,A
+KIIP_tradition_133,1,A,A,A
+KIIP_tradition_133,2,A,A,A
+KIIP_tradition_134,0,B,B,B
+KIIP_tradition_134,1,B,B,B
+KIIP_tradition_134,2,B,B,B
+KIIP_tradition_135,0,B,B,B
+KIIP_tradition_135,1,B,B,B
+KIIP_tradition_135,2,B,B,B
+KIIP_tradition_136,0,C,C,C
+KIIP_tradition_136,1,C,C,C
+KIIP_tradition_136,2,C,C,C
+KIIP_tradition_137,0,A,A,A
+KIIP_tradition_137,1,A,A,A
+KIIP_tradition_137,2,A,A,A
+KIIP_tradition_138,0,D,B,B
+KIIP_tradition_138,1,D,B,B
+KIIP_tradition_138,2,D,B,B
+KIIP_tradition_139,0,A,A,A
+KIIP_tradition_139,1,A,A,A
+KIIP_tradition_139,2,A,A,A
+KIIP_tradition_140,0,A,A,A
+KIIP_tradition_140,1,A,A,A
+KIIP_tradition_140,2,A,A,A
+KIIP_tradition_141,0,B,C,C
+KIIP_tradition_141,1,B,B,B
+KIIP_tradition_141,2,B,B,B
+KIIP_tradition_142,0,D,D,D
+KIIP_tradition_142,1,D,D,D
+KIIP_tradition_142,2,D,D,D
+KIIP_tradition_143,0,B,B,B
+KIIP_tradition_143,1,B,B,B
+KIIP_tradition_143,2,B,B,B
+KIIP_tradition_144,0,C,C,C
+KIIP_tradition_144,1,C,C,C
+KIIP_tradition_144,2,C,C,C
+KIIP_tradition_145,0,A,A,A: 효
+KIIP_tradition_145,1,A,A,A
+KIIP_tradition_145,2,A,A,A
+KIIP_tradition_146,0,A,A,A
+KIIP_tradition_146,1,A,A,A
+KIIP_tradition_146,2,A,A,A
+KIIP_tradition_147,0,B,B,B
+KIIP_tradition_147,1,B,B,B
+KIIP_tradition_147,2,B,B,B
+KIIP_tradition_148,0,B,B,B
+KIIP_tradition_148,1,B,B,B
+KIIP_tradition_148,2,B,B,B: 예절
+KIIP_tradition_149,0,A,A,A
+KIIP_tradition_149,1,A,A,A
+KIIP_tradition_149,2,A,A,A
+KIIP_tradition_150,0,A,A,A
+KIIP_tradition_150,1,A,A,A
+KIIP_tradition_150,2,A,A,A
+KIIP_tradition_151,0,A,A,A
+KIIP_tradition_151,1,A,A,A
+KIIP_tradition_151,2,A,A,A
+KIIP_tradition_152,0,A,A,A
+KIIP_tradition_152,1,A,A,A
+KIIP_tradition_152,2,A,A,A
+KIIP_tradition_153,0,B,B,B
+KIIP_tradition_153,1,B,B,"B: 명절, 결혼식, 장례식"
+KIIP_tradition_153,2,B,B,B
+KIIP_tradition_154,0,A,A,A
+KIIP_tradition_154,1,A,A,A
+KIIP_tradition_154,2,A,A,A
+KIIP_tradition_155,0,A,A,A
+KIIP_tradition_155,1,A,A,A
+KIIP_tradition_155,2,A,A,A
+KIIP_tradition_156,0,A,A,A
+KIIP_tradition_156,1,A,A,A
+KIIP_tradition_156,2,A,A,A
+KIIP_tradition_157,0,A,A,A
+KIIP_tradition_157,1,A,A,A
+KIIP_tradition_157,2,A,A,A
+KIIP_tradition_158,0,A,B,B
+KIIP_tradition_158,1,A,B,B: 혈연
+KIIP_tradition_158,2,A,B,B
+KIIP_tradition_159,0,A,A,A
+KIIP_tradition_159,1,A,A,A
+KIIP_tradition_159,2,A,A,A
+KIIP_tradition_160,0,C,C,C: 향우회
+KIIP_tradition_160,1,C,C,C
+KIIP_tradition_160,2,C,C,C
+KIIP_tradition_161,0,C,C,C
+KIIP_tradition_161,1,C,C,C
+KIIP_tradition_161,2,C,C,C
+Kedu_tradition_1,0,D,D,D
+Kedu_tradition_1,1,D,D,D
+Kedu_tradition_1,2,D,D,D
+Kedu_tradition_2,0,C,B,B: 등거리
+Kedu_tradition_2,1,C,B,B: 등거리
+Kedu_tradition_2,2,C,B,B: 등거리
+Kedu_tradition_3,0,C,C,C: 초례(醮禮)
+Kedu_tradition_3,1,C,C,C: 초례(醮禮)
+Kedu_tradition_3,2,C,C,C: 초례(醮禮)
+Kedu_tradition_4,0,B,B,B
+Kedu_tradition_4,1,B,B,B
+Kedu_tradition_4,2,B,B,B
+Kedu_tradition_5,0,A,B,B
+Kedu_tradition_5,1,A,B,B
+Kedu_tradition_5,2,A,B,B
+Kedu_tradition_6,0,D,D,D
+Kedu_tradition_6,1,D,D,D
+Kedu_tradition_6,2,D,D,D
+Kedu_tradition_7,0,C,C,C
+Kedu_tradition_7,1,C,C,C
+Kedu_tradition_7,2,C,C,C
+Kedu_tradition_8,0,C,C,C: 습렴
+Kedu_tradition_8,1,C,C,C: 습렴
+Kedu_tradition_8,2,C,C,C: 습렴
+Kedu_tradition_9,0,A,B,B
+Kedu_tradition_9,1,A,B,B
+Kedu_tradition_9,2,A,B,B
+Kedu_tradition_10,0,A,A,A: 비파
+Kedu_tradition_10,1,A,A,A
+Kedu_tradition_10,2,A,A,A: 비파
+Kedu_tradition_11,0,D,D,D: 꼭두각시놀음
+Kedu_tradition_11,1,D,D,D: 꼭두각시놀음
+Kedu_tradition_11,2,D,D,D: 꼭두각시놀음
+Kedu_tradition_12,0,D,C,C
+Kedu_tradition_12,1,D,C,C
+Kedu_tradition_12,2,D,C,C
+Kedu_tradition_13,0,B,B,B
+Kedu_tradition_13,1,B,B,B
+Kedu_tradition_13,2,B,B,B
+Kedu_tradition_14,0,C,C,C
+Kedu_tradition_14,1,C,C,C
+Kedu_tradition_14,2,C,C,C
+Kedu_tradition_15,0,A,B,B
+Kedu_tradition_15,1,A,B,B
+Kedu_tradition_15,2,A,B,B
+Kedu_tradition_16,0,D,D,D
+Kedu_tradition_16,1,D,D,D
+Kedu_tradition_16,2,D,D,D: 말뚝이
+Kedu_tradition_17,0,C,C,C
+Kedu_tradition_17,1,C,C,C
+Kedu_tradition_17,2,C,C,C
+Kedu_tradition_18,0,B,B,B: 용
+Kedu_tradition_18,1,B,C,C: 시내
+Kedu_tradition_18,2,B,C,C: 시내
+Kedu_tradition_19,0,D,D,D: 고추
+Kedu_tradition_19,1,D,D,D: 고추
+Kedu_tradition_19,2,D,D,D: 고추
+Kedu_tradition_20,0,B,B,B: 단오 - 귀밝이술
+Kedu_tradition_20,1,B,B,B: 단오 - 귀밝이술
+Kedu_tradition_20,2,B,B,B: 단오 - 귀밝이술
+Kedu_tradition_21,0,D,D,D
+Kedu_tradition_21,1,D,D,D
+Kedu_tradition_21,2,D,D,D
+Kedu_tradition_22,0,A,A,A
+Kedu_tradition_22,1,A,A,A
+Kedu_tradition_22,2,A,A,A
+Kedu_tradition_23,0,C,C,C: 설문대할망 전설
+Kedu_tradition_23,1,C,C,C: 설문대할망 전설
+Kedu_tradition_23,2,C,C,C: 설문대할망 전설
+Kedu_tradition_24,0,D,A,A
+Kedu_tradition_24,1,D,A,A
+Kedu_tradition_24,2,D,A,A
+Kedu_tradition_25,0,C,C,C
+Kedu_tradition_25,1,C,C,C
+Kedu_tradition_25,2,C,C,C
+Kedu_tradition_26,0,C,C,C
+Kedu_tradition_26,1,C,C,C
+Kedu_tradition_26,2,C,C,"C: 태평소, 나발, 장구, 징"
+Kedu_tradition_27,0,D,C,C
+Kedu_tradition_27,1,D,C,C
+Kedu_tradition_27,2,D,C,C
+Kedu_tradition_28,0,C,,정답 (Answer): A
+Kedu_tradition_28,1,C,,정답: A
+Kedu_tradition_28,2,C,,정답 (Answer): A
+Kedu_tradition_29,0,D,D,D
+Kedu_tradition_29,1,D,D,D
+Kedu_tradition_29,2,D,D,D
+Kedu_tradition_30,0,A,D,D
+Kedu_tradition_30,1,A,D,D
+Kedu_tradition_30,2,A,D,D
+Kedu_tradition_31,0,C,B,B
+Kedu_tradition_31,1,C,B,B
+Kedu_tradition_31,2,C,B,B
+Kedu_tradition_32,0,A,C,C
+Kedu_tradition_32,1,A,C,C
+Kedu_tradition_32,2,A,C,C
+Kedu_tradition_33,0,B,C,C
+Kedu_tradition_33,1,B,C,C
+Kedu_tradition_33,2,B,C,C
+Kedu_tradition_34,0,A,B,B
+Kedu_tradition_34,1,A,B,B
+Kedu_tradition_34,2,A,B,B
+Kedu_tradition_35,0,A,A,A: <비목>
+Kedu_tradition_35,1,A,A,A: <비목>
+Kedu_tradition_35,2,A,A,A: <비목>
+Kedu_tradition_36,0,C,B,B
+Kedu_tradition_36,1,C,B,B
+Kedu_tradition_36,2,C,B,B
+Kedu_tradition_37,0,A,C,C: 툇마루
+Kedu_tradition_37,1,A,C,C: 툇마루
+Kedu_tradition_37,2,A,C,C: 툇마루
+Kedu_tradition_38,0,B,B,B
+Kedu_tradition_38,1,B,D,D
+Kedu_tradition_38,2,B,D,D
+Kedu_tradition_39,0,D,D,D
+Kedu_tradition_39,1,D,D,D
+Kedu_tradition_39,2,D,D,D
+Kedu_tradition_40,0,D,D,D
+Kedu_tradition_40,1,D,D,D
+Kedu_tradition_40,2,D,D,D
+Kedu_tradition_41,0,A,B,B
+Kedu_tradition_41,1,A,B,B
+Kedu_tradition_41,2,A,B,B
+Kedu_tradition_42,0,B,B,B
+Kedu_tradition_42,1,B,B,B
+Kedu_tradition_42,2,B,A,A
+Kedu_tradition_43,0,A,B,B
+Kedu_tradition_43,1,A,B,B
+Kedu_tradition_43,2,A,B,B
+Kedu_tradition_44,0,B,D,D
+Kedu_tradition_44,1,B,D,D
+Kedu_tradition_44,2,B,D,D
+Kedu_tradition_45,0,D,D,D
+Kedu_tradition_45,1,D,D,D
+Kedu_tradition_45,2,D,D,D
+Kedu_tradition_46,0,B,B,B
+Kedu_tradition_46,1,B,B,B
+Kedu_tradition_46,2,B,B,B
+Kedu_tradition_47,0,C,C,C
+Kedu_tradition_47,1,C,C,C
+Kedu_tradition_47,2,C,C,C
+Kedu_tradition_48,0,C,C,C
+Kedu_tradition_48,1,C,C,C
+Kedu_tradition_48,2,C,C,C
+Kedu_tradition_49,0,D,B,B
+Kedu_tradition_49,1,D,B,B
+Kedu_tradition_49,2,D,B,B
+Kedu_tradition_50,0,B,B,B
+Kedu_tradition_50,1,B,B,B
+Kedu_tradition_50,2,B,B,B
+Kedu_tradition_51,0,D,C,C
+Kedu_tradition_51,1,D,C,C
+Kedu_tradition_51,2,D,C,C
+Kedu_tradition_52,0,D,C,C: 하회별신굿탈놀이
+Kedu_tradition_52,1,D,D,D: 강릉관노가면극
+Kedu_tradition_52,2,D,D,D: 강릉관노가면극
+Kedu_tradition_53,0,A,B,B
+Kedu_tradition_53,1,A,B,B
+Kedu_tradition_53,2,A,B,B
+Kedu_tradition_54,0,C,C,C
+Kedu_tradition_54,1,C,C,C
+Kedu_tradition_54,2,C,C,C
+Kedu_tradition_55,0,D,B,B: 납폐
+Kedu_tradition_55,1,D,B,B: 납폐
+Kedu_tradition_55,2,D,B,B: 납폐
+Kedu_tradition_56,0,A,B,B
+Kedu_tradition_56,1,A,B,B
+Kedu_tradition_56,2,A,B,B
+Kedu_tradition_57,0,D,D,D
+Kedu_tradition_57,1,D,D,D
+Kedu_tradition_57,2,D,D,D
+Kedu_tradition_58,0,B,B,B
+Kedu_tradition_58,1,B,B,B
+Kedu_tradition_58,2,B,B,B
+Kedu_tradition_59,0,B,B,B: <인왕제색도(仁王霽色圖)>
+Kedu_tradition_59,1,B,B,B: <인왕제색도(仁王霽色圖)>
+Kedu_tradition_59,2,B,B,B: <인왕제색도(仁王霽色圖)>
+Kedu_tradition_60,0,D,D,D: 사법(司法)
+Kedu_tradition_60,1,D,D,D: 사법(司法)
+Kedu_tradition_60,2,D,D,D
+Kedu_tradition_61,0,A,B,B
+Kedu_tradition_61,1,A,B,B
+Kedu_tradition_61,2,A,B,B
+CSAT_korean_07_6,0,C,C,C
+CSAT_korean_07_6,1,C,C,C
+CSAT_korean_07_6,2,C,C,C
+CSAT_korean_07_7,0,C,C,C
+CSAT_korean_07_7,1,C,C,C
+CSAT_korean_07_7,2,C,C,C
+CSAT_korean_07_8,0,D,C,C
+CSAT_korean_07_8,1,D,C,C
+CSAT_korean_07_8,2,D,,정답: C
+CSAT_korean_07_9,0,B,B,B
+CSAT_korean_07_9,1,B,B,B
+CSAT_korean_07_9,2,B,B,B
+CSAT_korean_07_10,0,B,E,E
+CSAT_korean_07_10,1,B,E,E
+CSAT_korean_07_10,2,B,E,E
+CSAT_korean_06_6,0,A,A,A
+CSAT_korean_06_6,1,A,A,A
+CSAT_korean_06_6,2,A,A,A
+CSAT_korean_06_7,0,B,B,B
+CSAT_korean_06_7,1,B,B,B
+CSAT_korean_06_7,2,B,B,B
+CSAT_korean_06_8,0,C,C,C
+CSAT_korean_06_8,1,C,C,C
+CSAT_korean_06_8,2,C,C,C
+CSAT_korean_09_6,0,B,B,B
+CSAT_korean_09_6,1,B,B,B
+CSAT_korean_09_6,2,B,B,B
+CSAT_korean_09_7,0,D,D,D
+CSAT_korean_09_7,1,D,D,D
+CSAT_korean_09_7,2,D,D,D
+CSAT_korean_09_8,0,D,D,D
+CSAT_korean_09_8,1,D,D,D
+CSAT_korean_09_8,2,D,D,D
+CSAT_korean_09_9,0,E,E,E
+CSAT_korean_09_9,1,E,E,E
+CSAT_korean_09_9,2,E,E,E
+CSAT_korean_09_10,0,C,C,C
+CSAT_korean_09_10,1,C,C,C
+CSAT_korean_09_10,2,C,C,C
+CSAT_korean_08_6,0,C,C,C
+CSAT_korean_08_6,1,C,C,C
+CSAT_korean_08_6,2,C,C,C
+CSAT_korean_08_8,0,D,E,E
+CSAT_korean_08_8,1,D,E,E
+CSAT_korean_08_8,2,D,E,E
+CSAT_korean_08_9,0,D,B,B
+CSAT_korean_08_9,1,D,B,B
+CSAT_korean_08_9,2,D,B,B
+CSAT_korean_08_10,0,E,E,E
+CSAT_korean_08_10,1,E,E,E
+CSAT_korean_08_10,2,E,E,E
+CSAT_korean_10_6,0,A,A,A
+CSAT_korean_10_6,1,A,A,A
+CSAT_korean_10_6,2,A,A,A
+CSAT_korean_10_7,0,D,D,D
+CSAT_korean_10_7,1,D,D,D
+CSAT_korean_10_7,2,D,D,D
+CSAT_korean_10_8,0,D,D,D
+CSAT_korean_10_8,1,D,D,D
+CSAT_korean_10_8,2,D,D,D
+CSAT_korean_10_9,0,C,A,A
+CSAT_korean_10_9,1,C,A,A
+CSAT_korean_10_9,2,C,A,A
+CSAT_korean_10_10,0,A,,정답: E
+CSAT_korean_10_10,1,A,E,E
+CSAT_korean_10_10,2,A,E,E
+CSAT_korean_11_6,0,C,C,C
+CSAT_korean_11_6,1,C,C,C
+CSAT_korean_11_6,2,C,C,C
+CSAT_korean_11_8,0,D,D,D
+CSAT_korean_11_8,1,D,D,D
+CSAT_korean_11_8,2,D,D,D
+CSAT_korean_11_9,0,C,A,A
+CSAT_korean_11_9,1,C,A,A
+CSAT_korean_11_9,2,C,A,A
+CSAT_korean_11_10,0,A,C,C
+CSAT_korean_11_10,1,A,C,C
+CSAT_korean_11_10,2,A,C,C
+CSAT_korean_12_6,0,E,E,E
+CSAT_korean_12_6,1,E,E,E
+CSAT_korean_12_6,2,E,E,E
+CSAT_korean_12_7,0,D,D,D
+CSAT_korean_12_7,1,D,D,D
+CSAT_korean_12_7,2,D,D,D
+CSAT_korean_12_8,0,B,B,B
+CSAT_korean_12_8,1,B,B,B
+CSAT_korean_12_8,2,B,B,B
+CSAT_korean_12_9,0,C,C,C
+CSAT_korean_12_9,1,C,C,C
+CSAT_korean_12_9,2,C,C,C
+CSAT_korean_12_10,0,E,E,E
+CSAT_korean_12_10,1,E,E,E
+CSAT_korean_12_10,2,E,E,E
+CSAT_korean_14_7,0,B,C,C
+CSAT_korean_14_7,1,B,C,C
+CSAT_korean_14_7,2,B,C,C
+CSAT_korean_13_7,0,D,A,A
+CSAT_korean_13_7,1,D,A,A
+CSAT_korean_13_7,2,D,A,A
+CSAT_korean_17_6,0,E,E,E
+CSAT_korean_17_6,1,E,E,E
+CSAT_korean_17_6,2,E,E,E
+CSAT_korean_14_1,0,A,E,E
+CSAT_korean_14_1,1,A,E,E
+CSAT_korean_14_1,2,A,E,E
+CSAT_korean_14_2,0,B,B,B
+CSAT_korean_14_2,1,B,B,B
+CSAT_korean_14_2,2,B,B,B
+CSAT_korean_14_3,0,E,E,E
+CSAT_korean_14_3,1,E,E,E
+CSAT_korean_14_3,2,E,E,E
+CSAT_korean_14_4,0,C,C,C
+CSAT_korean_14_4,1,C,C,C
+CSAT_korean_14_4,2,C,C,C
+CSAT_korean_14_5,0,D,D,D
+CSAT_korean_14_5,1,D,D,D
+CSAT_korean_14_5,2,D,D,D
+CSAT_korean_14_6,0,A,A,A
+CSAT_korean_14_6,1,A,A,A
+CSAT_korean_14_6,2,A,A,A
+CSAT_korean_14_8,0,C,D,D
+CSAT_korean_14_8,1,C,D,D
+CSAT_korean_14_8,2,C,D,D
+CSAT_korean_14_9,0,E,D,D
+CSAT_korean_14_9,1,E,C,C
+CSAT_korean_14_9,2,E,D,D
+CSAT_korean_14_10,0,D,D,D
+CSAT_korean_14_10,1,D,D,D
+CSAT_korean_14_10,2,D,D,D
+CSAT_korean_18_1,0,A,A,A
+CSAT_korean_18_1,1,A,A,A
+CSAT_korean_18_1,2,A,A,A
+CSAT_korean_18_2,0,C,C,C
+CSAT_korean_18_2,1,C,C,C
+CSAT_korean_18_2,2,C,C,C
+CSAT_korean_18_3,0,C,A,A
+CSAT_korean_18_3,1,C,A,A
+CSAT_korean_18_3,2,C,A,A
+CSAT_korean_18_4,0,D,,정답 (Answer): D
+CSAT_korean_18_4,1,D,,"정답은 D입니다.
+
+설명:
+(라)에서 이날 행사에 참가한 학생들은 평소 마라톤을 즐겼던 K 군을 생각하며 응원 메시지를 직접 써서 가슴에 달고 뛰었다.로 수정하려는 계획은 적절하지 않습니다. 이는 학생 3이 의도적으로 선생님들이 응원 메시지를 직접 써서 가슴에 달고 뛰었다는 사실을 빼고 학생들의 역할을 강조하려 했던 부분을 수정하는 것이므로, 실제 사실을 정확히 반영하지 않는 수정입니다. 따라서 이 계획은 적절하지 않은 것으로 볼 수 있습니다."
+CSAT_korean_18_4,2,D,,정답 (Answer): D
+CSAT_korean_18_5,0,D,C,C
+CSAT_korean_18_5,1,D,C,C
+CSAT_korean_18_5,2,D,E,E
+CSAT_korean_18_6,0,E,E,E
+CSAT_korean_18_6,1,E,E,E
+CSAT_korean_18_6,2,E,E,E
+CSAT_korean_18_7,0,C,C,C
+CSAT_korean_18_7,1,C,C,C
+CSAT_korean_18_7,2,C,C,C
+CSAT_korean_18_8,0,B,E,E
+CSAT_korean_18_8,1,B,E,E
+CSAT_korean_18_8,2,B,E,E
+CSAT_korean_18_9,0,B,B,B
+CSAT_korean_18_9,1,B,B,B
+CSAT_korean_18_9,2,B,B,B
+CSAT_korean_18_10,0,B,B,B
+CSAT_korean_18_10,1,B,B,B
+CSAT_korean_18_10,2,B,B,B
+CSAT_korean_13_1,0,D,D,D
+CSAT_korean_13_1,1,D,D,D
+CSAT_korean_13_1,2,D,D,D
+CSAT_korean_13_2,0,C,C,C
+CSAT_korean_13_2,1,C,C,C
+CSAT_korean_13_2,2,C,C,C
+CSAT_korean_13_4,0,D,E,E
+CSAT_korean_13_4,1,D,E,E
+CSAT_korean_13_4,2,D,E,E
+CSAT_korean_13_5,0,A,A,A
+CSAT_korean_13_5,1,A,A,A
+CSAT_korean_13_5,2,A,A,A
+CSAT_korean_13_6,0,C,C,C
+CSAT_korean_13_6,1,C,C,C
+CSAT_korean_13_6,2,C,C,C
+CSAT_korean_13_8,0,E,C,C
+CSAT_korean_13_8,1,E,C,C
+CSAT_korean_13_8,2,E,C,C
+CSAT_korean_13_9,0,B,B,B
+CSAT_korean_13_9,1,B,B,B
+CSAT_korean_13_9,2,B,B,B
+CSAT_korean_13_10,0,E,E,E
+CSAT_korean_13_10,1,E,E,E
+CSAT_korean_13_10,2,E,E,E
+CSAT_korean_15_2,0,B,B,B
+CSAT_korean_15_2,1,B,B,B
+CSAT_korean_15_2,2,B,B,B
+CSAT_korean_15_3,0,E,E,E
+CSAT_korean_15_3,1,E,E,E
+CSAT_korean_15_3,2,E,E,E
+CSAT_korean_15_6,0,A,C,"C: 항목: 1. 실태 ― (ㄱ), (ㄴ) 내용: 2. 원인  ― (ㄷ), (ㄹ)"
+CSAT_korean_15_6,1,A,A,A
+CSAT_korean_15_6,2,A,A,A
+CSAT_korean_15_7,0,B,B,B
+CSAT_korean_15_7,1,B,B,B
+CSAT_korean_15_7,2,B,B,B
+CSAT_korean_15_8,0,E,E,E
+CSAT_korean_15_8,1,E,E,E
+CSAT_korean_15_8,2,E,E,E
+CSAT_korean_15_9,0,D,D,D
+CSAT_korean_15_9,1,D,D,D
+CSAT_korean_15_9,2,D,D,D
+CSAT_korean_15_10,0,C,C,C
+CSAT_korean_15_10,1,C,C,C
+CSAT_korean_15_10,2,C,C,C
+CSAT_korean_16_1,0,B,B,B
+CSAT_korean_16_1,1,B,B,B
+CSAT_korean_16_1,2,B,B,B
+CSAT_korean_16_2,0,D,D,D
+CSAT_korean_16_2,1,D,D,D
+CSAT_korean_16_2,2,D,D,D
+CSAT_korean_16_3,0,D,D,D
+CSAT_korean_16_3,1,D,D,D
+CSAT_korean_16_3,2,D,D,D
+CSAT_korean_16_4,0,D,D,D
+CSAT_korean_16_4,1,D,D,D
+CSAT_korean_16_4,2,D,D,D
+CSAT_korean_16_5,0,E,E,E
+CSAT_korean_16_5,1,E,E,E
+CSAT_korean_16_5,2,E,E,E
+CSAT_korean_16_6,0,D,B,B
+CSAT_korean_16_6,1,D,B,B
+CSAT_korean_16_6,2,D,,정답: B
+CSAT_korean_16_7,0,B,B,B
+CSAT_korean_16_7,1,B,B,B
+CSAT_korean_16_7,2,B,B,B
+CSAT_korean_16_8,0,E,E,E
+CSAT_korean_16_8,1,E,E,E
+CSAT_korean_16_8,2,E,E,E
+CSAT_korean_16_9,0,E,E,E
+CSAT_korean_16_9,1,E,E,E
+CSAT_korean_16_9,2,E,E,E
+CSAT_korean_16_10,0,C,C,C
+CSAT_korean_16_10,1,C,C,C
+CSAT_korean_16_10,2,C,C,C
+CSAT_korean_19_1,0,D,D,D
+CSAT_korean_19_1,1,D,D,D
+CSAT_korean_19_1,2,D,D,D
+CSAT_korean_19_2,0,C,C,C
+CSAT_korean_19_2,1,C,C,C
+CSAT_korean_19_2,2,C,C,C
+CSAT_korean_19_3,0,A,A,A
+CSAT_korean_19_3,1,A,E,E
+CSAT_korean_19_3,2,A,E,E
+CSAT_korean_19_4,0,E,E,E
+CSAT_korean_19_4,1,E,E,E
+CSAT_korean_19_4,2,E,E,E
+CSAT_korean_13_11,0,B,,정답: B
+CSAT_korean_13_11,1,B,,정답 (Answer): B
+CSAT_korean_13_11,2,B,,정답 (Answer): B
+CSAT_korean_19_5,0,B,B,B
+CSAT_korean_19_5,1,B,B,B
+CSAT_korean_19_5,2,B,B,B
+CSAT_korean_19_7,0,D,B,B
+CSAT_korean_19_7,1,D,B,B
+CSAT_korean_19_7,2,D,B,B
+CSAT_korean_19_8,0,C,C,C
+CSAT_korean_19_8,1,C,C,C
+CSAT_korean_19_8,2,C,C,C
+CSAT_korean_19_9,0,D,D,D
+CSAT_korean_19_9,1,D,D,D
+CSAT_korean_19_9,2,D,D,D
+CSAT_korean_20_1,0,B,B,B
+CSAT_korean_20_1,1,B,B,B
+CSAT_korean_20_1,2,B,B,B
+CSAT_korean_20_2,0,D,C,C
+CSAT_korean_20_2,1,D,C,C
+CSAT_korean_20_2,2,D,C,C
+CSAT_korean_20_3,0,A,A,A
+CSAT_korean_20_3,1,A,A,A
+CSAT_korean_20_3,2,A,A,A
+CSAT_korean_20_4,0,E,E,E
+CSAT_korean_20_4,1,E,E,E
+CSAT_korean_20_4,2,E,E,E
+CSAT_korean_20_5,0,B,B,B
+CSAT_korean_20_5,1,B,B,B
+CSAT_korean_20_5,2,B,,정답: B
+CSAT_korean_20_6,0,C,C,C
+CSAT_korean_20_6,1,C,C,C
+CSAT_korean_20_6,2,C,C,C
+CSAT_korean_20_7,0,C,C,C
+CSAT_korean_20_7,1,C,C,C
+CSAT_korean_20_7,2,C,C,C
+CSAT_korean_20_8,0,A,A,A
+CSAT_korean_20_8,1,A,A,A
+CSAT_korean_20_8,2,A,A,A
+CSAT_korean_20_9,0,E,E,E
+CSAT_korean_20_9,1,E,E,E
+CSAT_korean_20_9,2,E,E,E
+CSAT_korean_20_10,0,E,E,E
+CSAT_korean_20_10,1,E,E,E
+CSAT_korean_20_10,2,E,E,E
+CSAT_korean_13_3,0,A,A,A
+CSAT_korean_13_3,1,A,A,A
+CSAT_korean_13_3,2,A,A,A
+CSAT_korean_15_4,0,D,D,D
+CSAT_korean_15_4,1,D,D,D
+CSAT_korean_15_4,2,D,D,D
+CSAT_korean_15_5,0,C,C,C
+CSAT_korean_15_5,1,C,C,C
+CSAT_korean_15_5,2,C,C,C
+CSAT_korean_17_1,0,B,A,A
+CSAT_korean_17_1,1,B,A,A
+CSAT_korean_17_1,2,B,A,A
+CSAT_korean_17_2,0,B,B,B
+CSAT_korean_17_2,1,B,B,B
+CSAT_korean_17_2,2,B,B,B
+CSAT_korean_17_3,0,D,D,D
+CSAT_korean_17_3,1,D,D,D
+CSAT_korean_17_3,2,D,D,D
+CSAT_korean_17_4,0,C,C,C
+CSAT_korean_17_4,1,C,C,C
+CSAT_korean_17_4,2,C,C,C
+CSAT_korean_17_5,0,D,D,D
+CSAT_korean_17_5,1,D,D,D
+CSAT_korean_17_5,2,D,D,D
+CSAT_korean_17_7,0,C,C,C
+CSAT_korean_17_7,1,C,C,C
+CSAT_korean_17_7,2,C,C,C
+CSAT_korean_17_8,0,A,A,A
+CSAT_korean_17_8,1,A,A,A
+CSAT_korean_17_8,2,A,A,A
+CSAT_korean_17_9,0,D,D,D
+CSAT_korean_17_9,1,D,D,D
+CSAT_korean_17_9,2,D,D,D
+CSAT_korean_17_10,0,B,B,B
+CSAT_korean_17_10,1,B,B,B
+CSAT_korean_17_10,2,B,B,B
+CSAT_korean_23_35,0,A,A,A
+CSAT_korean_23_35,1,A,A,A
+CSAT_korean_23_35,2,A,A,A
+CSAT_korean_23_38,0,D,D,D
+CSAT_korean_23_38,1,D,D,D
+CSAT_korean_23_38,2,D,D,D
+CSAT_korean_23_43,0,E,E,E
+CSAT_korean_23_43,1,E,E,E
+CSAT_korean_23_43,2,E,E,E
+Kedu_16_1,0,D,D,D
+Kedu_16_1,1,D,D,D
+Kedu_16_1,2,D,D,D
+Kedu_16_2,0,C,C,C
+Kedu_16_2,1,C,C,C
+Kedu_16_2,2,C,C,C
+Kedu_16_3,0,D,B,B
+Kedu_16_3,1,D,B,B
+Kedu_16_3,2,D,B,B
+Kedu_16_4,0,A,C,C: 인칭 직시
+Kedu_16_4,1,A,C,C: 인칭 직시
+Kedu_16_4,2,A,B,B: 사회 직시
+Kedu_16_5,0,A,C,C: 관계의 격률
+Kedu_16_5,1,A,C,C: 관계의 격률
+Kedu_16_5,2,A,C,C: 관계의 격률
+Kedu_16_6,0,B,B,B
+Kedu_16_6,1,B,B,B
+Kedu_16_6,2,B,B,B
+Kedu_16_7,0,D,D,D
+Kedu_16_7,1,D,D,D
+Kedu_16_7,2,D,D,D
+PSE_korean_1,0,C,C,C
+PSE_korean_1,1,C,C,C
+PSE_korean_1,2,C,C,C
+PSE_korean_2,0,B,B,B
+PSE_korean_2,1,B,B,B
+PSE_korean_2,2,B,B,B
+PSE_korean_3,0,D,D,D
+PSE_korean_3,1,D,D,D
+PSE_korean_3,2,D,D,D
+PSE_korean_4,0,D,D,D
+PSE_korean_4,1,D,D,D
+PSE_korean_4,2,D,D,D
+PSE_korean_5,0,C,C,C: 비유
+PSE_korean_5,1,C,C,C: 비유
+PSE_korean_5,2,C,C,C: 비유
+PSE_korean_6,0,A,A,A
+PSE_korean_6,1,A,A,A
+PSE_korean_6,2,A,A,A
+PSE_korean_7,0,B,C,C
+PSE_korean_7,1,B,A,A
+PSE_korean_7,2,B,A,A
+PSE_korean_8,0,B,B,B
+PSE_korean_8,1,B,B,B
+PSE_korean_8,2,B,B,B
+PSE_korean_9,0,C,C,C
+PSE_korean_9,1,C,C,C
+PSE_korean_9,2,C,C,C
+PSE_korean_10,0,C,B,B
+PSE_korean_10,1,C,B,B
+PSE_korean_10,2,C,B,B
+PSE_korean_11,0,D,D,D
+PSE_korean_11,1,D,D,D
+PSE_korean_11,2,D,D,D
+PSE_korean_12,0,B,A,A
+PSE_korean_12,1,B,A,A
+PSE_korean_12,2,B,A,A
+PSE_korean_13,0,C,C,C
+PSE_korean_13,1,C,C,C
+PSE_korean_13,2,C,C,C
+PSE_korean_14,0,B,B,B
+PSE_korean_14,1,B,B,B
+PSE_korean_14,2,B,B,B
+CSAT_korean_07_11,0,E,A,A
+CSAT_korean_07_11,1,E,A,A
+CSAT_korean_07_11,2,E,E,E
+CSAT_korean_07_12,0,E,C,C
+CSAT_korean_07_12,1,E,B,B
+CSAT_korean_07_12,2,E,B,B
+CSAT_korean_06_11,0,E,E,E
+CSAT_korean_06_11,1,E,E,E
+CSAT_korean_06_11,2,E,,정답 (Answer): E
+CSAT_korean_06_12,0,B,D,D
+CSAT_korean_06_12,1,B,B,B
+CSAT_korean_06_12,2,B,B,B
+CSAT_korean_09_11,0,C,,정답 (Answer): A
+CSAT_korean_09_11,1,C,,정답 (Answer): A
+CSAT_korean_09_11,2,C,,정답 (Answer): C
+CSAT_korean_09_12,0,D,D,D
+CSAT_korean_09_12,1,D,D,D
+CSAT_korean_09_12,2,D,,정답: D
+CSAT_korean_08_11,0,B,B,B
+CSAT_korean_08_11,1,B,B,B
+CSAT_korean_08_11,2,B,B,B
+CSAT_korean_08_12,0,C,,정답 (Answer): E
+CSAT_korean_08_12,1,C,,정답 (Answer): E
+CSAT_korean_08_12,2,C,,정답 (Answer): E
+CSAT_korean_10_11,0,C,C,C
+CSAT_korean_10_11,1,C,C,C
+CSAT_korean_10_11,2,C,C,C
+CSAT_korean_10_12,0,E,D,D
+CSAT_korean_10_12,1,E,D,D
+CSAT_korean_10_12,2,E,D,D
+CSAT_korean_11_11,0,D,E,E
+CSAT_korean_11_11,1,D,E,E
+CSAT_korean_11_11,2,D,E,E
+CSAT_korean_11_12,0,B,C,C
+CSAT_korean_11_12,1,B,C,C
+CSAT_korean_11_12,2,B,C,C
+CSAT_korean_12_11,0,A,,정답 (Answer): B
+CSAT_korean_12_11,1,A,B,B
+CSAT_korean_12_11,2,A,,정답 (Answer): B
+CSAT_korean_14_11,0,C,C,C
+CSAT_korean_14_11,1,C,C,C
+CSAT_korean_14_11,2,C,C,C
+CSAT_korean_14_13,0,E,B,B
+CSAT_korean_14_13,1,E,B,B
+CSAT_korean_14_13,2,E,B,B
+CSAT_korean_14_15,0,B,B,B
+CSAT_korean_14_15,1,B,,정답 (Answer): C
+CSAT_korean_14_15,2,B,B,B
+CSAT_korean_18_15,0,E,,정답 (Answer): D
+CSAT_korean_18_15,1,E,E,E
+CSAT_korean_18_15,2,E,,정답 (Answer): D
+CSAT_korean_13_11,0,B,,정답: B
+CSAT_korean_13_11,1,B,,정답: B
+CSAT_korean_13_11,2,B,,정답 (Answer): B
+CSAT_korean_16_12,0,E,C,C
+CSAT_korean_16_12,1,E,C,C
+CSAT_korean_16_12,2,E,E,E
+CSAT_korean_16_14,0,C,C,C
+CSAT_korean_16_14,1,C,C,C
+CSAT_korean_16_14,2,C,C,C
+CSAT_korean_16_15,0,D,,"정답은 C입니다.
+
+설명:
+(ㄱ)에서는 접미사가 동사에 붙어 사동의 의미를 더하는 예가 필요합니다. 공책이 가방에 눌렸다는 사동의 의미를 가지고 있습니다. 여기서 누르다라는 동사에 접미사 -이-가 붙어 눌리다가 되어 사동의 의미를 나타냅니다.
+(ㄴ)에서는 접미사가 타동사에 붙어 피동의 의미를 더하는 예가 필요합니다. 옷이 못에 걸려 찢겼다는 피동의 의미를 가지고 있습니다. 여기서 찢다라는 동사에 접미사 -어지-가 붙어 찢어지다가 되어 피동의 의미를 나타냅니다.
+
+다른 선택지들은 (ㄱ)과 (ㄴ)의 요구 조건을 충족하지 않습니다."
+CSAT_korean_16_15,1,D,,"정답은 C입니다.
+
+설명:
+(ㄱ)에서는 접미사가 동사에 붙어 사동의 의미를 더하는 예가 필요합니다. 공책이 가방에 눌렸다는 사동의 의미를 가지고 있습니다. 여기서 누르다라는 동사에 접미사 -이-가 붙어 눌리다가 되어 사동의 의미를 나타냅니다.
+
+(ㄴ)에서는 접미사가 타동사에 붙어 피동의 의미를 더하는 예가 필요합니다. 옷이 못에 걸려 찢겼다는 피동의 의미를 가지고 있습니다. 여기서 찢다라는 동사에 접미사 -어지-가 붙어 찢어지다가 되어 피동의 의미를 나타냅니다.
+
+다른 선택지들은 (ㄱ)과 (ㄴ)의 요구 조건을 충족하지 않습니다."
+CSAT_korean_16_15,2,D,,"정답은 C입니다.
+
+설명:
+(ㄱ)에서는 접미사가 동사에 붙어 사동의 의미를 더하는 예가 필요합니다. 공책이 가방에 눌렸다는 사동의 의미를 가지고 있습니다. 여기서 누르다라는 동사에 접미사 -이-가 붙어 눌리다가 되어 사동의 의미를 나타냅니다.
+(ㄴ)에서는 접미사가 타동사에 붙어 피동의 의미를 더하는 예가 필요합니다. 옷이 못에 걸려 찢겼다는 피동의 의미를 가지고 있습니다. 여기서 찢다라는 동사에 접미사 -어지-가 붙어 찢어지다가 되어 피동의 의미를 나타냅니다.
+
+다른 선택지들은 (ㄱ)과 (ㄴ)의 요구 조건을 충족하지 않습니다."
+CSAT_korean_19_11,0,E,C,C
+CSAT_korean_19_11,1,E,C,C
+CSAT_korean_19_11,2,E,C,C
+CSAT_korean_19_12,0,B,E,E
+CSAT_korean_19_12,1,B,E,E
+CSAT_korean_19_12,2,B,E,E
+CSAT_korean_20_11,0,D,,"질문에서 언급된 (ㄱ)과 (ㄴ)의 구체적인 내용이 제공되지 않았습니다. 따라서, 문제의 요구사항을 정확히 파악하기 어렵습니다. 그러나, 문제의 맥락과 초고의 내용을 고려할 때, 게임화의 특징과 관련된 단어를 찾는 것으로 해석할 수 있습니다. 
+
+초고에서 언급된 게임화의 특징은 흥미, 도전, 경쟁, 보상 등이 포함되어 있습니다. 이를 기반으로 <보기>의 단어들 중 게임화와 관련 있을 수 있는 단어를 찾아야 합니다.
+
+- 새해맞이는 특정 이벤트나 축하의 의미를 가지고 있으며, 게임화와 직접적인 연관성은 낮아 보입니다.
+- 두말없이는 확신이나 즉각적인 행동을 의미하는 표현으로, 게임화와 직접적인 연관성은 없습니다.
+- 숨은그림찾기는 게임의 한 형태로, 게임화의 특징인 흥미와 도전을 포함하고 있습니다.
+- 한몫하다는 어떤 일에 중요한 역할을 한다는 의미로, 게임화와 직접적인 연관성은 낮아 보입니다.
+
+이를 바탕으로, 게임화와 관련된 특징을 가장 잘 나타내는 숨은그림찾기만을 포함하는 보기를 선택하는 것이 적절합니다. 따라서 정답은 C: 두말없이, 숨은그림찾기 입니다."
+CSAT_korean_20_11,1,D,C,C
+CSAT_korean_20_11,2,D,,"질문에서 요구하는 (ㄱ)과 (ㄴ)의 구체적인 내용이 제시되지 않았습니다. 따라서, 문제의 요구사항을 정확히 파악하기 어렵습니다. 그러나, 주어진 맥락에서는 게임화의 특징과 활용 예시에 대해 설명하고 있으며, 이와 관련된 단어를 찾아야 할 것으로 보입니다.
+
+<보기>에서 제시된 단어들 중에서 게임화와 관련 있을 수 있는 단어를 고려해보면, 숨은그림찾기는 게임의 한 형태로 볼 수 있으며, 게임화의 요소인 흥미와 도전을 제공할 수 있습니다. 다른 단어들은 게임화와 직접적인 연관성이 낮아 보입니다.
+
+따라서, 숨은그림찾기가 포함된 보기 중에서 가장 적절한 답을 선택해야 합니다. 이를 고려할 때, 옵션 C: 두말없이, 숨은그림찾기가 가장 적절한 선택으로 보입니다.
+
+정답: C"
+CSAT_korean_20_13,0,B,,정답 (Answer): C
+CSAT_korean_20_13,1,B,,정답은 D입니다. 하앴던을 하얬던으로 고친 예에서 동그랗-+-아 → 동그래는 적절하지 않습니다. 동그랗-+-아는 동그라로 변화하는 것이 올바른 활용이기 때문입니다.
+CSAT_korean_20_13,2,B,C,C
+CSAT_korean_20_14,0,A,C,C
+CSAT_korean_20_14,1,A,C,C
+CSAT_korean_20_14,2,A,C,C
+CSAT_korean_13_13,0,D,A,A
+CSAT_korean_13_13,1,D,E,E
+CSAT_korean_13_13,2,D,E,E
+CSAT_korean_15_11,0,C,C,C
+CSAT_korean_15_11,1,C,C,C
+CSAT_korean_15_11,2,C,C,C
+CSAT_korean_17_11,0,D,A,A
+CSAT_korean_17_11,1,D,A,A
+CSAT_korean_17_11,2,D,,"정답은 B입니다.
+
+설명: ‘맨손으로’의 ‘맨손’은 파생 접사 ‘맨-’이 어근 ‘손’ 앞에 결합한 것이 아니라, ‘맨’은 부사로서 ‘손’이라는 명사 앞에 위치하여 ‘맨손’이라는 구를 형성하고 있습니다. 따라서 이는 파생 접사가 어근 앞에 결합한 예가 아니므로 옵션 B는 문맥에서 설명한 내용과 일치하지 않습니다."
+CSAT_korean_17_14,0,B,E,E
+CSAT_korean_17_14,1,B,,정답 (Answer): B
+CSAT_korean_17_14,2,B,C,C
+CSAT_korean_14_12,0,D,,정답 (Answer): D
+CSAT_korean_14_12,1,D,,정답 (Answer): D
+CSAT_korean_14_12,2,D,,정답은 D입니다.
+CSAT_korean_14_14,0,E,D,D
+CSAT_korean_14_14,1,E,,정답은 D입니다.
+CSAT_korean_14_14,2,E,D,D
+CSAT_korean_18_11,0,C,,정답은 D입니다.
+CSAT_korean_18_11,1,C,,정답: E
+CSAT_korean_18_11,2,C,,정답: E
+CSAT_korean_18_12,0,B,,"정답은 B입니다.
+
+분석:
+(ㄱ) ‘발가락’에서는 ‘발’의 ‘ㄹ’이 유지되었습니다. 이와 유사한 예로는 ‘솔방울’이 있습니다. 여기서 ‘솔’의 ‘ㄹ’이 유지되어 ‘솔방울’이 되었습니다.
+(ㄴ) ‘소나무’에서는 ‘솔’의 ‘ㄹ’이 탈락하였습니다. 이와 유사한 예로는 ‘푸나무’가 있습니다. 여기서 ‘풀’의 ‘ㄹ’이 탈락하여 ‘푸나무’가 되었습니다.
+(ㄷ) ‘이튿날’에서는 ‘이틀’의 ‘ㄹ’이 ‘ㄷ’으로 변하였습니다. 이와 유사한 예로는 ‘섣달’이 있습니다. 여기서 ‘설’의 ‘ㄹ’이 ‘ㄷ’으로 변하여 ‘섣달’이 되었습니다.
+
+따라서, 이러한 변화를 보이는 예로 ‘솔방울’, ‘푸나무’, ‘섣달’을 순서대로 제시한 보기 B가 정답입니다."
+CSAT_korean_18_12,1,B,,"정답은 B입니다. 
+
+분석:
+(ㄱ) ‘발가락’에서는 받침 ‘ㄹ’이 유지되었습니다. 이와 유사한 예로는 ‘솔방울’이 있습니다. 여기서 ‘솔’의 받침 ‘ㄹ’이 유지되어 ‘솔방울’이 되었습니다.
+(ㄴ) ‘소나무’에서는 받침 ‘ㄹ’이 탈락하였습니다. 이와 유사한 예로는 ‘푸나무’가 있습니다. 여기서 ‘풀’의 받침 ‘ㄹ’이 탈락하여 ‘푸나무’가 되었습니다.
+(ㄷ) ‘이튿날’에서는 받침 ‘ㄹ’이 ‘ㄷ’으로 변하였습니다. 이와 유사한 예로는 ‘섣달’이 있습니다. 여기서 ‘설’의 받침 ‘ㄹ’이 ‘ㄷ’으로 변하여 ‘섣달’이 되었습니다.
+
+따라서, 이러한 변화를 보이는 예로 ‘솔방울’, ‘푸나무’, ‘섣달’을 순서대로 제시한 보기 B가 정답입니다."
+CSAT_korean_18_12,2,B,,"정답은 B입니다. 
+
+분석:
+(ㄱ) ‘발가락’에서는 받침 ‘ㄹ’이 유지되었습니다. 이와 유사한 예로는 ‘솔방울’이 있습니다. 여기서 ‘솔’의 받침 ‘ㄹ’이 유지되어 ‘솔방울’이 되었습니다.
+(ㄴ) ‘소나무’에서는 받침 ‘ㄹ’이 탈락하였습니다. 이와 유사한 예로는 ‘푸나무’가 있습니다. 여기서 ‘풀’의 받침 ‘ㄹ’이 탈락하여 ‘푸나무’가 되었습니다.
+(ㄷ) ‘이튿날’에서는 받침 ‘ㄹ’이 ‘ㄷ’으로 변하였습니다. 이와 유사한 예로는 ‘섣달’이 있습니다. 여기서 ‘설’의 받침 ‘ㄹ’이 ‘ㄷ’으로 변하여 ‘섣달’이 되었습니다.
+
+따라서, 이러한 변화를 보이는 예로 ‘솔방울’, ‘푸나무’, ‘섣달’을 순서대로 제시한 보기 B가 정답입니다."
+CSAT_korean_18_14,0,C,D,D
+CSAT_korean_18_14,1,C,D,D
+CSAT_korean_18_14,2,C,D,D
+CSAT_korean_13_12,0,A,,"정답은 D입니다. (ㄱ) 꽃이랑의 경우, 제29항에 따라 꽃의 받침 ㅊ 뒤에 이가 오므로 ㄴ 소리를 첨가하여 [꼬디랑]으로 발음합니다. (ㄴ) 꽃오목의 경우, 제15항에 따라 꽃의 받침 ㅊ이 오 앞에서 대표음 ㄷ으로 바뀌어 [꼬도목]으로 발음하지만, 옵션에서는 [꼬초목]으로 제시되어 있습니다. 따라서 가장 적절한 발음은 D: (ㄱ) : [꼬디랑] (ㄴ) : [꼬초목]입니다."
+CSAT_korean_13_12,1,A,,"정답은 D입니다.
+
+분석:
+- 꽃이랑에서 꽃의 받침 ㅊ은 제29항에 따라 이 앞에서 ㄴ 소리를 첨가하여 [니]로 발음하므로 꽃이랑은 [꼬니랑]이 아니라 [꼬디랑]으로 발음합니다.
+- 꽃오목에서 꽃의 받침 ㅊ은 제15항에 따라 오 앞에서 대표음으로 바뀌어 ㅊ이 ㅌ으로 발음되므로 [꼬도목]이 아니라 [꼬초목]으로 발음합니다.
+
+따라서 올바른 발음은 (ㄱ) : [꼬디랑], (ㄴ) : [꼬초목]이므로, 정답은 D입니다."
+CSAT_korean_13_12,2,A,,"정답은 D입니다. (ㄱ) 꽃이랑의 경우, 제29항에 따라 꽃의 받침 ㅊ 뒤에 이가 오므로 ㄴ 소리를 첨가하여 [꼬디랑]으로 발음합니다. (ㄴ) 꽃오목의 경우, 제15항에 따라 꽃의 받침 ㅊ이 오 앞에서 대표음 ㄷ으로 바뀌어 [꼬도목]으로 발음해야 하지만, 옵션 중 [꼬도목]이 없으므로 제29항을 적용하지 않고 제15항만 적용하여 [꼬초목]으로 발음하는 것이 적절합니다. 따라서 D: (ㄱ) : [꼬디랑] (ㄴ) : [꼬초목]이 정답입니다."
+CSAT_korean_13_14,0,E,D,D
+CSAT_korean_13_14,1,E,D,D
+CSAT_korean_13_14,2,E,D,D
+CSAT_korean_13_15,0,C,,정답 (Answer): E
+CSAT_korean_13_15,1,C,E,E
+CSAT_korean_13_15,2,C,,"정답: E
+
+설명:
+옵션 E에서는 어머니께서는 몹시 피곤하셨는지 거실에서 주무신다라는 문장이 사용되었습니다. 여기서 주무신다는 주체를 높이는 용언 (ㄱ)에 해당하며, 어머니는 높여야 할 인물과 관련된 것을 높이는 명사 (ㄴ)에 해당합니다. 따라서, E 옵션이 (ㄱ)과 (ㄴ)을 모두 사용한 문장입니다."
+CSAT_korean_15_13,0,E,D,D
+CSAT_korean_15_13,1,E,D,D
+CSAT_korean_15_13,2,E,D,D
+CSAT_korean_15_15,0,B,C,C
+CSAT_korean_15_15,1,B,C,C
+CSAT_korean_15_15,2,B,C,C
+CSAT_korean_16_11,0,A,D,D
+CSAT_korean_16_11,1,A,D,D
+CSAT_korean_16_11,2,A,D,D
+CSAT_korean_19_13,0,D,C,C
+CSAT_korean_19_13,1,D,B,B
+CSAT_korean_19_13,2,D,C,C
+CSAT_korean_20_12,0,C,E,E
+CSAT_korean_20_12,1,C,E,E
+CSAT_korean_20_12,2,C,E,E
+CSAT_korean_15_12,0,C,E,E
+CSAT_korean_15_12,1,C,E,E
+CSAT_korean_15_12,2,C,E,E
+CSAT_korean_17_13,0,C,C,C
+CSAT_korean_17_13,1,C,C,C
+CSAT_korean_17_13,2,C,D,D
+CSAT_korean_15_14,0,B,B,B
+CSAT_korean_15_14,1,B,B,B
+CSAT_korean_15_14,2,B,B,B
+Kedu_14_1,0,C,C,C
+Kedu_14_1,1,C,C,C
+Kedu_14_1,2,C,C,C
+Kedu_14_2,0,D,C,C
+Kedu_14_2,1,D,C,C
+Kedu_14_2,2,D,C,C
+Kedu_14_3,0,B,B,B
+Kedu_14_3,1,B,B,B
+Kedu_14_3,2,B,B,B
+Kedu_14_4,0,C,D,D
+Kedu_14_4,1,C,D,D
+Kedu_14_4,2,C,D,D
+Kedu_14_5,0,A,C,C
+Kedu_14_5,1,A,C,C
+Kedu_14_5,2,A,C,C
+Kedu_14_6,0,D,C,C
+Kedu_14_6,1,D,C,C
+Kedu_14_6,2,D,B,B
+Kedu_14_7,0,B,C,C
+Kedu_14_7,1,B,C,C
+Kedu_14_7,2,B,C,C
+Kedu_14_8,0,A,D,D
+Kedu_14_8,1,A,D,D
+Kedu_14_8,2,A,D,D
+Kedu_14_9,0,A,C,C
+Kedu_14_9,1,A,C,C
+Kedu_14_9,2,A,C,C
+Kedu_14_10,0,B,C,C
+Kedu_14_10,1,B,C,C
+Kedu_14_10,2,B,C,C
+Kedu_14_11,0,A,C,C
+Kedu_14_11,1,A,C,C
+Kedu_14_11,2,A,C,C
+Kedu_14_12,0,D,D,D
+Kedu_14_12,1,D,D,D
+Kedu_14_12,2,D,D,D
+Kedu_14_13,0,B,C,C
+Kedu_14_13,1,B,C,C
+Kedu_14_13,2,B,C,C
+Kedu_14_14,0,A,D,D
+Kedu_14_14,1,A,D,D
+Kedu_14_14,2,A,D,D
+Kedu_14_15,0,C,B,B
+Kedu_14_15,1,C,B,B
+Kedu_14_15,2,C,B,B
+Kedu_14_16,0,D,D,D
+Kedu_14_16,1,D,D,D
+Kedu_14_16,2,D,D,D
+Kedu_14_17,0,B,A,A
+Kedu_14_17,1,B,A,A
+Kedu_14_17,2,B,A,A
+Kedu_14_18,0,D,D,D
+Kedu_14_18,1,D,D,D
+Kedu_14_18,2,D,D,D
+Kedu_14_19,0,C,C,C
+Kedu_14_19,1,C,C,C
+Kedu_14_19,2,C,C,C
+Kedu_14_20,0,B,D,D
+Kedu_14_20,1,B,D,D
+Kedu_14_20,2,B,D,D
+Kedu_14_21,0,C,C,C
+Kedu_14_21,1,C,C,C
+Kedu_14_21,2,C,C,C
+Kedu_14_22,0,D,D,D
+Kedu_14_22,1,D,D,D
+Kedu_14_22,2,D,D,D
+Kedu_14_23,0,A,C,C
+Kedu_14_23,1,A,C,C
+Kedu_14_23,2,A,C,C
+Kedu_14_24,0,D,B,B
+Kedu_14_24,1,D,B,B
+Kedu_14_24,2,D,B,B
+Kedu_14_25,0,A,C,C
+Kedu_14_25,1,A,D,D
+Kedu_14_25,2,A,C,C
+Kedu_14_26,0,D,D,D
+Kedu_14_26,1,D,D,D
+Kedu_14_26,2,D,D,D
+Kedu_14_27,0,C,D,D
+Kedu_14_27,1,C,D,D
+Kedu_14_27,2,C,D,D
+Kedu_14_28,0,A,A,A
+Kedu_14_28,1,A,D,D
+Kedu_14_28,2,A,D,D
+Kedu_14_29,0,C,C,C
+Kedu_14_29,1,C,C,C
+Kedu_14_29,2,C,C,C
+Kedu_14_30,0,D,D,D
+Kedu_14_30,1,D,D,D
+Kedu_14_30,2,D,D,D
+Kedu_14_31,0,C,C,C
+Kedu_14_31,1,C,B,B
+Kedu_14_31,2,C,C,C
+Kedu_14_32,0,C,C,C
+Kedu_14_32,1,C,C,C
+Kedu_14_32,2,C,C,C
+Kedu_14_33,0,D,C,C
+Kedu_14_33,1,D,C,C
+Kedu_14_33,2,D,C,C
+Kedu_14_34,0,D,D,D
+Kedu_14_34,1,D,D,D
+Kedu_14_34,2,D,D,D
+Kedu_14_35,0,C,C,C
+Kedu_14_35,1,C,C,C
+Kedu_14_35,2,C,C,C
+Kedu_14_36,0,A,A,A
+Kedu_14_36,1,A,A,A
+Kedu_14_36,2,A,A,A
+Kedu_14_37,0,D,D,D
+Kedu_14_37,1,D,D,D
+Kedu_14_37,2,D,C,C
+Kedu_14_38,0,B,,정답 (Answer): B
+Kedu_14_38,1,B,,정답 (Answer): B
+Kedu_14_38,2,B,,정답 (Answer): B
+Kedu_14_39,0,B,B,B
+Kedu_14_39,1,B,B,B
+Kedu_14_39,2,B,B,B
+Kedu_14_41,0,B,,정답: C
+Kedu_14_41,1,B,C,C
+Kedu_14_41,2,B,C,C
+Kedu_14_42,0,A,B,B: 배열적 의미
+Kedu_14_42,1,A,B,B: 배열적 의미
+Kedu_14_42,2,A,B,B: 배열적 의미
+Kedu_14_43,0,D,C,C
+Kedu_14_43,1,D,C,C
+Kedu_14_43,2,D,C,C
+Kedu_14_44,0,C,C,C
+Kedu_14_44,1,C,C,C
+Kedu_14_44,2,C,C,C
+Kedu_14_45,0,B,C,C
+Kedu_14_45,1,B,C,C
+Kedu_14_45,2,B,C,C
+Kedu_14_46,0,C,C,"C: ㄴ, ㄷ, ㅁ"
+Kedu_14_46,1,C,C,C
+Kedu_14_46,2,C,C,C
+Kedu_14_47,0,C,C,C
+Kedu_14_47,1,C,C,C
+Kedu_14_47,2,C,C,C
+Kedu_14_48,0,B,B,B
+Kedu_14_48,1,B,B,B
+Kedu_14_48,2,B,B,B
+Kedu_14_49,0,A,D,D
+Kedu_14_49,1,A,D,D
+Kedu_14_49,2,A,D,D
+Kedu_14_50,0,D,D,D
+Kedu_14_50,1,D,D,D
+Kedu_14_50,2,D,D,D
+Kedu_14_51,0,B,C,C
+Kedu_14_51,1,B,C,C
+Kedu_14_51,2,B,C,C
+Kedu_14_52,0,A,,정답: D
+Kedu_14_52,1,A,,정답: D
+Kedu_14_52,2,A,,정답: D
+Kedu_14_53,0,C,A,A
+Kedu_14_53,1,C,A,A
+Kedu_14_53,2,C,A,A
+Kedu_14_54,0,B,B,B
+Kedu_14_54,1,B,B,B
+Kedu_14_54,2,B,B,B
+Kedu_14_55,0,A,C,C
+Kedu_14_55,1,A,A,A
+Kedu_14_55,2,A,A,A
+Kedu_14_56,0,D,C,C: 왕십리: Wangsimni
+Kedu_14_56,1,D,C,C
+Kedu_14_56,2,D,C,C
+Kedu_14_57,0,B,C,C
+Kedu_14_57,1,B,C,C
+Kedu_14_57,2,B,C,C
+Kedu_15_1,0,B,B,B
+Kedu_15_1,1,B,B,B
+Kedu_15_1,2,B,B,B
+Kedu_15_2,0,D,D,D
+Kedu_15_2,1,D,D,D
+Kedu_15_2,2,D,D,D
+Kedu_15_3,0,D,D,D
+Kedu_15_3,1,D,D,D
+Kedu_15_3,2,D,D,D
+Kedu_15_4,0,A,C,C
+Kedu_15_4,1,A,C,C
+Kedu_15_4,2,A,C,C
+Kedu_15_5,0,A,,정답 (Answer): D
+Kedu_15_5,1,A,,정답 (Answer): D
+Kedu_15_5,2,A,,정답 (Answer): D
+Kedu_15_6,0,B,D,D
+Kedu_15_6,1,B,C,C
+Kedu_15_6,2,B,D,D
+Kedu_15_7,0,D,B,B
+Kedu_15_7,1,D,B,B
+Kedu_15_7,2,D,B,B
+Kedu_15_8,0,C,B,B
+Kedu_15_8,1,C,B,B
+Kedu_15_8,2,C,B,B
+Kedu_15_9,0,C,D,D
+Kedu_15_9,1,C,D,D
+Kedu_15_9,2,C,,정답 (Answer): B
+Kedu_15_10,0,A,C,C
+Kedu_15_10,1,A,,정답: C
+Kedu_15_10,2,A,C,C
+Kedu_15_11,0,B,B,B: 2회
+Kedu_15_11,1,B,C,C: 3회
+Kedu_15_11,2,B,C,C: 3회
+Kedu_15_12,0,D,C,C
+Kedu_15_12,1,D,C,C
+Kedu_15_12,2,D,C,C
+Kedu_15_13,0,C,B,B
+Kedu_15_13,1,C,B,B
+Kedu_15_13,2,C,A,A
+Kedu_15_14,0,B,C,C
+Kedu_15_14,1,B,C,C
+Kedu_15_14,2,B,C,C
+Kedu_15_15,0,C,C,C
+Kedu_15_15,1,C,C,C
+Kedu_15_15,2,C,C,C
+Kedu_15_16,0,A,A,A
+Kedu_15_16,1,A,A,A
+Kedu_15_16,2,A,A,A
+Kedu_15_17,0,C,C,C
+Kedu_15_17,1,C,C,C
+Kedu_15_17,2,C,C,C
+Kedu_15_18,0,D,C,C
+Kedu_15_18,1,D,C,C
+Kedu_15_18,2,D,C,C
+Kedu_15_19,0,A,A,A
+Kedu_15_19,1,A,A,A
+Kedu_15_19,2,A,D,D
+Kedu_15_20,0,A,C,C
+Kedu_15_20,1,A,C,C
+Kedu_15_20,2,A,C,C
+Kedu_15_21,0,A,C,C
+Kedu_15_21,1,A,C,C
+Kedu_15_21,2,A,C,C
+Kedu_15_22,0,B,C,C
+Kedu_15_22,1,B,C,C
+Kedu_15_22,2,B,C,C
+Kedu_15_23,0,D,D,D
+Kedu_15_23,1,D,D,D
+Kedu_15_23,2,D,D,D
+Kedu_15_24,0,B,B,B
+Kedu_15_24,1,B,B,B
+Kedu_15_24,2,B,B,B
+Kedu_15_25,0,C,C,C
+Kedu_15_25,1,C,C,C
+Kedu_15_25,2,C,C,C
+Kedu_15_26,0,B,B,B
+Kedu_15_26,1,B,B,B
+Kedu_15_26,2,B,,정답: D
+Kedu_15_27,0,D,D,D
+Kedu_15_27,1,D,D,D
+Kedu_15_27,2,D,D,D
+Kedu_15_28,0,C,C,C
+Kedu_15_28,1,C,C,C
+Kedu_15_28,2,C,C,C
+Kedu_15_29,0,B,A,A
+Kedu_15_29,1,B,A,A
+Kedu_15_29,2,B,A,A
+Kedu_15_30,0,A,D,D
+Kedu_15_30,1,A,D,D
+Kedu_15_30,2,A,D,D
+Kedu_15_31,0,D,B,B: 톱니
+Kedu_15_31,1,D,B,B: 톱니
+Kedu_15_31,2,D,C,C: 병목
+Kedu_15_32,0,A,D,D
+Kedu_15_32,1,A,D,D
+Kedu_15_32,2,A,D,D
+Kedu_15_33,0,D,B,B: 아버지 - 부친
+Kedu_15_33,1,D,B,B: 아버지 - 부친
+Kedu_15_33,2,D,B,B: 아버지 - 부친
+Kedu_15_34,0,A,D,D
+Kedu_15_34,1,A,D,D
+Kedu_15_34,2,A,D,D
+Kedu_15_35,0,C,C,C
+Kedu_15_35,1,C,C,C
+Kedu_15_35,2,C,C,C
+Kedu_15_36,0,D,D,D
+Kedu_15_36,1,D,D,D
+Kedu_15_36,2,D,D,D
+Kedu_15_37,0,C,B,B
+Kedu_15_37,1,C,B,B
+Kedu_15_37,2,C,B,B
+Kedu_15_38,0,A,C,C
+Kedu_15_38,1,A,C,C
+Kedu_15_38,2,A,C,C
+Kedu_15_39,0,B,B,B
+Kedu_15_39,1,B,B,B
+Kedu_15_39,2,B,B,B
+Kedu_15_40,0,D,B,B
+Kedu_15_40,1,D,B,B
+Kedu_15_40,2,D,B,B
+Kedu_15_41,0,D,D,D
+Kedu_15_41,1,D,D,D
+Kedu_15_41,2,D,D,D
+Kedu_15_42,0,B,C,C
+Kedu_15_42,1,B,C,C
+Kedu_15_42,2,B,C,C
+Kedu_15_43,0,C,C,C: 사회적 의미
+Kedu_15_43,1,C,C,C: 사회적 의미
+Kedu_15_43,2,C,C,C: 사회적 의미
+Kedu_15_44,0,A,B,B
+Kedu_15_44,1,A,B,B
+Kedu_15_44,2,A,B,B
+Kedu_15_45,0,B,D,D
+Kedu_15_45,1,B,C,C
+Kedu_15_45,2,B,D,D
+Kedu_15_46,0,B,B,B
+Kedu_15_46,1,B,B,B
+Kedu_15_46,2,B,B,B
+Kedu_15_47,0,B,B,B
+Kedu_15_47,1,B,B,B
+Kedu_15_47,2,B,B,B
+Kedu_15_48,0,A,A,A
+Kedu_15_48,1,A,A,A
+Kedu_15_48,2,A,A,A
+Kedu_15_49,0,C,C,C
+Kedu_15_49,1,C,C,C
+Kedu_15_49,2,C,C,C
+Kedu_15_50,0,A,B,B
+Kedu_15_50,1,A,B,B
+Kedu_15_50,2,A,B,B
+Kedu_15_51,0,C,C,C: English: 잉글리쉬
+Kedu_15_51,1,C,C,C: English: 잉글리쉬
+Kedu_15_51,2,C,C,C
+Kedu_15_52,0,D,C,C
+Kedu_15_52,1,D,C,C
+Kedu_15_52,2,D,C,C
+Kedu_15_53,0,B,A,A
+Kedu_15_53,1,B,A,A
+Kedu_15_53,2,B,A,A
+Kedu_15_54,0,B,A,A
+Kedu_15_54,1,B,A,A
+Kedu_15_54,2,B,A,A
+Kedu_15_55,0,C,,정답 (Answer): B: ㆆ
+Kedu_15_55,1,C,,정답 (Answer): C: ㅿ
+Kedu_15_55,2,C,,정답 (Answer): C: ㅿ
+Kedu_15_56,0,C,C,C
+Kedu_15_56,1,C,C,C
+Kedu_15_56,2,C,C,C
+Kedu_16_1,0,B,,정답: B
+Kedu_16_1,1,B,,정답: B
+Kedu_16_1,2,B,,정답: B
+Kedu_16_2,0,B,A,A
+Kedu_16_2,1,B,A,A
+Kedu_16_2,2,B,A,A
+Kedu_16_3,0,C,C,C
+Kedu_16_3,1,C,C,C
+Kedu_16_3,2,C,C,C
+Kedu_16_4,0,B,C,C
+Kedu_16_4,1,B,C,C
+Kedu_16_4,2,B,C,C
+Kedu_16_5,0,D,D,D
+Kedu_16_5,1,D,C,C
+Kedu_16_5,2,D,C,C
+Kedu_16_6,0,D,D,D
+Kedu_16_6,1,D,D,D
+Kedu_16_6,2,D,D,D
+Kedu_16_7,0,A,C,C
+Kedu_16_7,1,A,C,C
+Kedu_16_7,2,A,C,C
+Kedu_16_8,0,C,B,B
+Kedu_16_8,1,C,B,B
+Kedu_16_8,2,C,A,A
+Kedu_16_9,0,A,A,A
+Kedu_16_9,1,A,A,A
+Kedu_16_9,2,A,A,A
+Kedu_16_10,0,C,D,D
+Kedu_16_10,1,C,D,D
+Kedu_16_10,2,C,D,D
+Kedu_16_11,0,D,A,A
+Kedu_16_11,1,D,A,A
+Kedu_16_11,2,D,A,A
+Kedu_16_12,0,C,C,C
+Kedu_16_12,1,C,C,C
+Kedu_16_12,2,C,C,C
+Kedu_16_13,0,A,C,C
+Kedu_16_13,1,A,C,C
+Kedu_16_13,2,A,C,C
+Kedu_16_14,0,A,B,B
+Kedu_16_14,1,A,B,B
+Kedu_16_14,2,A,B,B
+Kedu_16_15,0,B,B,B
+Kedu_16_15,1,B,B,B
+Kedu_16_15,2,B,B,B
+Kedu_16_16,0,D,C,C
+Kedu_16_16,1,D,C,C
+Kedu_16_16,2,D,C,C
+Kedu_16_17,0,C,C,C
+Kedu_16_17,1,C,C,C
+Kedu_16_17,2,C,C,C
+Kedu_16_18,0,A,D,D
+Kedu_16_18,1,A,D,D
+Kedu_16_18,2,A,D,D
+Kedu_16_19,0,C,C,C
+Kedu_16_19,1,C,C,C
+Kedu_16_19,2,C,C,C
+Kedu_16_20,0,C,C,C
+Kedu_16_20,1,C,C,C
+Kedu_16_20,2,C,C,C
+Kedu_16_21,0,B,B,B
+Kedu_16_21,1,B,B,B
+Kedu_16_21,2,B,B,B
+Kedu_16_22,0,D,C,C
+Kedu_16_22,1,D,C,C
+Kedu_16_22,2,D,C,C
+Kedu_16_23,0,C,C,C
+Kedu_16_23,1,C,C,C
+Kedu_16_23,2,C,C,C
+Kedu_16_24,0,A,A,A
+Kedu_16_24,1,A,A,A
+Kedu_16_24,2,A,A,A
+Kedu_16_25,0,C,C,C
+Kedu_16_25,1,C,C,C
+Kedu_16_25,2,C,C,C
+Kedu_16_26,0,B,D,D
+Kedu_16_26,1,B,D,D
+Kedu_16_26,2,B,D,D
+Kedu_16_27,0,A,D,D
+Kedu_16_27,1,A,D,D
+Kedu_16_27,2,A,D,D
+Kedu_16_28,0,D,C,C
+Kedu_16_28,1,D,C,C
+Kedu_16_28,2,D,C,C
+Kedu_16_29,0,D,C,C
+Kedu_16_29,1,D,C,C
+Kedu_16_29,2,D,C,C
+Kedu_16_30,0,A,A,A
+Kedu_16_30,1,A,A,A
+Kedu_16_30,2,A,A,A
+Kedu_16_31,0,A,B,B
+Kedu_16_31,1,A,B,B
+Kedu_16_31,2,A,B,B
+Kedu_16_32,0,D,A,A
+Kedu_16_32,1,D,A,A
+Kedu_16_32,2,D,A,A
+Kedu_16_33,0,D,D,D
+Kedu_16_33,1,D,D,D
+Kedu_16_33,2,D,D,D
+Kedu_16_34,0,B,B,B
+Kedu_16_34,1,B,B,B
+Kedu_16_34,2,B,B,B
+Kedu_16_35,0,C,C,C
+Kedu_16_35,1,C,C,C
+Kedu_16_35,2,C,C,C
+Kedu_16_36,0,D,D,D
+Kedu_16_36,1,D,D,D
+Kedu_16_36,2,D,D,D
+Kedu_16_37,0,A,C,C
+Kedu_16_37,1,A,C,C
+Kedu_16_37,2,A,C,C
+Kedu_16_38,0,B,C,C
+Kedu_16_38,1,B,C,C
+Kedu_16_38,2,B,C,C
+Kedu_16_39,0,B,B,B
+Kedu_16_39,1,B,B,B
+Kedu_16_39,2,B,B,B
+Kedu_16_40,0,C,,정답: D
+Kedu_16_40,1,C,D,D
+Kedu_16_40,2,C,D,D
+Kedu_16_41,0,A,B,B
+Kedu_16_41,1,A,C,C
+Kedu_16_41,2,A,C,C
+Kedu_16_42,0,C,C,C
+Kedu_16_42,1,C,C,C
+Kedu_16_42,2,C,C,C
+Kedu_16_43,0,C,C,C
+Kedu_16_43,1,C,C,C
+Kedu_16_43,2,C,C,C
+Kedu_16_44,0,C,D,D
+Kedu_16_44,1,C,D,D
+Kedu_16_44,2,C,D,D
+Kedu_16_45,0,B,C,C
+Kedu_16_45,1,B,B,B
+Kedu_16_45,2,B,A,A
+Kedu_16_46,0,D,B,B
+Kedu_16_46,1,D,B,B
+Kedu_16_46,2,D,B,B
+Kedu_16_47,0,B,C,C
+Kedu_16_47,1,B,C,C
+Kedu_16_47,2,B,C,C
+Kedu_16_48,0,D,B,B
+Kedu_16_48,1,D,B,B
+Kedu_16_48,2,D,D,D
+Kedu_16_49,0,A,B,B
+Kedu_16_49,1,A,B,B
+Kedu_16_49,2,A,B,B
+Kedu_16_50,0,A,C,C: 벚꽃 - beotkot
+Kedu_16_50,1,A,C,C: 벚꽃 - beotkot
+Kedu_16_50,2,A,C,C: 벚꽃 - beotkot
+Kedu_16_51,0,B,B,B
+Kedu_16_51,1,B,B,B
+Kedu_16_51,2,B,B,B
+Kedu_16_52,0,C,C,C
+Kedu_16_52,1,C,,정답: B
+Kedu_16_52,2,C,C,C
+Kedu_16_53,0,B,C,C
+Kedu_16_53,1,B,C,C
+Kedu_16_53,2,B,C,C
+Kedu_16_54,0,C,C,C
+Kedu_16_54,1,C,C,C
+Kedu_16_54,2,C,C,C
+TK_2016_1,0,C,C,C
+TK_2016_1,1,C,C,C
+TK_2016_1,2,C,C,C
+TK_2016_2,0,D,D,D
+TK_2016_2,1,D,D,D
+TK_2016_2,2,D,D,D
+TK_2016_3,0,A,A,A
+TK_2016_3,1,A,A,A
+TK_2016_3,2,A,A,A
+TK_2016_4,0,C,C,C
+TK_2016_4,1,C,C,C
+TK_2016_4,2,C,C,C
+TK_17_1,0,B,B,B
+TK_17_1,1,B,B,B
+TK_17_1,2,B,B,B
+TK_17_2,0,A,A,A
+TK_17_2,1,A,A,A
+TK_17_2,2,A,A,A
+TK_17_3,0,D,D,D
+TK_17_3,1,D,D,D
+TK_17_3,2,D,D,D
+TK_17_4,0,A,A,A
+TK_17_4,1,A,A,A
+TK_17_4,2,A,A,A
+TK_2018_1,0,B,B,B
+TK_2018_1,1,B,B,B
+TK_2018_1,2,B,B,B
+TK_2018_2,0,A,A,A
+TK_2018_2,1,A,A,A
+TK_2018_2,2,A,A,A
+TK_2018_3,0,C,C,C
+TK_2018_3,1,C,C,C
+TK_2018_3,2,C,C,C
+TK_2018_4,0,D,D,D
+TK_2018_4,1,D,D,D
+TK_2018_4,2,D,D,D
+TK_2019_1,0,B,B,B
+TK_2019_1,1,B,B,B
+TK_2019_1,2,B,B,B
+TK_2019_2,0,A,A,A
+TK_2019_2,1,A,A,A
+TK_2019_2,2,A,A,A
+TK_2019_3,0,D,D,D
+TK_2019_3,1,D,D,D
+TK_2019_3,2,D,D,D
+TK_2019_4,0,D,D,D
+TK_2019_4,1,D,D,D
+TK_2019_4,2,D,D,D
+TK_2022_1,0,A,A,A
+TK_2022_1,1,A,A,A
+TK_2022_1,2,A,A,A
+TK_2022_2,0,B,B,B
+TK_2022_2,1,B,B,B
+TK_2022_2,2,B,B,B
+TK_2022_3,0,C,C,C
+TK_2022_3,1,C,C,C
+TK_2022_3,2,C,C,C
+TK_2022_4,0,D,D,D
+TK_2022_4,1,D,D,D
+TK_2022_4,2,D,D,D
+CSAT_korean_23_1,0,D,E,E
+CSAT_korean_23_1,1,D,E,E
+CSAT_korean_23_1,2,D,A,A
+CSAT_korean_23_2,0,E,E,E
+CSAT_korean_23_2,1,E,E,E
+CSAT_korean_23_2,2,E,E,E
+CSAT_korean_23_3,0,A,A,A
+CSAT_korean_23_3,1,A,A,A
+CSAT_korean_23_3,2,A,A,A
+CSAT_korean_23_4,0,D,D,D
+CSAT_korean_23_4,1,D,D,D
+CSAT_korean_23_4,2,D,D,D
+CSAT_korean_23_5,0,E,E,E
+CSAT_korean_23_5,1,E,E,E
+CSAT_korean_23_5,2,E,E,E
+CSAT_korean_23_6,0,C,C,C
+CSAT_korean_23_6,1,C,C,C
+CSAT_korean_23_6,2,C,C,C
+CSAT_korean_23_7,0,B,B,B
+CSAT_korean_23_7,1,B,B,B
+CSAT_korean_23_7,2,B,B,B
+CSAT_korean_23_8,0,E,E,E
+CSAT_korean_23_8,1,E,E,E
+CSAT_korean_23_8,2,E,E,E
+CSAT_korean_23_9,0,B,B,B
+CSAT_korean_23_9,1,B,B,B
+CSAT_korean_23_9,2,B,B,B
+CSAT_korean_23_10,0,D,D,D
+CSAT_korean_23_10,1,D,D,D
+CSAT_korean_23_10,2,D,D,D
+CSAT_korean_23_11,0,E,E,E
+CSAT_korean_23_11,1,E,E,E
+CSAT_korean_23_11,2,E,C,C
+CSAT_korean_23_12,0,B,C,C
+CSAT_korean_23_12,1,B,C,C
+CSAT_korean_23_12,2,B,C,C
+CSAT_korean_23_13,0,E,,정답: E
+CSAT_korean_23_13,1,E,,정답: E
+CSAT_korean_23_13,2,E,,정답: E
+CSAT_korean_23_14,0,C,C,C
+CSAT_korean_23_14,1,C,C,C
+CSAT_korean_23_14,2,C,C,C
+CSAT_korean_23_15,0,D,B,B
+CSAT_korean_23_15,1,D,B,B
+CSAT_korean_23_15,2,D,B,B
+CSAT_korean_23_16,0,D,C,C
+CSAT_korean_23_16,1,D,C,C
+CSAT_korean_23_16,2,D,C,C
+CSAT_korean_23_17,0,A,D,D
+CSAT_korean_23_17,1,A,D,D
+CSAT_korean_23_17,2,A,D,D
+CSAT_korean_23_18,0,D,D,D
+CSAT_korean_23_18,1,D,D,D
+CSAT_korean_23_18,2,D,D,D
+CSAT_korean_23_19,0,C,C,C
+CSAT_korean_23_19,1,C,C,C
+CSAT_korean_23_19,2,C,C,C
+CSAT_korean_23_20,0,C,C,C
+CSAT_korean_23_20,1,C,C,C
+CSAT_korean_23_20,2,C,C,C
+CSAT_korean_23_21,0,E,E,E
+CSAT_korean_23_21,1,E,E,E
+CSAT_korean_23_21,2,E,E,E
+CSAT_korean_23_22,0,A,A,A
+CSAT_korean_23_22,1,A,A,A
+CSAT_korean_23_22,2,A,A,A
+CSAT_korean_23_23,0,E,E,E
+CSAT_korean_23_23,1,E,E,E
+CSAT_korean_23_23,2,E,E,E
+CSAT_korean_23_24,0,C,C,C
+CSAT_korean_23_24,1,C,C,C
+CSAT_korean_23_24,2,C,C,C
+CSAT_korean_23_25,0,C,C,C
+CSAT_korean_23_25,1,C,C,C
+CSAT_korean_23_25,2,C,C,C
+CSAT_korean_23_26,0,D,D,D
+CSAT_korean_23_26,1,D,D,D
+CSAT_korean_23_26,2,D,D,D
+CSAT_korean_23_27,0,A,A,A
+CSAT_korean_23_27,1,A,A,A
+CSAT_korean_23_27,2,A,A,A
+CSAT_korean_23_28,0,E,E,E
+CSAT_korean_23_28,1,E,E,E
+CSAT_korean_23_28,2,E,E,E
+CSAT_korean_23_29,0,A,A,A
+CSAT_korean_23_29,1,A,A,A
+CSAT_korean_23_29,2,A,A,A
+CSAT_korean_23_30,0,B,B,B
+CSAT_korean_23_30,1,B,B,B
+CSAT_korean_23_30,2,B,B,B
+CSAT_korean_23_31,0,A,A,A
+CSAT_korean_23_31,1,A,A,A
+CSAT_korean_23_31,2,A,A,A
+CSAT_korean_23_32,0,D,D,D
+CSAT_korean_23_32,1,D,D,D
+CSAT_korean_23_32,2,D,D,D
+CSAT_korean_23_33,0,B,B,B
+CSAT_korean_23_33,1,B,B,B
+CSAT_korean_23_33,2,B,B,B
+CSAT_korean_23_34,0,C,C,C
+CSAT_korean_23_34,1,C,C,C
+CSAT_korean_23_34,2,C,C,C
+CSAT_korean_22_1,0,B,B,B
+CSAT_korean_22_1,1,B,B,B
+CSAT_korean_22_1,2,B,B,B
+CSAT_korean_22_2,0,E,E,E
+CSAT_korean_22_2,1,E,E,E
+CSAT_korean_22_2,2,E,E,E
+CSAT_korean_22_3,0,A,A,A
+CSAT_korean_22_3,1,A,A,A
+CSAT_korean_22_3,2,A,A,A
+CSAT_korean_22_4,0,A,C,C
+CSAT_korean_22_4,1,A,C,C
+CSAT_korean_22_4,2,A,C,C
+CSAT_korean_22_5,0,C,C,C
+CSAT_korean_22_5,1,C,C,C
+CSAT_korean_22_5,2,C,C,C
+CSAT_korean_22_6,0,D,D,D
+CSAT_korean_22_6,1,D,D,D
+CSAT_korean_22_6,2,D,D,D
+CSAT_korean_22_7,0,C,C,C
+CSAT_korean_22_7,1,C,C,C
+CSAT_korean_22_7,2,C,C,C
+CSAT_korean_22_8,0,B,D,D
+CSAT_korean_22_8,1,B,D,D
+CSAT_korean_22_8,2,B,D,D
+CSAT_korean_22_9,0,C,E,E
+CSAT_korean_22_9,1,C,E,E
+CSAT_korean_22_9,2,C,E,E
+CSAT_korean_22_10,0,B,B,B
+CSAT_korean_22_10,1,B,B,B
+CSAT_korean_22_10,2,B,B,B
+CSAT_korean_22_11,0,E,A,A
+CSAT_korean_22_11,1,E,A,A
+CSAT_korean_22_11,2,E,A,A
+CSAT_korean_22_12,0,E,E,E
+CSAT_korean_22_12,1,E,E,E
+CSAT_korean_22_12,2,E,E,E
+CSAT_korean_22_13,0,D,D,D
+CSAT_korean_22_13,1,D,C,C
+CSAT_korean_22_13,2,D,C,C
+CSAT_korean_22_14,0,D,D,D
+CSAT_korean_22_14,1,D,D,D
+CSAT_korean_22_14,2,D,D,D
+CSAT_korean_22_15,0,B,C,C
+CSAT_korean_22_15,1,B,C,C
+CSAT_korean_22_15,2,B,C,C
+CSAT_korean_22_16,0,D,C,C
+CSAT_korean_22_16,1,D,C,C
+CSAT_korean_22_16,2,D,C,C
+CSAT_korean_22_17,0,A,D,D
+CSAT_korean_22_17,1,A,D,D
+CSAT_korean_22_17,2,A,D,D
+CSAT_korean_22_18,0,C,C,C
+CSAT_korean_22_18,1,C,C,C
+CSAT_korean_22_18,2,C,C,C
+CSAT_korean_22_19,0,C,C,C
+CSAT_korean_22_19,1,C,C,C
+CSAT_korean_22_19,2,C,C,C
+CSAT_korean_22_20,0,B,B,B
+CSAT_korean_22_20,1,B,B,B
+CSAT_korean_22_20,2,B,B,B
+CSAT_korean_22_21,0,D,D,D
+CSAT_korean_22_21,1,D,D,D
+CSAT_korean_22_21,2,D,D,D
+CSAT_korean_22_22,0,A,A,A
+CSAT_korean_22_22,1,A,A,A
+CSAT_korean_22_22,2,A,A,A
+CSAT_korean_22_23,0,D,D,D
+CSAT_korean_22_23,1,D,C,C
+CSAT_korean_22_23,2,D,C,C
+CSAT_korean_22_24,0,D,D,D
+CSAT_korean_22_24,1,D,D,D
+CSAT_korean_22_24,2,D,D,D
+CSAT_korean_22_25,0,C,C,C
+CSAT_korean_22_25,1,C,C,C
+CSAT_korean_22_25,2,C,C,C
+CSAT_korean_22_26,0,E,E,E
+CSAT_korean_22_26,1,E,E,E
+CSAT_korean_22_26,2,E,E,E
+CSAT_korean_22_27,0,E,E,E
+CSAT_korean_22_27,1,E,E,E
+CSAT_korean_22_27,2,E,E,E
+CSAT_korean_22_28,0,B,D,D
+CSAT_korean_22_28,1,B,D,D
+CSAT_korean_22_28,2,B,D,D
+CSAT_korean_22_29,0,A,A,A
+CSAT_korean_22_29,1,A,A,A
+CSAT_korean_22_29,2,A,A,A
+CSAT_korean_22_30,0,C,A,A
+CSAT_korean_22_30,1,C,A,A
+CSAT_korean_22_30,2,C,A,A
+CSAT_korean_22_31,0,E,E,E
+CSAT_korean_22_31,1,E,E,E
+CSAT_korean_22_31,2,E,E,E
+CSAT_korean_22_32,0,D,D,D
+CSAT_korean_22_32,1,D,D,D
+CSAT_korean_22_32,2,D,D,D
+CSAT_korean_22_33,0,E,E,E
+CSAT_korean_22_33,1,E,E,E
+CSAT_korean_22_33,2,E,E,E
+CSAT_korean_22_34,0,C,C,C
+CSAT_korean_22_34,1,C,C,C
+CSAT_korean_22_34,2,C,C,C
+TK_2016_5,0,A,A,A
+TK_2016_5,1,A,A,A
+TK_2016_5,2,A,A,A
+TK_2016_6,0,B,B,B
+TK_2016_6,1,B,B,B
+TK_2016_6,2,B,B,B
+TK_2016_7,0,D,D,D
+TK_2016_7,1,D,D,D
+TK_2016_7,2,D,D,D
+TK_2016_8,0,B,B,B
+TK_2016_8,1,B,B,B
+TK_2016_8,2,B,B,B
+TK_2016_9,0,B,B,B
+TK_2016_9,1,B,B,B
+TK_2016_9,2,B,B,B
+TK_2016_10,0,D,D,D
+TK_2016_10,1,D,D,D
+TK_2016_10,2,D,D,D
+TK_2016_11,0,A,A,A
+TK_2016_11,1,A,A,A
+TK_2016_11,2,A,A,A
+TK_2016_12,0,A,C,C
+TK_2016_12,1,A,C,C
+TK_2016_12,2,A,C,C
+TK_2016_13,0,B,A,A
+TK_2016_13,1,B,A,A
+TK_2016_13,2,B,A,A
+TK_2016_14,0,C,C,C
+TK_2016_14,1,C,C,C: (나)-(가)-(라)-(다)
+TK_2016_14,2,C,C,C: (나)-(가)-(라)-(다)
+TK_2016_15,0,B,B,B
+TK_2016_15,1,B,B,B
+TK_2016_15,2,B,B,B: 표현력을 높이는 데에
+TK_2016_16,0,C,C,C
+TK_2016_16,1,C,C,C
+TK_2016_16,2,C,C,C
+TK_2016_17,0,D,D,D
+TK_2016_17,1,D,D,D
+TK_2016_17,2,D,D,D
+TK_2016_18,0,B,B,B
+TK_2016_18,1,B,B,B: 물론
+TK_2016_18,2,B,B,B: 물론
+TK_2016_19,0,D,D,D
+TK_2016_19,1,D,D,D
+TK_2016_19,2,D,D,D
+TK_2016_20,0,A,C,C
+TK_2016_20,1,A,C,C
+TK_2016_20,2,A,A,A
+TK_2016_21,0,B,B,B
+TK_2016_21,1,B,B,B
+TK_2016_21,2,B,B,B
+TK_2016_22,0,D,D,D
+TK_2016_22,1,D,D,D
+TK_2016_22,2,D,D,D
+TK_2016_23,0,C,C,C
+TK_2016_23,1,C,C,C
+TK_2016_23,2,C,C,C
+TK_2016_24,0,D,D,D
+TK_2016_24,1,D,D,D
+TK_2016_24,2,D,D,D
+TK_2016_25,0,A,A,A
+TK_2016_25,1,A,A,A
+TK_2016_25,2,A,A,A
+TK_2016_26,0,D,D,D
+TK_2016_26,1,D,D,D
+TK_2016_26,2,D,D,D
+TK_2016_27,0,C,C,C
+TK_2016_27,1,C,C,C
+TK_2016_27,2,C,C,C
+TK_2016_28,0,A,A,A: 전문가를 활용하는
+TK_2016_28,1,A,A,A: 전문가를 활용하는
+TK_2016_28,2,A,A,A: 전문가를 활용하는
+TK_2016_29,0,B,B,B
+TK_2016_29,1,B,B,B
+TK_2016_29,2,B,B,B
+TK_2016_30,0,A,A,A
+TK_2016_30,1,A,A,A
+TK_2016_30,2,A,A,A
+TK_2016_31,0,D,D,D
+TK_2016_31,1,D,D,D
+TK_2016_31,2,D,D,D
+TK_2016_32,0,D,D,D
+TK_2016_32,1,D,D,D
+TK_2016_32,2,D,D,D
+TK_2016_33,0,C,C,C
+TK_2016_33,1,C,C,C
+TK_2016_33,2,C,C,C
+TK_2016_34,0,A,A,A
+TK_2016_34,1,A,A,A
+TK_2016_34,2,A,A,A
+TK_2016_35,0,D,D,D
+TK_2016_35,1,D,D,D
+TK_2016_35,2,D,D,D
+TK_2016_36,0,C,C,C
+TK_2016_36,1,C,C,C
+TK_2016_36,2,C,C,C
+TK_2016_37,0,B,B,B
+TK_2016_37,1,B,B,B
+TK_2016_37,2,B,B,B
+TK_2016_38,0,B,B,B
+TK_2016_38,1,B,B,B
+TK_2016_38,2,B,B,B
+TK_2016_39,0,B,C,C
+TK_2016_39,1,B,C,C
+TK_2016_39,2,B,C,C
+TK_2016_40,0,B,B,B
+TK_2016_40,1,B,B,B
+TK_2016_40,2,B,B,B
+TK_2016_41,0,A,A,A
+TK_2016_41,1,A,A,A
+TK_2016_41,2,A,A,A
+TK_2016_42,0,B,B,B
+TK_2016_42,1,B,B,B
+TK_2016_42,2,B,B,B
+TK_2016_43,0,A,C,C
+TK_2016_43,1,A,C,C
+TK_2016_43,2,A,C,C
+TK_2016_44,0,C,C,C
+TK_2016_44,1,C,C,C
+TK_2016_44,2,C,C,C
+TK_2016_45,0,C,,정답: D
+TK_2016_45,1,C,D,D
+TK_2016_45,2,C,B,B
+TK_2016_46,0,B,D,D
+TK_2016_46,1,B,A,A
+TK_2016_46,2,B,A,A
+TK_2016_47,0,D,D,D
+TK_2016_47,1,D,D,D
+TK_2016_47,2,D,D,D
+TK_2016_48,0,D,D,D
+TK_2016_48,1,D,D,D: 창의성이 발휘될 수 있는
+TK_2016_48,2,D,D,D: 창의성이 발휘될 수 있는
+TK_2016_49,0,A,A,A
+TK_2016_49,1,A,A,A
+TK_2016_49,2,A,A,A
+TK_2017_5,0,B,B,B
+TK_2017_5,1,B,B,B
+TK_2017_5,2,B,B,B
+TK_2017_6,0,B,B,B
+TK_2017_6,1,B,B,B
+TK_2017_6,2,B,B,B
+TK_2017_7,0,A,A,A
+TK_2017_7,1,A,A,A
+TK_2017_7,2,A,A,A
+TK_2017_8,0,B,B,B
+TK_2017_8,1,B,B,B
+TK_2017_8,2,B,B,B
+TK_2017_9,0,A,A,A
+TK_2017_9,1,A,A,A
+TK_2017_9,2,A,A,A
+TK_2017_10,0,A,A,A
+TK_2017_10,1,A,A,A
+TK_2017_10,2,A,A,A
+TK_2017_11,0,B,B,B
+TK_2017_11,1,B,B,B
+TK_2017_11,2,B,B,B
+TK_2017_12,0,A,A,A
+TK_2017_12,1,A,A,A
+TK_2017_12,2,A,A,A
+TK_2017_13,0,B,A,A
+TK_2017_13,1,B,A,A
+TK_2017_13,2,B,A,A
+TK_2017_14,0,C,C,C
+TK_2017_14,1,C,C,C
+TK_2017_14,2,C,C,C
+TK_2017_15,0,B,B,B
+TK_2017_15,1,B,B,B
+TK_2017_15,2,B,B,B
+TK_2017_16,0,B,B,B
+TK_2017_16,1,B,B,B
+TK_2017_16,2,B,B,B
+TK_2017_17,0,C,C,C: 물건들을 집에 쌓아 두는
+TK_2017_17,1,C,C,C: 물건들을 집에 쌓아 두는
+TK_2017_17,2,C,C,C: 물건들을 집에 쌓아 두는
+TK_2017_18,0,B,B,B
+TK_2017_18,1,B,B,B
+TK_2017_18,2,B,B,B
+TK_2017_19,0,A,A,A
+TK_2017_19,1,A,A,A
+TK_2017_19,2,A,A,A
+TK_2017_20,0,D,D,D
+TK_2017_20,1,D,D,D
+TK_2017_20,2,D,D,D
+TK_2017_21,0,D,D,D
+TK_2017_21,1,D,D,D
+TK_2017_21,2,D,D,D
+TK_2017_22,0,C,C,C: 후회스럽다
+TK_2017_22,1,C,C,C: 후회스럽다
+TK_2017_22,2,C,C,C: 후회스럽다
+TK_2017_23,0,B,B,B
+TK_2017_23,1,B,B,B
+TK_2017_23,2,B,B,B
+TK_2017_24,0,A,A,A
+TK_2017_24,1,A,A,A
+TK_2017_24,2,A,A,A
+TK_2017_25,0,C,C,C
+TK_2017_25,1,C,C,C
+TK_2017_25,2,C,C,C
+TK_2017_26,0,D,D,D
+TK_2017_26,1,D,D,D
+TK_2017_26,2,D,D,D
+TK_2017_27,0,C,C,C
+TK_2017_27,1,C,C,C
+TK_2017_27,2,C,C,C
+TK_2017_28,0,B,B,B
+TK_2017_28,1,B,B,B
+TK_2017_28,2,B,B,B
+TK_2017_29,0,C,C,C
+TK_2017_29,1,C,C,C
+TK_2017_29,2,C,C,C
+TK_2017_30,0,D,D,D
+TK_2017_30,1,D,D,D
+TK_2017_30,2,D,D,D
+TK_2017_31,0,A,A,A
+TK_2017_31,1,A,A,A
+TK_2017_31,2,A,A,A
+TK_2017_32,0,C,C,C
+TK_2017_32,1,C,C,C
+TK_2017_32,2,C,C,C
+TK_2017_33,0,D,D,D
+TK_2017_33,1,D,D,D
+TK_2017_33,2,D,D,D
+TK_2017_34,0,D,D,D
+TK_2017_34,1,D,D,D
+TK_2017_34,2,D,D,D
+TK_2017_35,0,B,B,B
+TK_2017_35,1,B,B,B
+TK_2017_35,2,B,B,B
+TK_2017_36,0,C,C,C
+TK_2017_36,1,C,C,C
+TK_2017_36,2,C,C,C
+TK_2017_37,0,A,A,A
+TK_2017_37,1,A,A,A
+TK_2017_37,2,A,A,A
+TK_2017_38,0,D,C,C
+TK_2017_38,1,D,C,C
+TK_2017_38,2,D,C,C
+TK_2017_39,0,D,D,D
+TK_2017_39,1,D,D,D
+TK_2017_39,2,D,D,D
+TK_2017_40,0,C,C,C
+TK_2017_40,1,C,C,C
+TK_2017_40,2,C,C,C
+TK_2017_41,0,C,C,C: 감격스럽다
+TK_2017_41,1,C,C,C: 감격스럽다
+TK_2017_41,2,C,C,C: 감격스럽다
+TK_2017_42,0,A,A,A
+TK_2017_42,1,A,A,A
+TK_2017_42,2,A,A,A
+TK_2017_43,0,C,C,C
+TK_2017_43,1,C,C,C
+TK_2017_43,2,C,C,C
+TK_2017_44,0,D,D,D
+TK_2017_44,1,D,D,D
+TK_2017_44,2,D,D,D
+TK_2017_45,0,A,D,D
+TK_2017_45,1,A,D,D
+TK_2017_45,2,A,D,D
+TK_2017_46,0,D,D,D
+TK_2017_46,1,D,D,D
+TK_2017_46,2,D,D,D
+TK_2017_47,0,D,D,D
+TK_2017_47,1,D,D,D
+TK_2017_47,2,D,D,D
+TK_2017_48,0,C,C,C
+TK_2017_48,1,C,C,C
+TK_2017_48,2,C,C,C
+TK_2018_5,0,C,C,C
+TK_2018_5,1,C,C,C
+TK_2018_5,2,C,C,C
+TK_2018_6,0,D,D,D
+TK_2018_6,1,D,D,D
+TK_2018_6,2,D,D,D
+TK_2018_7,0,C,C,C
+TK_2018_7,1,C,C,C
+TK_2018_7,2,C,C,C
+TK_2018_8,0,B,B,B
+TK_2018_8,1,B,B,B
+TK_2018_8,2,B,B,B
+TK_2018_9,0,D,D,D
+TK_2018_9,1,D,D,D
+TK_2018_9,2,D,D,D
+TK_2018_10,0,A,A,A
+TK_2018_10,1,A,A,A
+TK_2018_10,2,A,A,A
+TK_2018_11,0,B,B,B: (가)-(라)-(나)-(다)
+TK_2018_11,1,B,B,B
+TK_2018_11,2,B,B,B: (가)-(라)-(나)-(다)
+TK_2018_12,0,C,C,C
+TK_2018_12,1,C,C,C
+TK_2018_12,2,C,C,C: (다)-(가)-(라)-(나)
+TK_2018_13,0,D,D,D
+TK_2018_13,1,D,D,D
+TK_2018_13,2,D,D,D
+TK_2018_14,0,A,A,A
+TK_2018_14,1,A,A,A
+TK_2018_14,2,A,A,A
+TK_2018_15,0,B,B,B
+TK_2018_15,1,B,B,B
+TK_2018_15,2,B,B,B
+TK_2018_16,0,C,C,C
+TK_2018_16,1,C,C,C: 씨앗을 수집하는
+TK_2018_16,2,C,C,C: 씨앗을 수집하는
+TK_2018_17,0,C,C,C
+TK_2018_17,1,C,C,C
+TK_2018_17,2,C,C,C
+TK_2018_18,0,C,C,C
+TK_2018_18,1,C,C,C
+TK_2018_18,2,C,C,C
+TK_2018_19,0,D,D,D
+TK_2018_19,1,D,D,D
+TK_2018_19,2,D,D,D
+TK_2018_20,0,C,C,C
+TK_2018_20,1,C,C,C
+TK_2018_20,2,C,C,C
+TK_2018_21,0,D,D,D: 죄송스럽다
+TK_2018_21,1,D,D,D: 죄송스럽다
+TK_2018_21,2,D,D,D
+TK_2018_22,0,B,B,B
+TK_2018_22,1,B,B,B
+TK_2018_22,2,B,B,B
+TK_2018_23,0,A,A,A
+TK_2018_23,1,A,A,A
+TK_2018_23,2,A,A,A
+TK_2018_24,0,C,C,C
+TK_2018_24,1,C,C,C
+TK_2018_24,2,C,C,C
+TK_2018_25,0,B,B,B
+TK_2018_25,1,B,B,B
+TK_2018_25,2,B,B,B
+TK_2018_26,0,B,B,B
+TK_2018_26,1,B,B,B
+TK_2018_26,2,B,B,B
+TK_2018_27,0,D,D,D
+TK_2018_27,1,D,D,D
+TK_2018_27,2,D,D,D
+TK_2018_28,0,B,B,B: 유리에 막을 입힌
+TK_2018_28,1,B,B,B: 유리에 막을 입힌
+TK_2018_28,2,B,B,B: 유리에 막을 입힌
+TK_2018_29,0,A,A,A
+TK_2018_29,1,A,A,A
+TK_2018_29,2,A,A,A
+TK_2018_30,0,C,C,C
+TK_2018_30,1,C,C,C
+TK_2018_30,2,C,C,C
+TK_2018_31,0,C,C,C
+TK_2018_31,1,C,C,C
+TK_2018_31,2,C,C,C
+TK_2018_32,0,A,A,A
+TK_2018_32,1,A,A,A
+TK_2018_32,2,A,A,A
+TK_2018_33,0,C,C,C
+TK_2018_33,1,C,C,C
+TK_2018_33,2,C,C,C
+TK_2018_34,0,B,B,B
+TK_2018_34,1,B,B,B
+TK_2018_34,2,B,B,B
+TK_2018_35,0,D,D,D
+TK_2018_35,1,D,D,D
+TK_2018_35,2,D,D,D
+TK_2018_36,0,D,D,D
+TK_2018_36,1,D,D,D
+TK_2018_36,2,D,D,D
+TK_2018_37,0,A,A,A
+TK_2018_37,1,A,A,A
+TK_2018_37,2,A,A,A
+TK_2018_38,0,B,A,A
+TK_2018_38,1,B,A,A
+TK_2018_38,2,B,A,A
+TK_2018_39,0,D,D,D
+TK_2018_39,1,D,D,D
+TK_2018_39,2,D,D,D
+TK_2018_40,0,B,B,B: 서운하다
+TK_2018_40,1,B,B,B: 서운하다
+TK_2018_40,2,B,B,B: 서운하다
+TK_2018_41,0,D,D,D
+TK_2018_41,1,D,D,D
+TK_2018_41,2,D,D,D
+TK_2018_42,0,D,D,D
+TK_2018_42,1,D,D,D
+TK_2018_42,2,D,D,D
+TK_2018_43,0,B,D,D
+TK_2018_43,1,B,D,D
+TK_2018_43,2,B,D,D
+TK_2018_44,0,A,C,C
+TK_2018_44,1,A,C,C
+TK_2018_44,2,A,C,C
+TK_2018_45,0,D,A,A
+TK_2018_45,1,D,A,A
+TK_2018_45,2,D,A,A
+TK_2018_46,0,B,B,B
+TK_2018_46,1,B,B,B
+TK_2018_46,2,B,B,B: 세제 지원 조건의 문제점을 지적하려고
+TK_2018_47,0,A,A,A
+TK_2018_47,1,A,A,A
+TK_2018_47,2,A,A,A
+TK_2018_48,0,D,D,D
+TK_2018_48,1,D,D,D
+TK_2018_48,2,D,D,D
+TK_2019_5,0,A,A,A
+TK_2019_5,1,A,A,A
+TK_2019_5,2,A,A,A
+TK_2019_6,0,B,B,B
+TK_2019_6,1,B,B,B
+TK_2019_6,2,B,B,B
+TK_2019_7,0,D,D,D
+TK_2019_7,1,D,D,D
+TK_2019_7,2,D,D,D
+TK_2019_8,0,A,A,A
+TK_2019_8,1,A,A,A
+TK_2019_8,2,A,A,A
+TK_2019_9,0,B,B,B
+TK_2019_9,1,B,B,B
+TK_2019_9,2,B,B,B
+TK_2019_10,0,A,A,A
+TK_2019_10,1,A,A,A
+TK_2019_10,2,A,A,A
+TK_2019_11,0,C,C,C
+TK_2019_11,1,C,C,C
+TK_2019_11,2,C,C,C
+TK_2019_12,0,A,A,A: (가)-(다)-(나)-(라)
+TK_2019_12,1,A,A,A
+TK_2019_12,2,A,A,A: (가)-(다)-(나)-(라)
+TK_2019_13,0,C,C,C
+TK_2019_13,1,C,C,C
+TK_2019_13,2,C,C,C
+TK_2019_14,0,C,C,C
+TK_2019_14,1,C,,정답: C
+TK_2019_14,2,C,,정답: C
+TK_2019_15,0,D,D,D
+TK_2019_15,1,D,D,D
+TK_2019_15,2,D,D,D
+TK_2019_16,0,B,B,B
+TK_2019_16,1,B,B,B
+TK_2019_16,2,B,B,B
+TK_2019_17,0,D,D,D
+TK_2019_17,1,D,D,D
+TK_2019_17,2,D,D,D
+TK_2019_18,0,C,C,C
+TK_2019_18,1,C,C,C
+TK_2019_18,2,C,C,C
+TK_2019_19,0,C,C,C
+TK_2019_19,1,C,C,C
+TK_2019_19,2,C,C,C
+TK_2019_20,0,B,B,B: 진땀을 흘려
+TK_2019_20,1,B,B,B: 진땀을 흘려
+TK_2019_20,2,B,B,B: 진땀을 흘려
+TK_2019_21,0,C,C,C
+TK_2019_21,1,C,C,C
+TK_2019_21,2,C,C,C
+TK_2019_22,0,A,A,A
+TK_2019_22,1,A,A,A
+TK_2019_22,2,A,A,A
+TK_2019_23,0,B,B,B
+TK_2019_23,1,B,B,B
+TK_2019_23,2,B,B,B
+TK_2019_24,0,A,A,A
+TK_2019_24,1,A,A,A
+TK_2019_24,2,A,A,A
+TK_2019_25,0,D,D,D
+TK_2019_25,1,D,D,D
+TK_2019_25,2,D,D,D
+TK_2019_26,0,C,C,C
+TK_2019_26,1,C,C,C
+TK_2019_26,2,C,C,C
+TK_2019_27,0,D,D,D
+TK_2019_27,1,D,D,D
+TK_2019_27,2,D,D,D
+TK_2019_28,0,D,D,D
+TK_2019_28,1,D,D,D
+TK_2019_28,2,D,D,D
+TK_2019_29,0,B,B,B
+TK_2019_29,1,B,B,B: 취재 경계선이 무너지는
+TK_2019_29,2,B,B,B
+TK_2019_30,0,A,A,A
+TK_2019_30,1,A,A,A
+TK_2019_30,2,A,A,A
+TK_2019_31,0,B,B,B
+TK_2019_31,1,B,B,B
+TK_2019_31,2,B,B,B
+TK_2019_32,0,C,C,C
+TK_2019_32,1,C,C,C
+TK_2019_32,2,C,C,C
+TK_2019_33,0,B,B,B
+TK_2019_33,1,B,B,B
+TK_2019_33,2,B,B,B
+TK_2019_34,0,A,A,A
+TK_2019_34,1,A,A,A
+TK_2019_34,2,A,A,A
+TK_2019_35,0,D,D,D
+TK_2019_35,1,D,D,D
+TK_2019_35,2,D,D,D
+TK_2019_36,0,C,C,C
+TK_2019_36,1,C,C,C
+TK_2019_36,2,C,C,C
+TK_2019_37,0,D,D,D
+TK_2019_37,1,D,D,D
+TK_2019_37,2,D,D,D
+TK_2019_38,0,A,B,B
+TK_2019_38,1,A,B,B
+TK_2019_38,2,A,B,B
+TK_2019_39,0,C,D,D
+TK_2019_39,1,C,D,D
+TK_2019_39,2,C,D,D
+TK_2019_40,0,B,B,B
+TK_2019_40,1,B,B,B
+TK_2019_40,2,B,B,B
+TK_2019_41,0,A,A,A
+TK_2019_41,1,A,A,A
+TK_2019_41,2,A,A,A
+TK_2019_42,0,A,D,D
+TK_2019_42,1,A,D,D
+TK_2019_42,2,A,D,D
+TK_2019_43,0,D,D,D
+TK_2019_43,1,D,D,D
+TK_2019_43,2,D,D,D
+TK_2019_44,0,C,C,C
+TK_2019_44,1,C,C,C
+TK_2019_44,2,C,C,C
+TK_2019_45,0,D,C,C
+TK_2019_45,1,D,C,C
+TK_2019_45,2,D,C,C
+TK_2019_46,0,C,C,C
+TK_2019_46,1,C,C,C
+TK_2019_46,2,C,C,C
+TK_2019_47,0,D,D,D
+TK_2019_47,1,D,D,D
+TK_2019_47,2,D,D,D
+TK_2019_48,0,B,B,B: 업무의 충돌과 혼선으로
+TK_2019_48,1,B,B,B: 업무의 충돌과 혼선으로
+TK_2019_48,2,B,B,B: 업무의 충돌과 혼선으로
+TK_2019_49,0,B,B,B
+TK_2019_49,1,B,B,B
+TK_2019_49,2,B,B,B
+TK_2022_5,0,C,C,C
+TK_2022_5,1,C,C,C
+TK_2022_5,2,C,C,C
+TK_2022_6,0,B,B,B
+TK_2022_6,1,B,B,B
+TK_2022_6,2,B,B,B
+TK_2022_7,0,B,B,B
+TK_2022_7,1,B,B,B
+TK_2022_7,2,B,B,B
+TK_2022_8,0,A,A,A
+TK_2022_8,1,A,A,A
+TK_2022_8,2,A,A,A
+TK_2022_9,0,A,A,A
+TK_2022_9,1,A,A,A
+TK_2022_9,2,A,A,A
+TK_2022_10,0,B,B,B
+TK_2022_10,1,B,B,B
+TK_2022_10,2,B,B,B
+TK_2022_11,0,B,B,B
+TK_2022_11,1,B,B,B
+TK_2022_11,2,B,B,B
+TK_2022_12,0,A,A,A
+TK_2022_12,1,A,A,A
+TK_2022_12,2,A,A,A
+TK_2022_13,0,D,D,D
+TK_2022_13,1,D,D,D
+TK_2022_13,2,D,D,D
+TK_2022_14,0,B,B,B
+TK_2022_14,1,B,B,B
+TK_2022_14,2,B,B,B
+TK_2022_15,0,C,C,C: 다양한 물건에 붙여
+TK_2022_15,1,C,C,C
+TK_2022_15,2,C,C,C: 다양한 물건에 붙여
+TK_2022_16,0,B,B,B
+TK_2022_16,1,B,B,B: 디자인을 신중하게
+TK_2022_16,2,B,B,B: 디자인을 신중하게
+TK_2022_17,0,C,C,C
+TK_2022_17,1,C,C,C: 일본의 텃새가 관찰된
+TK_2022_17,2,C,C,C: 일본의 텃새가 관찰된
+TK_2022_18,0,D,D,D
+TK_2022_18,1,D,D,D
+TK_2022_18,2,D,D,D
+TK_2022_19,0,A,A,A
+TK_2022_19,1,A,A,A
+TK_2022_19,2,A,A,A
+TK_2022_20,0,C,C,C
+TK_2022_20,1,C,C,C
+TK_2022_20,2,C,C,C
+TK_2022_21,0,C,C,C
+TK_2022_21,1,C,C,C
+TK_2022_21,2,C,C,C
+TK_2022_22,0,A,A,A
+TK_2022_22,1,A,A,A
+TK_2022_22,2,A,A,A
+TK_2022_23,0,D,D,D
+TK_2022_23,1,D,D,D
+TK_2022_23,2,D,D,D
+TK_2022_24,0,A,A,A
+TK_2022_24,1,A,A,A
+TK_2022_24,2,A,A,A
+TK_2022_25,0,C,C,C
+TK_2022_25,1,C,C,C
+TK_2022_25,2,C,C,C
+TK_2022_26,0,A,A,A
+TK_2022_26,1,A,A,A
+TK_2022_26,2,A,A,A
+TK_2022_27,0,D,D,D
+TK_2022_27,1,D,D,D
+TK_2022_27,2,D,D,D
+TK_2022_28,0,A,A,A
+TK_2022_28,1,A,A,A
+TK_2022_28,2,A,A,A
+TK_2022_29,0,B,B,B
+TK_2022_29,1,B,B,B
+TK_2022_29,2,B,B,B
+TK_2022_30,0,D,D,D
+TK_2022_30,1,D,D,D
+TK_2022_30,2,D,D,D
+TK_2022_31,0,D,D,D
+TK_2022_31,1,D,D,D
+TK_2022_31,2,D,D,D
+TK_2022_32,0,A,A,A
+TK_2022_32,1,A,A,A
+TK_2022_32,2,A,A,A
+TK_2022_33,0,D,D,D
+TK_2022_33,1,D,D,D
+TK_2022_33,2,D,D,D
+TK_2022_34,0,B,B,B
+TK_2022_34,1,B,B,B
+TK_2022_34,2,B,B,B
+TK_2022_35,0,D,D,D
+TK_2022_35,1,D,D,D
+TK_2022_35,2,D,D,D
+TK_2022_36,0,D,D,D
+TK_2022_36,1,D,D,D
+TK_2022_36,2,D,D,D
+TK_2022_37,0,B,B,B
+TK_2022_37,1,B,B,B
+TK_2022_37,2,B,B,B
+TK_2022_41,0,B,B,B: 의심스럽다
+TK_2022_41,1,B,B,B: 의심스럽다
+TK_2022_41,2,B,B,B: 의심스럽다
+TK_2022_42,0,A,A,A
+TK_2022_42,1,A,A,A
+TK_2022_42,2,A,A,A
+TK_2022_43,0,C,C,C
+TK_2022_43,1,C,C,C
+TK_2022_43,2,C,C,C
+TK_2022_44,0,D,D,D
+TK_2022_44,1,D,D,D
+TK_2022_44,2,D,D,D
+TK_2022_45,0,A,A,A
+TK_2022_45,1,A,A,A
+TK_2022_45,2,A,A,A
+TK_2022_46,0,C,C,C
+TK_2022_46,1,C,C,C
+TK_2022_46,2,C,C,C
