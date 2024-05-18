@@ -4,11 +4,13 @@
 
 추가적인 분석을 하고 싶으실 수도 있을 것 같아서, 평가 코드와 평가를 위해 수집한 LLM 응답을 csv 파일로 저장해두었습니다.
 
-👉 Learn more about **CLIcK** - [paper](https://arxiv.org/abs/2403.06412), [code](https://github.com/rladmstn1714/CLIcK/blob/main/README.md), [huggingface](https://huggingface.co/datasets/EunsuKim/CLIcK)
+👉 Learn more about **CLIcK** - [paper](https://arxiv.org/abs/2403.06412), [repository](https://github.com/rladmstn1714/CLIcK/blob/main/README.md), [huggingface](https://huggingface.co/datasets/EunsuKim/CLIcK)
 
 ## Results
 
-원 논문에서 SOTA 였던 GPT-3.5, Claude 2 모델과 GPT-4-turbo, GPT-4o를 비교해보았습니다. GPT-4-turbo만 하더라도 GPT-3.5, Claude 2를 크게 이겼는데, GPT-4o는 GPT-4-turbo도 이겼습니다. 이렇게까지 차이가 날줄은 예상하지 못했는데요. GPT-4o가 가히 압도적으로 GPT-4-turbo를 모든 카테고리에서 이겼습니다. Average 값만 보아도 정말 큰 향상이 이뤄진 것을 알 수 있습니다.
+> [!IMPORTANT]
+> * 원 논문에서 SOTA 였던 GPT-3.5, Claude 2 모델과 GPT-4-turbo, GPT-4o를 비교해보았습니다. GPT-4-turbo만 하더라도 GPT-3.5, Claude 2를 크게 이겼는데, GPT-4o는 GPT-4-turbo도 이겼습니다.
+> * 이렇게까지 차이가 날줄은 예상하지 못했는데요. GPT-4o가 가히 압도적으로 GPT-4-turbo를 모든 카테고리에서 이겼습니다. Average 값만 보아도 정말 큰 향상이 이뤄진 것을 알 수 있습니다.
 
 **Conclusion: GPT-4o가 한국어, 한국 문화에 대해서도 성능이 많이 늘었다는 걸 체감해볼 수 있었습니다. GPT-4o를 쓰지 않을 이유가 없네요.**
 
@@ -27,9 +29,6 @@
 | Functional     | 36.62   | 32.88   | 78.13       | **83.47**   |
 | Grammar        | 36.62   | 47.42   | 44.17       | **56.94**   |
 | **Average**    | **42.32**   | **45.39**   | **69.79**  | **77.08**   |
-
-
-
 
 ## Some Issues
 
@@ -95,16 +94,17 @@ python main.py
 ❯ python eval.py
                  mean  count
 category                    
-Economy      0.892655    177
-Functional   0.737589    423
-Geography    0.806616    393
-History      0.439286    840
-Law          0.599696    657
-Politics     0.861111    252
-Pop Culture  0.918699    123
-Society      0.860841    927
-Textual      0.877193    855
-Tradition    0.794294    666
+Economy      0.932203    177
+Functional   0.834667    375
+Geography    0.814249    393
+Grammar      0.569444    720
+History      0.651190    840
+Law          0.681887    657
+Politics     0.892857    252
+Pop Culture  0.975610    123
+Society      0.912621    927
+Textual      0.912281    855
+Tradition    0.861862    666
 ```
 
 ### Acknowledgement
