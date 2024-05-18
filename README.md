@@ -48,7 +48,7 @@ id: KIIP_society_120 (2), answer: A, pred: A, response: A: 요금 할인
 id: KIIP_society_111 (1), answer: D, pred: D, response: D: 신분증
 ```
 
-### Dataset Issue
+### 2. Dataset Issue
 
 데이터셋 상에 이슈가 있어서, 원본 레포에 이슈를 등록해둔 상태입니다. 이슈가 된 데이터 예시는 다음과 같습니다.
 
